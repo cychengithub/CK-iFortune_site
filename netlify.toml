@@ -5,5 +5,5 @@
   publish = "site"
 
 [build.environment]
-  # 確保 Netlify 使用 Python 3.11 執行
+  # 確保 Netlify 使用 Python 3.12 執行
   PYTHON_VERSION = "3.12"
