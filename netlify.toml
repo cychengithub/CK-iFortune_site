@@ -1,0 +1,9 @@
+[build]
+  # 執行 MkDocs 建構指令
+  command = "pip install -r requirements.txt && mkdocs build"
+  # MkDocs 的輸出目錄
+  publish = "site"
+
+[build.environment]
+  # 確保 Netlify 使用 Python 3.12 執行
+  PYTHON_VERSION = "3.12"
