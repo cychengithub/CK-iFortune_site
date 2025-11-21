@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # 📊 總體經濟 Macro Economics 總覽
 
 !!! abstract "領域簡介"

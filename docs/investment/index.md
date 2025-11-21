@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # 📈 投資 Investment 總覽
 
 !!! abstract "領域簡介"

@@ -1,19 +1,40 @@
+# ----------------------------------------------------
+# MkDocs 最終配置檔案 (Final Configuration)
+# ----------------------------------------------------
+
 site_name: CK Intelligent Fortune 數位花園
 
 # 這是您的 GitHub 儲存庫網址，用於顯示「編輯此頁面」按鈕
 repo_url: https://github.com/cychengithub/CK-iFortune_site
 
-# --- 這裡新增/修改為 Material 主題 ---
+# --- 主題與功能設定 ---
 theme:
   name: material
   features:
-    - content.action.edit  # 可選，提供編輯連結
-
+    - content.action.edit  # 啟用「編輯此頁面」按鈕
+  
+# --- 樣式連結 ---
 extra_css:
-  - css/custom.css
-# -------------------------------------
+  - css/custom.css # <-- 連結您調整字體的 CSS 檔案
+
+# --- 外掛設定 (Plugins) ---
 plugins:
-  - section-index
-  # 請將外掛名稱修改為這個：
-  - git-revision-date-localized
-  - search
+  - section-index             # 處理階層式導航和展開
+  - git-revision-date-localized # 顯示最後更新時間
+  - search                      # 啟用網站搜索功能
+
+# --- 導航結構 (Custom Titles & Order) ---
+# 這次使用資料夾路徑 'folder/' 來確保與 section-index 兼容，修復名稱問題
+nav:
+  - 🏡 首頁: index.md
+  - 📚 知識圖譜 (主要分類):
+    # Fix：將 Ai 改為 AI，並加入 Emoji
+    - 🤖 人工智慧 AI Technology: 'ai-tech/'
+    # 使用完整的自定義名稱
+    - 🧬 醫藥 & 生物科技 Bio & Life Science: 'bio-life-science/'
+    - 📈 投資 Investment: 'investment/'
+    - 🎨 生活與藝術 Life & Art: 'life-art/'
+    - 📊 總體經濟 Macro Economics: 'macro/'
+    - ⚙️ 一般科學技術 General Tech: 'general-tech/'
+
+# ----------------------------------------------------

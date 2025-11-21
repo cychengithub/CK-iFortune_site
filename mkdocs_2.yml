@@ -1,0 +1,19 @@
+site_name: CK Intelligent Fortune 數位花園
+
+# 這是您的 GitHub 儲存庫網址，用於顯示「編輯此頁面」按鈕
+repo_url: https://github.com/cychengithub/CK-iFortune_site
+
+# --- 這裡新增/修改為 Material 主題 ---
+theme:
+  name: material
+  features:
+    - content.action.edit  # 可選，提供編輯連結
+
+extra_css:
+  - css/custom.css
+# -------------------------------------
+plugins:
+  - section-index
+  # 請將外掛名稱修改為這個：
+  - git-revision-date-localized
+  - search

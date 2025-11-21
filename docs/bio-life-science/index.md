@@ -1,4 +1,8 @@
-# 🧬 生物科技 Life Science 總覽
+---
+hide:
+  - toc
+---
+# 🧬 醫藥 & 生物科技 Bio & Life Science 總覽
 
 !!! abstract "領域簡介"
     此分類專注於基因工程 (CRISPR)、醫藥研發、生物信息學、醫療設備創新以及生物科技產業的最新動態分析。
