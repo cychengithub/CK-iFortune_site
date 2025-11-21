@@ -14,9 +14,9 @@ plugins:
 nav:
   - 🏡 首頁: index.md
   - 📚 知識圖譜 (主要分類):  # <-- 新增這個頂層群組
-    - 📊 總體經濟 Macro Economics: 'macro/index.md' 
-    - 📈 投資 Investment: 'investment/index.md'
-    - 🤖 人工智慧 AI Technology: 'ai-tech/index.md'
-    - ⚙️ 一般科學技術 General Tech: 'general-tech/index.md'
-    - 🧬 生物科技 Life Science: 'bio-life-science/index.md'
-    - 🎨 生活與藝術 Life & Art : 'life-art/index.md'
+    - 📊 總體經濟 Macro Economics: 'macro/' 
+    - 📈 投資 Investment: 'investment/'
+    - 🤖 人工智慧 AI Technology: 'ai-tech/'
+    - ⚙️ 一般科學技術 General Tech: 'general-tech/'
+    - 🧬 生物科技 Life Science: 'bio-life-science/'
+    - 🎨 生活與藝術 Life & Art : 'life-art/'
