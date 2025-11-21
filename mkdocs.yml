@@ -3,7 +3,9 @@ site_name: CK Intelligent Fortune 數位花園
 # --- 這裡新增/修改為 Material 主題 ---
 theme:
   name: material
-  
+
+extra_css:
+  - css/custom.css
 # -------------------------------------
 plugins:
   - section-index
