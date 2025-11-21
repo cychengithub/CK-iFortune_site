@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: CK Intelligent Fortune 數位花園
+
+# --- 這裡新增/修改為 Material 主題 ---
+theme:
+  name: material
+  
+# -------------------------------------
+plugins:
+  - section-index
+
+# --- 修改導航結構 (nav) ---
+nav:
+  - 🏡 首頁: index.md
+  - 📚 知識圖譜 (主要分類):  # <-- 新增這個頂層群組
+    - 📊 總體經濟 Macro Economics: 'macro/index.md' 
+    - 📈 投資 Investment: 'investment/index.md'
+    - 🤖 人工智慧 AI Technology: 'ai-tech/index.md'
+    - ⚙️ 一般科學技術 General Tech: 'general-tech/index.md'
+    - 🧬 生物科技 Life Science: 'bio-life-science/index.md'
+    - 🎨 生活與藝術 Life & Art : 'life-art/index.md'
