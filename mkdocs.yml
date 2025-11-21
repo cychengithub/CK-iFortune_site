@@ -32,16 +32,22 @@ nav:
 
   - 📚 知識圖譜 (主要分類):
       - 🤖 人工智慧 AI Technology:
+          - ai-tech/index.md   # <= VERY IMPORTANT
           - ai-tech/
       - 🧬 醫藥 & 生物科技 Bio & Life Science:
+          - bio-life-science/index.md
           - bio-life-science/
       - 📈 投資 Investment:
+          - investment/index.md
           - investment/
       - 🎨 生活與藝術 Life & Art:
+          - life-art/index.md
           - life-art/
       - 📊 總體經濟 Macro Economics:
+          - macro/index.md
           - macro/
       - ⚙️ 一般科學技術 General Tech:
+          - general-tech/index.md
           - general-tech/
 
 # ----------------------------------------------------
