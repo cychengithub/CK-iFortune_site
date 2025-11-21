@@ -4,13 +4,13 @@
 
 /* 調整主要內文的字體大小，例如從 16px 增加到 18px */
 .md-typeset {
-    font-size: 1.125em;
+    font-size: 1.2em;
     /* 相當於約 18px */
 }
 
 /* 調整左側導航欄的字體大小 */
 .md-nav__item {
-    font-size: 1.0em;
+    font-size: 1.1em;
 }
 
 /* 如果需要調整顏色，範例：*/
