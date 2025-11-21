@@ -29,14 +29,19 @@ plugins:
 # 這次使用資料夾路徑 'folder/' 來確保與 section-index 兼容，修復名稱問題
 nav:
   - 🏡 首頁: index.md
+
   - 📚 知識圖譜 (主要分類):
-    # Fix：將 Ai 改為 AI，並加入 Emoji
-    - 🤖 人工智慧 AI Technology: 'ai-tech/'
-    # 使用完整的自定義名稱
-    - 🧬 醫藥 & 生物科技 Bio & Life Science: 'bio-life-science/'
-    - 📈 投資 Investment: 'investment/'
-    - 🎨 生活與藝術 Life & Art: 'life-art/'
-    - 📊 總體經濟 Macro Economics: 'macro/'
-    - ⚙️ 一般科學技術 General Tech: 'general-tech/'
+      - 🤖 人工智慧 AI Technology:
+          - ai-tech/
+      - 🧬 醫藥 & 生物科技 Bio & Life Science:
+          - bio-life-science/
+      - 📈 投資 Investment:
+          - investment/
+      - 🎨 生活與藝術 Life & Art:
+          - life-art/
+      - 📊 總體經濟 Macro Economics:
+          - macro/
+      - ⚙️ 一般科學技術 General Tech:
+          - general-tech/
 
 # ----------------------------------------------------
