@@ -1,3 +1,4 @@
 mkdocs
 mkdocs-material
 mkdocs-section-index   # <-- 請檢查此行是否已存在且拼寫正確！
+mkdocs-git-revision-date-localized-plugin   # <-- 請確保是這個名稱！
