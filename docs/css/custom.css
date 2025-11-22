@@ -1,0 +1,41 @@
+/* --- 1. 強制內容變寬 (解決中間太窄) --- */
+.md-main__inner {
+    max-width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.md-typeset {
+    max-width: 100%;
+    font-size: 1.2em;
+    /* 基礎字體加大 */
+}
+
+/* --- 2. 左側導航欄美化 (區分目錄與檔案) --- */
+
+/* 針對「有子項目的目錄」(Folders) */
+.md-nav__item--nested>.md-nav__link {
+    color: #003366 !important;
+    /* 深藍色 */
+    font-weight: 900 !important;
+    /* 特粗體 */
+    font-size: 1.1em !important;
+    /* 比檔案大 */
+    opacity: 1;
+}
+
+/* 針對「沒有子項目的檔案」(Files) */
+.md-nav__item:not(.md-nav__item--nested)>.md-nav__link {
+    color: #666666 !important;
+    /* 灰色 */
+    font-weight: 400;
+    /* 一般粗細 */
+    font-size: 0.95em;
+    /* 稍微小一點 */
+}
+
+/* 滑鼠懸停效果 */
+.md-nav__link:hover {
+    color: #2980b9 !important;
+    /* 亮藍色 */
+}
