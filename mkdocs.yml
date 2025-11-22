@@ -21,9 +21,10 @@ extra_css:
 
 # --- 外掛設定 (Plugins) ---
 plugins:
-  - section-index             # 處理階層式導航和展開
-  - git-revision-date-localized # 顯示最後更新時間
-  - search                      # 啟用網站搜索功能
+  - search
+  - awesome-pages  # <-- 新增這個
+  - section-index
+  - git-revision-date-localized
 
 # --- 導航結構 (Custom Titles & Order) ---
 # 這次使用資料夾路徑 'folder/' 來確保與 section-index 兼容，修復名稱問題
