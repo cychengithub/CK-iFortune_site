@@ -1,3 +1,4 @@
+# AI運作成本分析
 
 1. 我們要算的是硬體的能力，也就是單位電力KWh 可以產生的算力 PFLOPS (FP32, FP16, FP8, FP4). PFLOPS/KW
 

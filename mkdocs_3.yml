@@ -27,13 +27,27 @@ plugins:
 
 # --- 導航結構 (Custom Titles & Order) ---
 # 這次使用資料夾路徑 'folder/' 來確保與 section-index 兼容，修復名稱問題
-# --- 修正後的導航結構 ---
 nav:
   - 🏡 首頁: index.md
-  # 注意：移除 '📚 知識圖譜'，直接列出分類，並確保沒有多餘縮排
-  - 🤖 人工智慧 AI Technology: 'ai-tech/'
-  - 🧬 醫藥 & 生物科技 Bio & Life Science: 'bio-life-science/'
-  - 📈 投資 Investment: 'investment/'
-  - 🎨 生活與藝術 Life & Art: 'life-art/'
-  - 📊 總體經濟 Macro Economics: 'macro/'
-  - ⚙️ 一般科學技術 General Tech: 'general-tech/'
+
+  - 📚 知識圖譜 (主要分類):
+      - 🤖 人工智慧 AI Technology:
+          - ai_tech/index.md
+          - ai_tech/
+      - 🧬 醫藥 & 生物科技 Bio & Life Science:
+          - bio_life_science/index.md
+          - bio_life_science/
+      - 📈 投資 Investment:
+          - investment/index.md
+          - investment/
+      - 🎨 生活與藝術 Life & Art:
+          - life_art/index.md
+          - life_art/
+      - 📊 總體經濟 Macro Economics:
+          - macro/index.md
+          - macro/
+      - ⚙️ 一般科學技術 General Tech:
+          - general_tech/index.md
+          - general_tech/
+
+# ----------------------------------------------------

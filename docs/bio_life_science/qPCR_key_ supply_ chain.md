@@ -1,4 +1,4 @@
-
+# 定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告
 ## **執行摘要 (Executive Summary)**
 
 定量聚合酶連鎖反應（Quantitative Polymerase Chain Reaction, qPCR）儀器作為現代分子診斷的黃金標準，其市場在後疫情時代經歷了結構性的轉變。從實驗室的基礎研究工具到臨床診斷的核心設備，qPCR 儀器的性能與可靠性完全取決於其內部複雜且精密的零組件生態系統。本報告旨在提供一份詳盡的技術與供應鏈分析，深入探討構成 qPCR 儀器的四大關鍵子系統：熱循環引擎（Thermal Cycling Engine）、光學激發系統（Optical Excitation System）、光學濾波與光路管理（Optical Emission & Management）、以及光電偵測系統（Detection Assembly）。
