@@ -31,9 +31,9 @@ plugins:
 nav:
   - 🏡 首頁: index.md
   # 注意：移除 '📚 知識圖譜'，直接列出分類，並確保沒有多餘縮排
-  - 🤖 人工智慧 AI Technology: 'ai-tech/'
-  - 🧬 醫藥 & 生物科技 Bio & Life Science: 'bio-life-science/'
+  - 🤖 人工智慧 AI Technology: 'ai_tech/'
+  - 🧬 醫藥 & 生物科技 Bio & Life Science: 'bio_life_science/'
   - 📈 投資 Investment: 'investment/'
-  - 🎨 生活與藝術 Life & Art: 'life-art/'
+  - 🎨 生活與藝術 Life & Art: 'life_art/'
   - 📊 總體經濟 Macro Economics: 'macro/'
-  - ⚙️ 一般科學技術 General Tech: 'general-tech/'
+  - ⚙️ 一般科學技術 General Tech: 'general_tech/'
