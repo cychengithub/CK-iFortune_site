@@ -18,43 +18,44 @@
     font-size: 1.2em;
 }
 
-/* 調整左側導航欄的字體大小 */
-.md-nav__item {
-    font-size: 1.2em;
-}
-
 /* ---------------------------------------------------- */
-/* 如果需要調整顏色，請在下方新增 */
-/* ---------------------------------------------------- */
-/* ---------------------------------------------------- */
-/* 左側導航欄優化：區分目錄與檔案 */
+/* 左側導航欄樣式優化 (Navigation Styling) */
 /* ---------------------------------------------------- */
 
-/* 1. 目錄名稱 (資料夾)：設為粗體、深藍色，字體稍大 */
+/* 1. 針對「目錄/資料夾」(Nested Items) 的樣式設定 */
+/* 這些是您希望變大、變深藍色的標題 */
 .md-nav__item--nested>.md-nav__link {
+    color: #003366 !important;
+    /* 深藍色 (Dark Blue) */
     font-weight: 900 !important;
     /* 特粗體 */
-    color: #2c3e50 !important;
-    /* 深藍色 */
-    font-size: 1.05em;
-    /* 稍微大一點 */
+    font-size: 1.15em !important;
+    /* 字體加大 */
+    opacity: 1 !important;
+    /* 確保不透明 */
+    margin-top: 8px;
+    /* 增加上方間距，區分不同區塊 */
 }
 
-/* 2. 檔案名稱 (文章)：設為一般粗細、灰色 */
+/* 2. 針對「文章/檔案」(Pages) 的樣式設定 */
+/* 這些維持一般樣式，形成對比 */
 .md-nav__item:not(.md-nav__item--nested)>.md-nav__link {
+    color: #555555;
+    /* 深灰色 */
     font-weight: 400;
     /* 一般粗細 */
-    color: #666666;
-    /* 灰色 */
+    font-size: 0.95em;
+    /* 稍微小一點，讓層次更分明 */
 }
 
-/* 3. 當滑鼠移到檔案上時，變色提示 */
-.md-nav__item:not(.md-nav__item--nested)>.md-nav__link:hover {
-    color: #2980b9;
+/* 3. 滑鼠移過去時的互動效果 */
+.md-nav__link:hover {
+    color: #2980b9 !important;
     /* 亮藍色 */
+    cursor: pointer;
 }
 
-/* 4. 調整左側選單的行距，讓它不要那麼擠 */
+/* 4. 調整左側選單的行距 */
 .md-nav__item {
     padding-top: 2px;
     padding-bottom: 2px;
