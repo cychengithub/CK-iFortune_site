@@ -26,6 +26,25 @@ plugins:
   - section-index
   - git-revision-date-localized
 
+# --- 新增這整個區塊 ---
+markdown_extensions:
+  # 標準與基礎功能
+  - admonition            # 啟用提示框 (例如 !!! note)
+  - codehilite:           # 啟用程式碼高亮
+      guess_lang: false
+  - toc:                  # 啟用目錄 (TOC) 生成
+      permalink: true
+  - sane_lists            # 更好的處理列表，避免意外中斷
+  - tables                # 啟用 Markdown 表格語法
+  - attr_list             # 啟用屬性清單 (例如 { .classname })
+
+  # 來自 Material 主題的擴展（如果適用）
+  - pymdownx.betterem      # 更好的強調 (粗體/斜體)
+  - pymdownx.details       # 啟用折疊區塊 (<details>)
+  - pymdownx.tasklist:    # 啟用任務列表 (例如 [ ] 和 [x])
+      custom_checkbox: true
+  - pymdownx.superfences  # 啟用更好的程式碼區塊 (這是解決程式碼區塊顯示問題的關鍵)
+
 # --- 導航結構 (Custom Titles & Order) ---
 # 這次使用資料夾路徑 'folder/' 來確保與 section-index 兼容，修復名稱問題
 # --- 修正後的導航結構 ---
