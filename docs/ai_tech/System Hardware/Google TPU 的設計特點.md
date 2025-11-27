@@ -1,5 +1,5 @@
-你要我做的事是：**請幫你深入研究 Google TPU 的設計特點、使用方式，以及它的優勢與缺點**。下面我先給結論，再展開。
-**一言以蔽之**：TPU 是 Google 為大模型訓練/推理打造的專用矩陣處理器，透過超大規模的**脈動陣列（MXU）**、高頻寬 **HBM** 與專用 **ICI** 互連，配合 **XLA 編譯器**（JAX／PyTorch XLA／TensorFlow）在雲端以「Pod→Slice→Multislice」的方式水平擴張。它在**集群規模的吞吐與能效**上很強，但生態與靈活性（尤其動態形狀與即時編譯體驗）相對 GPU/CUDA 生態弱一些。([Google Cloud](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm))
+
+TPU 是 Google 為大模型訓練/推理打造的專用矩陣處理器，透過超大規模的**脈動陣列（MXU）**、高頻寬 **HBM** 與專用 **ICI** 互連，配合 **XLA 編譯器**（JAX／PyTorch XLA／TensorFlow）在雲端以「Pod→Slice→Multislice」的方式水平擴張。它在**集群規模的吞吐與能效**上很強，但生態與靈活性（尤其動態形狀與即時編譯體驗）相對 GPU/CUDA 生態弱一些。([Google Cloud](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm))
 **設計特點（硬體與系統）**
 • **矩陣引擎（MXU, systolic array）**
 
@@ -45,4 +45,3 @@ v4 論文提出以**光學電路交換（OCS）重構拓撲、相較 InfiniBand 
 11. **暖機 + 編譯快取**：JAX/PyTorch XLA 都有快取與 profiling 工具，先熱身再進行壓測。([docs.jax.dev](https://docs.jax.dev/en/latest/persistent_compilation_cache.html?utm_source=chatgpt.com))
 12. **通訊/分片策略**：在 JAX 用 pjit/pmap 或在 PyTorch/XLA 用 SPMD/DistributedDataParallel，讓參數/激活分佈貼近 ICI 拓撲。([docs.pytorch.org](https://docs.pytorch.org/xla/master/accelerators/tpu.html?utm_source=chatgpt.com))
 13. **推理路徑**：LLM 建議評估 **vLLM on TPU（v6e）** 或 JetStream；在 GKE/Vertex 上一鍵擴展。([Google Cloud](https://cloud.google.com/kubernetes-engine/docs/tutorials/serve-vllm-tpu?utm_source=chatgpt.com))
-如果你願意，我可以根據你的**實際模型大小、上下文長度、資料管線與預算**，再幫你做一次「TPU（v5e/v5p/v6e）vs. GPU」的具體選型與成本/效能估算表，並附帶一份落地操作清單（建立 TPU VM、資料放置、JIT 暖機與監控儀表板）。

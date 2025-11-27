@@ -1,5 +1,5 @@
 
-你要我**比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200/GB200）在「$/FLOP」與「功耗/能效」上的差異**，並給你可操作的結論。
+**比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200/GB200）在「$/FLOP」與「功耗/能效」上的差異**
 
 下面分成兩部分：①能用公開資料給出的**量化近似**；②目前**無法精確量化**之處與判讀方法。所有計算都標註出處與假設。
 
@@ -61,9 +61,8 @@
 
 ---
 
-## 一句話總結
+## 總結
 
 - **今天能量化的**：TPU v6e 在**$/PFLOP-hr 粗估**上常優於 Blackwell；對自家前代**能效 +67%**。Blackwell 在**系統級推理**靠低精度與軟體堆疊能達到**極高的吞吐/功耗比**。 ([Google Cloud](https://cloud.google.com/blog/products/compute/trillium-sixth-generation-tpu-is-in-preview?utm_source=chatgpt.com))
 - **尚無法量化的**：**TPU v7（Ironwood）**的精確 FLOPS 與功耗尚未公開，需等 Google 釋出白皮書/定價或第三方大規模測試。 ([blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/?utm_source=chatgpt.com))
 
-如果你給我**你的模型（參數量/上下文長度）、目標吞吐與所在區域的雲端報價**，我可以幫你把上述方法**算成實際的「$/token」與「Wh/token」表格**，讓你立刻知道哪條路徑最省錢、最省電。
