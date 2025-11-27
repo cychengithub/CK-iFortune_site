@@ -50,7 +50,7 @@ Vera Rubin GPU cluster：
 * Power delivery（可能導入 800V HVDC）
 * 水冷分歧、manifold、quick disconnect、冷板數量全部提升
 
-➡️ 單櫃含的液冷 BOM 約為 GB200 的 $2\sim 2.5 \times$
+➡️ 單櫃含的液冷 BOM 約為 GB200 的 $2/sim 2.5 /times$
 
 ---
 
@@ -145,8 +145,8 @@ Rubin 架構的精神：
 
 ### **散熱廠毛利率下降幅度**
 
-* 水冷板既有毛利：$18% \sim 25%$
-* Rubin 量產後：$12% \sim 18%$（甚至可能更低）
+* 水冷板既有毛利：$18% /sim 25%$
+* Rubin 量產後：$12% /sim 18%$（甚至可能更低）
 
 ➡️ **全面接近 power/thermal 的「代工業毛利」**
 

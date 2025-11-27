@@ -9,7 +9,7 @@ KW/PFLOPS
 2. 我們要計算式的硬體的成本，這裡要計算的是單位算力 PFOPS 的固定硬體成本 $, 
 Fixed costs = depreciation costs + operation costs
 
-$$ COST_{\text{FLOPS}} = \$/PFLOPS  = \text{Running variable cost} + \text{Fixed cost}
+$$ COST_{/text{FLOPS}} = /$/PFLOPS  = /text{Running variable cost} + /text{Fixed cost}
 $$
 
 
