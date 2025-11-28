@@ -11,12 +11,14 @@
             "id": "6842efdb3dc70477",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Macro_economics/2025年12月1日美國聯準會將正式結束量化緊縮（QT）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.10.6"
+              "icon": "lucide-file",
+              "title": "2025年12月1日美國聯準會將正式結束量化緊縮（QT）"
             }
           }
         ]
@@ -181,15 +183,50 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "6842efdb3dc70477",
+  "active": "886fa7e24a8b7c12",
   "lastOpenFiles": [
-    "investment/高盛研究預測.md",
+    "AI_Tech/AI_Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務/attach.png",
+    "AI_Tech/AI_Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務/attach (2).png",
+    "AI_Tech/AI_Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務",
+    "AI_Tech/AI_Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務.md",
+    "AI_Tech/System_Hardware/index.md",
+    "AI_Tech/System_Hardware/雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md",
+    "AI_Tech/System_Hardware/比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200 GB200）在「$ per FLOP」與「功耗 能效」上的差異.md",
+    "AI_Tech/System_Hardware/NVIDIA 在 2026 年 Vera Rubin（VR）平台的伺服器機櫃，從 L6 → L10 長臂管理、液冷水冷板統一採購.md",
+    "AI_Tech/System_Hardware/Google TPU 的設計特點.md",
+    "AI_Tech/System_Hardware",
+    "AI_Tech/Software_Service/index.md",
+    "AI_Tech/Software_Service",
+    "AI_Tech/AI_Business/index.md",
+    "AI_Tech/AI_Business",
+    "investment/美銀首席策略師 Michael Hartnett (Hartnett) 提出的「BIG」投資.md",
+    "Macro_economics/index.md",
+    "Macro_economics/2025年12月1日美國聯準會將正式結束量化緊縮（QT）.md",
+    "Macro_economics",
+    "Life_art/index.md",
+    "Life_art",
+    "Investment/高盛研究預測/attach.png",
+    "Investment/高盛研究預測/attach-1.png",
+    "Investment/高盛研究預測",
+    "Investment/高盛研究預測.md",
+    "Investment/美銀首席策略師 Michael Hartnett (Hartnett) 提出的「BIG」投資.md",
+    "Investment/index.md",
+    "Investment",
+    "General_Tech/index.md",
+    "General_Tech",
+    "Bio_life_science/定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告.md",
+    "Bio_life_science/index.md",
+    "Bio_life_science/4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md",
+    "Bio_life_science",
+    "AI_Tech/Software Service/index.md",
+    "AI_Tech/System Hardware/NVIDIA 在 2026 年 Vera Rubin（VR）平台的伺服器機櫃，從 L6 → L10 長臂管理、液冷水冷板統一採購.md",
+    "AI_Tech/System Hardware/雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md",
+    "AI_Tech/System Hardware/比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200 GB200）在「$ per FLOP」與「功耗 能效」上的差異.md",
+    "AI_Tech/System Hardware/Google TPU 的設計特點.md",
+    "AI_Tech/System Hardware/index.md",
     "investment/高盛研究預測/attach.png",
     "investment/高盛研究預測/attach-1.png",
-    "investment/高盛研究預測",
-    "investment/美銀首席策略師 Michael Hartnett (Hartnett) 提出的「BIG」投資.md",
     "investment/高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7%/attach.png",
-    "investment/高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7%/attach-1.png",
-    "investment/高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7%"
+    "investment/高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7%/attach-1.png"
   ]
 }
