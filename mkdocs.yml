@@ -25,6 +25,7 @@ plugins:
   - awesome-pages  # <-- 新增這個
   - section-index
   - git-revision-date-localized
+      enable_parallel_processing: false
 
 # --- 新增這整個區塊 ---
 markdown_extensions:
