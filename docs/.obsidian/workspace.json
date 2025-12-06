@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "Investment/Netflix 併購華納兄弟 —— 矽谷對好萊塢的終極加冕 (2025-12-05).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Netflix 併購華納兄弟 —— 矽谷對好萊塢的終極加冕 (2025-12-05)"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
+    "index.md",
+    "Investment/Netflix 併購華納兄弟 —— 矽谷對好萊塢的終極加冕 (2025-12-05).md",
+    "AI Technology/AI Business/軟銀孫正義會見韓國總統李在明，共商 AI 戰略 (2025-12-06).md",
+    "AI Technology/AI Business/日本擬擴大 AI 與量子計算研發稅收抵免 (2025-12-06).md",
     "Investment/華爾街預測 2026 年美股續漲，但 AI 泡沫陰影猶存 (2025-12-05).md",
     "image.png",
     "AI Technology/AI Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務/attach.png",
@@ -219,10 +223,6 @@
     "AI Technology/System_Hardware/index.md",
     "AI Technology/AI_Business/傳奇數學家 Ken Ono 投身 AI 初創公司 Axiom Math (2025-12-05).md",
     "AI Technology/AI_Business/孫正義與白宮商討高科技工廠計畫細節 (2025-12-05).md",
-    "AI Technology/System_Hardware/雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md",
-    "AI Technology/System_Hardware/比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200 GB200）在 $ per FLOP與功耗 能效上的差異.md",
-    "AI Technology/System_Hardware/NVIDIA 在 2026 年 Vera Rubin（VR）平台的伺服器機櫃，從 L6 → L10 長臂管理、液冷水冷板統一採購.md",
-    "AI Technology/System_Hardware/Google TPU 的設計特點.md",
     "AI Technology/AI_Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務",
     "AI Technology/System_Hardware",
     "AI Technology/Software_Service",
