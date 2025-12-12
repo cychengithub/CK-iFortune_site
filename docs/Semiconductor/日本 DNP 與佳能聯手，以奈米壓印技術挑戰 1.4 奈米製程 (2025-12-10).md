@@ -43,11 +43,8 @@ https://asia.nikkei.com/business/tech/semiconductors/new-japan-tech-said-to-slas
     - **生態系障礙：** 台積電與三星計畫於 2027-2028 年量產 1.4 奈米，但它們的工廠均是圍繞「光刻 (Lithography)」製程設計的。要轉向「壓印」製程，面臨極高的轉換成本與風險。目前僅有 **Kioxia (鎧俠)** 等記憶體廠引入測試，尚未有邏輯晶片廠用於大規模量產。
         
     - **市場動態：** 佳能已於 2024 年向德州電子研究所（含英特爾）交付首台設備，顯示美國也在關注此技術路徑。
-        
 
-![](Pasted image 20251210203420.png)
----
-
+![](Attach/Pasted image 20251212133528.png)
 #### 3. 深度架構分析：技術路徑解碼 (Structural Analysis: Technology Pathway Decoding)
 
 這篇文章的核心在於 **"Optical (光學)" vs "Mechanical (機械)"** 的路線之爭。

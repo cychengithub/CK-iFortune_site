@@ -34,13 +34,12 @@ https://asia.nikkei.com/business/technology/japan-s-exhaust-filter-expertise-att
 * **成本挑戰與目標：**
     目前 DAC 成本高達「數百美元/噸」，Heirloom 的長期目標是降至 **100 美元/噸**。這需要通過規模化和技術優化來實現。相比之下，專注於點源捕獲（Point Source Capture）的**三菱重工 (MHI)** 因成本考量對 DAC 持保留態度，這反映了行業內對 DAC 商業可行性的分歧。
 
-![](Pasted image 20251210211204.png)
+![](Attach/Pasted image 20251212134136.png)
+![](Attach/Pasted image 20251212134153.png)
 
-![](Pasted image 20251210211217.png)
+![](Attach/Pasted image 20251212134203.png)
 
-![](Pasted image 20251210211226.png)
----
-
+![](Attach/Pasted image 20251212134216.png)
 #### 3. 深度架構分析：技術轉移解碼 (Structural Analysis: Technology Transfer Decoding)
 這篇文章揭示了一個經典的**「技術溢出 (Technology Spillover)」**案例——從夕陽產業（燃油車）流向朝陽產業（氣候科技）。
 

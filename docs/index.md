@@ -18,9 +18,10 @@ hide:
 
 ## 🧭 文章的領域分類
 
-#### 📊 總體經濟 Macro Economics
+#### 📊 政治總體經濟 Ploitics & Economics
 #### 📈 投資 Investment
 #### 🤖 人工智慧 AI Technology
+
 #### ⚙️ 一般科學技術 General Tech
 #### 🧬 醫藥 & 生物科技 Bio & Life Science
 #### 🎨 生活與藝術 Life & Art

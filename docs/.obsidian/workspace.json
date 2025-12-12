@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics & Economics/日本企業外幣發債創新高，揭露國內資本市場結構性失靈 (2025-12-09).md",
+                "file": "AI Technology/AI Infrasture/美國有辦法在短期內填補電力缺口嘛 (2025-12-12).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日本企業外幣發債創新高，揭露國內資本市場結構性失靈 (2025-12-09)"
+              "title": "美國有辦法在短期內填補電力缺口嘛 (2025-12-12)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 545.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "investment/高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7%.md",
-                "collapseAll": false,
+                "file": "AI Technology/AI Infrasture/美國有辦法在短期內填補電力缺口嘛 (2025-12-12).md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7% 的反向連結"
+              "title": "美國有辦法在短期內填補電力缺口嘛 (2025-12-12) 的反向連結"
             }
           },
           {
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7% 的大綱"
             }
+          },
+          {
+            "id": "3a35046e5335a5ce",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,56 +190,63 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "bases:建立新的 base": false
+      "bases:建立新的 base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-importer:Open Importer": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
-    "Politics & Economics/Attach/Pasted image 20251212130144.png",
-    "Pasted.md",
-    "Politics & Economics/日本企業外幣發債創新高，揭露國內資本市場結構性失靈 (2025-12-09).md",
-    "Politics & Economics/2025年12月1日美國聯準會將正式結束量化緊縮（QT）.md",
-    "Politics & Economics/日本央行總裁植田表示，薪資上漲將支撐通貨膨脹 (BOJ Gov. Ueda says wage hikes will underpin inflation) (2025-12-09).md",
-    "Investment/Netflix 併購華納兄弟 —— 矽谷對好萊塢的終極加冕 (2025-12-05).md",
-    "Investment/Oracle 股價暴跌：AI 資本支出失控，變現週期嚴重滯後 (2025-12-05).md",
-    "Investment/日本M3 FY 2025 Q2 財報分析 2025-12-10.md",
-    "Politics & Economics/Attach/Pasted image 20251212125411.png",
-    "Politics & Economics/Attach",
-    "附件/Pasted.md",
-    "附件",
-    "Politics & Economics/附件/Pasted image 20251212124839.png",
-    "Politics & Economics/附件",
-    "Pasted image 20251210212219.png",
-    "Politics & Economics/台日簽署數位貿易協定，無懼中國壓力 (2025-12-05).md",
-    "Politics & Economics/FT中文網評論：歐洲人應當學會「中國牌」的正確打法 (2025-12-05).md",
-    "Politics & Economics/亞洲經濟成長前景趨於明朗，但貿易不確定性依然存在：亞洲開發銀行 (2025-12-10).md",
-    "Politics & Economics/日本長期利率逼近 2%，借貸成本翻倍的財政風暴 (2025-12-10).md",
-    "bio_life_science/qPCR_key_ supply_ chain.md",
-    "bio_life_science/4 Channel_LED_ qPCR.md",
-    "bio_life_science",
-    "Politics & Economics/聯準會降息 1 碼但暗示暫停，內部爆發 6 年來最大分歧 (2025-12-10).md",
-    "Politics & Economics/聯準會內部分裂嚴重，鮑爾強推「降息並設限」策略 (2025-12-10).md",
-    "Pasted image 20251211094654.png",
-    "Pasted image 20251211094521.png",
-    "Pasted image 20251211094456.png",
-    "Pasted image 20251211094425.png",
-    "Politics & Economics/隨著日本央行利率決議臨近，高市政府釋放訊號，暗示對升息持開放態度 (2025-12-06).md",
-    "Politics & Economics/高市早苗的賭注——以生產力升級對抗通膨與薪資螺旋 (2025-12-08).md",
-    "Pasted image 20251210223315.png",
-    "Politics & Economics/哈塞特表態捍衛聯準會獨立性，卻同步釋放激進降息信號 (2025-12-10).md",
-    "Pasted image 20251210222052.png",
-    "Semiconductor/隨著人工智慧晶片需求增加，SK海力士考慮在美國上市 (2025-12-10).md",
+    "AI Technology/AI Infrasture/美中 AI 競賽的新戰場：電力鴻溝與內蒙古的算力雲谷 (2025-12-12).md",
+    "AI Technology/AI Infrasture/美國有辦法在短期內填補電力缺口嘛 (2025-12-12).md",
+    "AI Technology/AI Infrasture/Attach/Pasted image 20251212233707.png",
+    "AI Technology/AI Infrasture/Attach/Pasted image 20251212233633.png",
+    "AI Technology/AI Infrasture/Attach/Pasted image 20251212232215.png",
+    "AI Technology/AI Infrasture/Attach/Pasted image 20251212232143.png",
+    "AI Technology/AI Infrasture/Attach",
+    "AI Technology/AI Infrasture/NVIDIA 即將召開的「電力閉門峰會」(2025-12-12).md",
+    "AI Technology/AI Infrasture/AI 電力需求建設 (2025-12-12).md",
+    "AI Technology/AI Infrasture/index.md",
+    "AI Technology/AI Business/index.md",
+    "AI Technology/AI Business/德銀深度報告：真假AI泡沫，究竟誰在裸泳？ (2025-12-1２).md",
+    "AI Technology/AI Infrasture",
+    "AI Technology/AI Business/未命名",
+    "AI Technology/AI Business/Attach/Pasted image 20251212223902.png",
+    "AI Technology/AI Business/Attach/Pasted image 20251212223853.png",
+    "AI Technology/AI Business/Attach/Pasted image 20251212223845.png",
+    "AI Technology/AI Business/Attach/Pasted image 20251212223832.png",
+    "AI Technology/AI Business/Attach/Pasted image 20251212223815.png",
+    "AI Technology/AI Business/Attach/Pasted image 20251212223803.png",
+    "AI Technology/AI Business/從「算力戰爭」轉向「電力戰爭 (The Wattage War)」(2025-12-12).md",
+    "AI Technology/AI Business/NVIDIA (NVDA) 潛在併購戰略 (2025-12-12).md",
+    "Investment/MP Materials (MP) 與 Lynas Rare Earths (LYC) 的深度優劣勢對比分析 (2025-12-12).md",
+    "Investment/代幣化黃金 (Tokenized Gold) 與 金礦股 ETF (Gold Miners ETF) 深度比較分析 (2025-12-12).md",
+    "Investment/報告警告：馬來西亞需要提升稀土價值鏈地位  (2025-12-12).md",
+    "Politics & Economics/FDI 創新高卻救不了 GDP：泰國深陷「過早去工業化」危機 (2025-12-12).md",
+    "Politics & Economics/日本央行計畫11個月來首次升息 (2025-12-12).md",
     "Life & Art/50歲後自身免疫性疾病為何激增？ (2025-12-10).md",
-    "Semiconductor/中國晶片製造商海光取消與最大股東的合併計劃 (2025-12-10).md",
-    "Pasted image 20251210215143.png",
-    "Robotics EV & Automation/中國汽車製造商首次在西歐擊敗韓國汽車製造商 (2025-12-09).md",
-    "Green & Energy Technology/日本廢氣過濾技術成碳捕獲 (DAC) 關鍵，Heirloom 尋求日本供應鏈支持 (2025-12-05).md",
-    "Green & Energy Technology/index.md",
-    "Green & Energy Technology",
-    "Robotics EV & Automation",
+    "Life & Art/日本考慮從2026財年開始提高離境稅 (2025-12-05).md",
+    "Investment/巴克萊銀行稱，美國機器人出租車和打車服務的蓬勃發展將促進歐洲烈酒製造商的發展 (2025-12-11).md",
+    "Investment/房利美與房地美 IPO 的贏家與輸家 (2025-12-05).md",
+    "Cryoto/資產配置.md",
+    "Cryoto/BTC ETH SOL.md",
+    "Cryoto/未命名為什麼你無法複製「數位黃金」(2025-12-12).md",
+    "Cryoto/銀行業巨頭施壓參議院，要求填補 GENIUS 法案「穩定幣漏洞」(2025-12-12).md",
+    "Cryoto/美國政府與華爾街金融界對比特幣（Bitcoin）底層戰略思維 (2025-12-12).md",
+    "index.md",
+    "Cryoto/index.md",
+    "Bio & Life Science/index.md",
+    "Cryoto",
+    "Investment/高盛研究預測",
+    "Investment/Attach",
+    "Green & Energy Technology/Attach",
     "AI Technology/AI Business/OpenAI合作伙伴爲資助其雄心積累千億美元債務",
-    "AI Technology/AI Business",
-    "AI Technology/Software Service",
-    "AI Technology/System Hardware"
+    "AI Technology/AI Business/Attach",
+    "Semiconductor/Attach"
   ]
 }
