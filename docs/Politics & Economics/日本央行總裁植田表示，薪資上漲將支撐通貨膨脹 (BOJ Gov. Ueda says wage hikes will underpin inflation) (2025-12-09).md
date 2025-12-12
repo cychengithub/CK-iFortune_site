@@ -13,7 +13,7 @@ https://asia.nikkei.com/economy/bank-of-japan/boj-chief-ueda-says-higher-wages-w
     
 - **關鍵詞：** 植田和男 (Kazuo Ueda)、薪資-物價螺旋 (Wage-Price Spiral)、12月18-19日會議、AI 生產力、食品通膨
 
-![](附件/Pasted image 20251212124839.png)
+![](Attach/Pasted image 20251212125411.png)
 #### 2. 核心摘要 (Executive Summary)
 
 本報導紀錄了日本央行總裁**植田和男**在《金融時報》活動上的關鍵發言，釋放出對日本擺脫通縮的強烈信心，並暗示了貨幣政策正常化的路徑。
