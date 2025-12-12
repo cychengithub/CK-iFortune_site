@@ -1,0 +1,19 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "${notepath}/${notename}_attach",
+    "attachFormat": "Att_${dates}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYYMMDD",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}
