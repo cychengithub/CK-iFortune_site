@@ -1,1 +1,5 @@
-{}
+{
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./附件"
+}

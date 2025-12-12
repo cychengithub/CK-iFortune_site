@@ -4,7 +4,7 @@
     "attachmentRoot": "",
     "saveAttE": "obsFolder",
     "attachmentPath": "${notepath}/${notename}_attach",
-    "attachFormat": "Att_${dates}",
+    "attachFormat": "attach",
     "type": "GLOBAL"
   },
   "dateFormat": "YYYYMMDD",
