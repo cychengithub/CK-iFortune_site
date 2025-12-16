@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 525.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -200,7 +200,7 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "6842efdb3dc70477",
+  "active": "886fa7e24a8b7c12",
   "lastOpenFiles": [
     "Cryoto/GPU 資產證券化瀑布流 (2025-12-16).md",
     "Politics & Economics/儘管就業人數增加，美國 11 月失業率仍升至 4.6% (2025-12-16).md",
