@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Technology/AI Infrasture/美國有辦法在短期內填補電力缺口嘛 (2025-12-12).md",
+                "file": "AI Technology/AI Infrasture/National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "美國有辦法在短期內填補電力缺口嘛 (2025-12-12)"
+              "title": "National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 245.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Technology/AI Infrasture/美國有辦法在短期內填補電力缺口嘛 (2025-12-12).md",
+                "file": "AI Technology/AI Infrasture/National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "美國有辦法在短期內填補電力缺口嘛 (2025-12-12) 的反向連結"
+              "title": "National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16) 的反向連結"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "investment/高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7%.md",
+                "file": "AI Technology/AI Infrasture/National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高盛研究預測，未來十年全球股市以美元計價的年化回報率將達到 7.7% 的大綱"
+              "title": "National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16) 的大綱"
             }
           },
           {
@@ -176,11 +176,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,45 +202,45 @@
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
-    "AI Technology/AI Infrasture/美中 AI 競賽的新戰場：電力鴻溝與內蒙古的算力雲谷 (2025-12-12).md",
-    "AI Technology/AI Infrasture/美國有辦法在短期內填補電力缺口嘛 (2025-12-12).md",
-    "AI Technology/AI Infrasture/Attach/Pasted image 20251212233707.png",
-    "AI Technology/AI Infrasture/Attach/Pasted image 20251212233633.png",
-    "AI Technology/AI Infrasture/Attach/Pasted image 20251212232215.png",
-    "AI Technology/AI Infrasture/Attach/Pasted image 20251212232143.png",
+    "Robotics EV & Automation/英國政府堅稱不改變電動汽車轉型目標 (2025-12-15).md",
+    "AI Technology/AI Infrasture/National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16).md",
+    "Cryoto/GPU 資產證券化瀑布流 (2025-12-16).md",
+    "Cryoto/「穩定幣超級週期」爲什麼可能重塑銀行業？ (2025-12-15).md",
+    "Robotics EV & Automation/歐盟擬爲車企在2030年氣候目標上留出緩衝期 (2025-12-16).md",
+    "AI Technology/AI Business/AI決策能優於人類，那我們為何仍心存疑慮 (2025-12-15).md",
+    "AI Technology/AI Business/圍繞川普AI行政令的政治紛爭只是一個開始 (2025-12-15).md",
+    "Robotics EV & Automation/小鵬汽車將在馬來西亞建立第三個海外生產基地 (2025-12-15).md",
+    "Investment/美國運輸股高歌猛進為何對投資者是個好兆頭 (2025-12-15).md",
+    "Investment/Attach/Pasted image 20251216184046.png",
+    "Investment/Attach/Pasted image 20251216184015.png",
+    "AI Technology/AI Business/中國AI晶片新創企業沐曦股份IPO籌資近6億美元(2025-12-16).md",
+    "AI Technology/AI Business/中國AI競賽新打法：助推科技初創公司加速上市 (2025-12-15).md",
+    "Politics & Economics/未命名.md",
+    "Politics & Economics/Attach/Pasted image 20251216182804.png",
+    "Politics & Economics/Attach/Pasted image 20251216182633.png",
+    "Politics & Economics/Attach/Pasted image 20251216182515.png",
+    "Politics & Economics/Attach/Pasted image 20251216182411.png",
+    "Politics & Economics/中國多領域經濟指標全面惡化 (2025-12-15).md",
+    "Politics & Economics/為何說人人都誤判了川普關稅 (2025-12-15).md",
+    "Politics & Economics/FT中文網評論：歐洲人應當學會「中國牌」的正確打法 (2025-12-05).md",
+    "Politics & Economics/index.md",
+    "Politics & Economics/Attach/Pasted image 20251216181222.png",
+    "Politics & Economics/Attach/Pasted image 20251216181207.png",
+    "Politics & Economics/Attach/Pasted image 20251216181116.png",
+    "Politics & Economics/Attach/Pasted image 20251216181059.png",
+    "Investment/福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」(2025-12-16).md",
+    "Politics & Economics/日圓持續疲軟，薪資成長放緩，市場預期日本央行升息 (2025-12-15).md",
+    "Politics & Economics/日本長期利率逼近 2%，借貸成本翻倍的財政風暴 (2025-12-10).md",
+    "Politics & Economics/日本企業外幣發債創新高，揭露國內資本市場結構性失靈 (2025-12-09).md",
+    "Politics & Economics/日本央行總裁植田表示，薪資上漲將支撐通貨膨脹 (BOJ Gov. Ueda says wage hikes will underpin inflation) (2025-12-09).md",
+    "Politics & Economics/日本央行計畫11個月來首次升息 (2025-12-12).md",
+    "Life & Art/高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦(2025-12-07).md",
+    "Politics & Economics/黃偉哲表態了！公開挺「這人」接棒台南市長 盛讚延續賴清德理念 (2025-12-15).md",
+    "Life & Art/垃圾燒不完、老廠效能低迷，高雄如何靠AI焚化爐扭轉危機 (2025-12-01).md",
+    "Life & Art/台中文山焚化爐新建4月中招標 力拚年底動工、4年完工 (2025-04-10).md",
     "AI Technology/AI Infrasture/Attach",
-    "AI Technology/AI Infrasture/NVIDIA 即將召開的「電力閉門峰會」(2025-12-12).md",
-    "AI Technology/AI Infrasture/AI 電力需求建設 (2025-12-12).md",
-    "AI Technology/AI Infrasture/index.md",
-    "AI Technology/AI Business/index.md",
-    "AI Technology/AI Business/德銀深度報告：真假AI泡沫，究竟誰在裸泳？ (2025-12-1２).md",
     "AI Technology/AI Infrasture",
     "AI Technology/AI Business/未命名",
-    "AI Technology/AI Business/Attach/Pasted image 20251212223902.png",
-    "AI Technology/AI Business/Attach/Pasted image 20251212223853.png",
-    "AI Technology/AI Business/Attach/Pasted image 20251212223845.png",
-    "AI Technology/AI Business/Attach/Pasted image 20251212223832.png",
-    "AI Technology/AI Business/Attach/Pasted image 20251212223815.png",
-    "AI Technology/AI Business/Attach/Pasted image 20251212223803.png",
-    "AI Technology/AI Business/從「算力戰爭」轉向「電力戰爭 (The Wattage War)」(2025-12-12).md",
-    "AI Technology/AI Business/NVIDIA (NVDA) 潛在併購戰略 (2025-12-12).md",
-    "Investment/MP Materials (MP) 與 Lynas Rare Earths (LYC) 的深度優劣勢對比分析 (2025-12-12).md",
-    "Investment/代幣化黃金 (Tokenized Gold) 與 金礦股 ETF (Gold Miners ETF) 深度比較分析 (2025-12-12).md",
-    "Investment/報告警告：馬來西亞需要提升稀土價值鏈地位  (2025-12-12).md",
-    "Politics & Economics/FDI 創新高卻救不了 GDP：泰國深陷「過早去工業化」危機 (2025-12-12).md",
-    "Politics & Economics/日本央行計畫11個月來首次升息 (2025-12-12).md",
-    "Life & Art/50歲後自身免疫性疾病為何激增？ (2025-12-10).md",
-    "Life & Art/日本考慮從2026財年開始提高離境稅 (2025-12-05).md",
-    "Investment/巴克萊銀行稱，美國機器人出租車和打車服務的蓬勃發展將促進歐洲烈酒製造商的發展 (2025-12-11).md",
-    "Investment/房利美與房地美 IPO 的贏家與輸家 (2025-12-05).md",
-    "Cryoto/資產配置.md",
-    "Cryoto/BTC ETH SOL.md",
-    "Cryoto/未命名為什麼你無法複製「數位黃金」(2025-12-12).md",
-    "Cryoto/銀行業巨頭施壓參議院，要求填補 GENIUS 法案「穩定幣漏洞」(2025-12-12).md",
-    "Cryoto/美國政府與華爾街金融界對比特幣（Bitcoin）底層戰略思維 (2025-12-12).md",
-    "index.md",
-    "Cryoto/index.md",
-    "Bio & Life Science/index.md",
     "Cryoto",
     "Investment/高盛研究預測",
     "Investment/Attach",
