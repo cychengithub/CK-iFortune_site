@@ -320,8 +320,8 @@
         "ch": 26
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 9,
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -824,11 +824,11 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 0
+        "ch": 33
       },
       "to": {
         "line": 4,
-        "ch": 0
+        "ch": 33
       }
     },
     "expandedKeys": [
@@ -1117,6 +1117,204 @@
       },
       "to": {
         "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "index.md": {
+    "scroll": 4.851763094830537,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 29
+      },
+      "to": {
+        "line": 14,
+        "ch": 29
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "Pasted.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Attach/Pasted.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "附件/Pasted.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 4
+      },
+      "to": {
+        "line": 4,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Green & Energy Technology/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 4
+      },
+      "to": {
+        "line": 4,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Cryoto/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "bio_life_science/qPCR_key_ supply_ chain.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio & Life Science/4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio & Life Science/定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio & Life Science/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/Software Service/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
         "ch": 0
       }
     },

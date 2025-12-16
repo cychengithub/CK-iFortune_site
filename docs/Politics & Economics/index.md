@@ -2,7 +2,7 @@
 hide:
   - toc
 ---
-# 📊 總體經濟 Macro Economics 總覽
+# 📊 政治和經濟 Politics and Economics
 
 !!! abstract "領域簡介"
     本區塊專注於對全球宏觀經濟趨勢、政府財政與貨幣政策、市場週期以及主要經濟體數據的觀察與分析。
