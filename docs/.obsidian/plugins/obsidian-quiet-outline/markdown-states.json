@@ -117,16 +117,17 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 9
+        "line": 13,
+        "ch": 55
       },
       "to": {
-        "line": 12,
-        "ch": 24
+        "line": 13,
+        "ch": 55
       }
     },
     "expandedKeys": [
-      "item-3-5",
+      "item-3-11",
+      "item-3-6",
       "item-3-0"
     ]
   },
@@ -650,20 +651,19 @@
     ]
   },
   "Life & Art/高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦(2025-12-07).md": {
-    "scroll": 0.8053691275167785,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 19,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 19,
+        "line": 0,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-6",
-      "item-1-1"
+      "item-3-4"
     ]
   },
   "Politics & Economics/黃偉哲表態了！公開挺「這人」接棒台南市長 盛讚延續賴清德理念 (2025-12-15).md": {
@@ -1045,24 +1045,27 @@
     ]
   },
   "Cryoto/GPU 資產證券化瀑布流 (2025-12-16).md": {
-    "scroll": 268.99609375,
+    "scroll": 406.6528436018957,
     "cursor": {
       "from": {
-        "line": 217,
-        "ch": 42
+        "line": 293,
+        "ch": 35
       },
       "to": {
-        "line": 217,
-        "ch": 42
+        "line": 293,
+        "ch": 35
       }
     },
     "expandedKeys": [
-      "item-3-26",
-      "item-3-20",
+      "item-3-37",
+      "item-3-31",
       "item-2-4",
       "item-3-10",
       "item-3-13",
-      "item-3-16"
+      "item-3-16",
+      "item-3-21",
+      "item-2-20",
+      "item-3-25"
     ]
   },
   "AI Technology/AI Infrasture/National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16).md": {
@@ -1084,6 +1087,25 @@
       "item-2-8",
       "item-3-0",
       "item-3-5"
+    ]
+  },
+  "Politics & Economics/儘管就業人數增加，美國 11 月失業率仍升至 4.6% (2025-12-16).md": {
+    "scroll": 145.087158808933,
+    "cursor": {
+      "from": {
+        "line": 100,
+        "ch": 0
+      },
+      "to": {
+        "line": 100,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-18",
+      "item-3-13",
+      "item-3-0",
+      "item-2-6"
     ]
   }
 }
