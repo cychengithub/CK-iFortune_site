@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment/2025-12-10 日本M3 FY 2025 Q2 財報分析.md",
+                "file": "Robotics EV & Automation/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-10 日本M3 FY 2025 Q2 財報分析"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 596.5
+    "width": 200
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investment/2025-12-10 日本M3 FY 2025 Q2 財報分析.md",
+                "file": "Robotics EV & Automation/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-10 日本M3 FY 2025 Q2 財報分析 的大綱"
+              "title": "index 的大綱"
             }
           },
           {
@@ -202,6 +202,8 @@
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
+    "index.md",
+    "Investment/2025-12-10 日本M3 FY 2025 Q2 財報分析.md",
     "Life & Art/2025-04-10 台中文山焚化爐新建4月中招標 力拚年底動工、4年完工.md",
     "Crypto/index.md",
     "Crypto/2025-12-16 GPU 資產證券化瀑布流.md",
@@ -229,8 +231,6 @@
     "Investment/2025-12-11 巴克萊銀行稱，美國機器人出租車和打車服務的蓬勃發展將促進歐洲烈酒製造商的發展.md",
     "Investment/2025-12-16 福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」.md",
     "Cryoto/2025-12-12 銀行業巨頭施壓參議院，要求填補 GENIUS 法案「穩定幣漏洞」.md",
-    "AI Technology/System Hardware/雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md",
-    "AI Technology/System Hardware/比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200 GB200）在 $ per FLOP與功耗 能效上的差異.md",
     "image.png",
     "Investment/Attach/Pasted image 20251216184046.png",
     "Investment/Attach/Pasted image 20251216184015.png",

@@ -18,13 +18,13 @@ hide:
 
 ## 🧭 文章的領域分類
 
-#### 📊 政治總體經濟 Ploitics & Economics
-#### 📈 投資 Investment
-#### 🤖 人工智慧 AI Technology
-#### 🤖 機器人和電動車 Robotics & EV
-#### 📟 半導體 Semiconductor
-#### 🪙 加密貨幣 Crypto 
-#### ⚡ 綠能與能源技術 Green & Energy Technology 
-#### ⚙️ 一般科學技術 General Tech
-#### 🧬 醫藥 & 生物科技 Bio & Life Science
-#### 🎨 生活與藝術 Life & Art
+#### 📊 政治總體經濟 Ploitics & Economics (Politics & Economics/)
+#### 📈 投資 Investment (Investment/)
+#### 🤖 人工智慧 AI Technology (AI Technology/))
+#### ⚙️機器人和電動車 Robotics & EV (Robotics EV & Automation/)
+#### 📟 半導體 Semiconductor (Semiconductor/)
+#### 🪙 加密貨幣 Crypto (Crypto/)
+#### ⚡ 綠能與能源技術 Green & Energy Technology (Green & Energy Technology/)
+
+#### 🧬 醫藥 & 生物科技 Bio & Life Science (Bio & Life Science/)
+#### 🎨 生活與藝術 Life & Art (Life & Art/)
