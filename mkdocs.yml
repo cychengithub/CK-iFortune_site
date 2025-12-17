@@ -12,7 +12,7 @@ theme:
   name: material
   features:
     - content.action.edit  # 啟用「編輯此頁面」按鈕
-    - navigation.expand
+    # - navigation.expand
     - navigation.sections
   
 # --- 樣式連結 ---

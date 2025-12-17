@@ -22,7 +22,8 @@ hide:
 #### 📈 投資 Investment
 #### 🤖 人工智慧 AI Technology
 #### 🤖 機器人和電動車 Robotics & EV
-#### 📊 加密貨幣 Crypto 
+#### 🪙 加密貨幣 Crypto 
+#### ⚡ 綠能與能源技術 Green & Energy Technology 
 #### ⚙️ 一般科學技術 General Tech
 #### 🧬 醫藥 & 生物科技 Bio & Life Science
 #### 🎨 生活與藝術 Life & Art

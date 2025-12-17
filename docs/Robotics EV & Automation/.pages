@@ -2,7 +2,7 @@ title: 📊 Robotics EV & Automation
 # docs/investment/.pages
 
 # 設定排序方式為 Git 提交日期 (最後修改時間)
-sort_by: date
 
 # 設定為反向排序 (從新到舊)
+sort_by: title
 sort_reverse: true
