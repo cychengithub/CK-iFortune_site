@@ -26,7 +26,9 @@ plugins:
   - section-index
   - git-revision-date-localized:
       enable_parallel_processing: false
-
+  - awesome-pages:
+      filename_case_sensitive: false
+      sort_type: natural  # 使用自然排序法處理數字
 # --- 新增這整個區塊 ---
 markdown_extensions:
   # 標準與基礎功能
