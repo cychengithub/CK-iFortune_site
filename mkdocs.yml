@@ -22,10 +22,9 @@ extra_css:
 # --- 外掛設定 (Plugins) ---
 plugins:
   - search
-  - section-index
   - awesome-pages:
-      #filename_case_sensitive: false
-      sort_type: natural  # 使用自然排序法處理數字
+      sort_type: natural
+  - section-index
   - git-revision-date-localized:
       enable_parallel_processing: false
   
