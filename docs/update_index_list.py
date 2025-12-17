@@ -15,11 +15,14 @@ def final_update_index(base_dir="docs"):
         "Life & Art": "🎨 生活與藝術 Life & Art"
     }
     
+    # 修改重點：在標題下方插入 img 標籤並設定 width
     header = """---
 hide:
   - toc
 ---
 # 👋 歡迎來到 CK Intelligent Fortune 數位花園
+
+<img src="image.png" width="150">
 
 > ## 🧠 **「智慧獲取財富」**
 > **「知識不是用來收藏的，而是用來連結與生長的。」**
@@ -34,11 +37,9 @@ hide:
         folder_path = os.path.join(base_dir, folder)
         
         if os.path.exists(folder_path):
-            # 取得最新 3 篇文章
             files = [f for f in os.listdir(folder_path) if f.endswith(".md") and f != "index.md"]
             files.sort(reverse=True)
             
-            # 使用 urllib 處理路徑中的空格與 & 符號
             safe_path = urllib.parse.quote(folder)
             content += f"\n## [{title}]({safe_path}/)\n"
             
@@ -50,11 +51,11 @@ hide:
             else:
                 content += "* (目前此分類尚無文章)\n"
             
-            content += "\n---\n" # 加入分格線
+            content += "\n---\n"
 
     with open(os.path.join(base_dir, "index.md"), "w", encoding="utf-8") as f:
         f.write(content)
-    print("✅ 首頁 index.md 已依照您的資料夾名稱完美更新！")
+    print("✅ 首頁 index.md 已依照您的資料夾名稱完美更新（含縮小的 Logo）！")
 
 if __name__ == "__main__":
     final_update_index()
