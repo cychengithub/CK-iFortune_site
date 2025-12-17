@@ -2,29 +2,51 @@
 hide:
   - toc
 ---
-# 👋 歡迎來到 CK Intelligent Fortune 數位花園 ![alt text](image.png)
+# 👋 歡迎來到 CK Intelligent Fortune 數位花園
 
+> ## 🧠 **「智慧獲取財富」**
+> **「知識不是用來收藏的，而是用來連結與生長的。」**
 
-> ## 🧠 **「智慧獲取財富」**  **「知識不是用來收藏的，而是用來連結與生長的。」**
-> 
-> #### 這個空間是我的第二大腦，也是一個正在生長中的筆記庫。它涵蓋了我的學習、思考和創作過程。CK 的由來是我的名字 **C**Y 加上太太的名字 **K**atherine。Intelligent Fortune，希望用智慧獲取人生心智財富。 這個域名承載了家庭與智慧投資的期許，作為我的數位花園，記錄著我所有的學習與思考。
+# <span style="color: red; font-weight: bold;">請直接點擊下方分類</span>，即可進入該領域的文章列表：
 
-# <span style="color: red; font-weight: bold;">請點擊左側導航欄的分類目錄</span>，進入您感興趣的知識領域。
+---
 
+## [📊 政治總體經濟 Politics & Economics](Politics%20&%20Economics/)
+* [2025-12-16 德國為何想與中國「分道揚鑣」](Politics%20&%20Economics/2025-12-16%20德國為何想與中國「分道揚鑣」.md)
+* [2025-12-16 儘管就業人數增加，美國 11 月失業率仍升至 4.6%](Politics%20&%20Economics/2025-12-16%20儘管就業人數增加，美國%2011%20月失業率仍升至%204.6%.md)
+* [2025-12-15 黃偉哲表態了！公開挺「這人」接棒台南市長 盛讚延續賴清德理念](Politics%20&%20Economics/2025-12-15%20黃偉哲表態了！公開挺「這人」接棒台南市長%20盛讚延續賴清德理念.md)
 
-## 📢 最新動態 (Latest Activity) 
+## [📈 投資 Investment](Investment/)
+* [Charlie Munger 蒙格檢查清單的核心框架](Investment/Charlie%20Munger%20蒙格檢查清單的核心框架.md)
+* [2025-12-16 福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」](Investment/2025-12-16%20福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」.md)
+* [2025-12-15 美國運輸股高歌猛進為何對投資者是個好兆頭](Investment/2025-12-15%20美國運輸股高歌猛進為何對投資者是個好兆頭.md)
 
-!!! info "近期重要更新"
+## [🤖 人工智慧 AI Technology](AI%20Technology/)
+* [AI_operation_costs](AI%20Technology/AI_operation_costs.md)
 
-## 🧭 文章的領域分類
+## [🦾 機器人和電動車 Robotics & EV](Robotics%20EV%20&%20Automation/)
+* [2025-12-16 歐盟擬爲車企在2030年氣候目標上留出緩衝期](Robotics%20EV%20&%20Automation/2025-12-16%20歐盟擬爲車企在2030年氣候目標上留出緩衝期.md)
+* [2025-12-15 英國政府堅稱不改變電動汽車轉型目標](Robotics%20EV%20&%20Automation/2025-12-15%20英國政府堅稱不改變電動汽車轉型目標.md)
+* [2025-12-15 小鵬汽車將在馬來西亞建立第三個海外生產基地](Robotics%20EV%20&%20Automation/2025-12-15%20小鵬汽車將在馬來西亞建立第三個海外生產基地.md)
 
-#### 📊 政治總體經濟 Ploitics & Economics (Politics & Economics/)
-#### 📈 投資 Investment (Investment/)
-#### 🤖 人工智慧 AI Technology (AI Technology/))
-#### ⚙️機器人和電動車 Robotics & EV (Robotics EV & Automation/)
-#### 📟 半導體 Semiconductor (Semiconductor/)
-#### 🪙 加密貨幣 Crypto (Crypto/)
-#### ⚡ 綠能與能源技術 Green & Energy Technology (Green & Energy Technology/)
+## [📟 半導體 Semiconductor](Semiconductor/)
+* [2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市](Semiconductor/2025-12-10%20隨著人工智慧晶片需求增加，SK海力士考慮在美國上市.md)
+* [2025-12-10 日本 DNP 與佳能聯手，以奈米壓印技術挑戰 1.4 奈米製程](Semiconductor/2025-12-10%20日本%20DNP%20與佳能聯手，以奈米壓印技術挑戰%201.4%20奈米製程.md)
+* [2025-12-10 中國晶片製造商海光取消與最大股東的合併計劃](Semiconductor/2025-12-10%20中國晶片製造商海光取消與最大股東的合併計劃.md)
 
-#### 🧬 醫藥 & 生物科技 Bio & Life Science (Bio & Life Science/)
-#### 🎨 生活與藝術 Life & Art (Life & Art/)
+## [🪙 加密貨幣 Crypto](Crypto/)
+* [2025-12-16 GPU 資產證券化瀑布流](Crypto/2025-12-16%20GPU%20資產證券化瀑布流.md)
+* [2025-12-15 資產配置](Crypto/2025-12-15%20資產配置.md)
+* [2025-12-15 「穩定幣超級週期」爲什麼可能重塑銀行業？](Crypto/2025-12-15%20「穩定幣超級週期」爲什麼可能重塑銀行業？.md)
+
+## [⚡ 綠能與能源技術 Green & Energy Technology](Green%20&%20Energy%20Technology/)
+* [2025-12-05 日本廢氣過濾技術成碳捕獲 (DAC) 關鍵，Heirloom 尋求日本供應鏈支持](Green%20&%20Energy%20Technology/2025-12-05%20日本廢氣過濾技術成碳捕獲%20(DAC)%20關鍵，Heirloom%20尋求日本供應鏈支持.md)
+
+## [🧬 醫藥 & 生物科技 Bio & Life Science](Bio%20&%20Life%20Science/)
+* [定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告](Bio%20&%20Life%20Science/定量聚合酶連鎖反應%20(qPCR)%20儀器關鍵零組件供應鏈深度戰略分析報告.md)
+* [4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義](Bio%20&%20Life%20Science/4%20Channel%20LED%20qPCR%20儀器開發戰略研究報告%20-%20市場格局、技術壁壘與規格定義.md)
+
+## [🎨 生活與藝術 Life & Art](Life%20&%20Art/)
+* [2025-12-10 50歲後自身免疫性疾病為何激增？](Life%20&%20Art/2025-12-10%2050歲後自身免疫性疾病為何激增？.md)
+* [2025-12-07 高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦](Life%20&%20Art/2025-12-07%20高雄垃圾量六都之首！4焚化爐快撐不住%20隨袋徵收擴大試辦.md)
+* [2025-12-05 日本考慮從2026財年開始提高離境稅](Life%20&%20Art/2025-12-05%20日本考慮從2026財年開始提高離境稅.md)
