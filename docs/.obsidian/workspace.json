@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Politics & Economics/2025-11-25 2025年12月1日美國聯準會將正式結束量化緊縮（QT）(2025-11-25).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-11-25 2025年12月1日美國聯準會將正式結束量化緊縮（QT）(2025-11-25)"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 596.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Politics & Economics/2025-11-25 2025年12月1日美國聯準會將正式結束量化緊縮（QT）(2025-11-25).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大綱"
+              "title": "2025-11-25 2025年12月1日美國聯準會將正式結束量化緊縮（QT）(2025-11-25) 的大綱"
             }
           },
           {
@@ -202,32 +202,33 @@
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
-    "image.png",
-    "index.md",
+    "Investment/2025-12-11 巴克萊銀行稱，美國機器人出租車和打車服務的蓬勃發展將促進歐洲烈酒製造商的發展.md",
+    "Investment/2025-12-16 福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」.md",
+    "Cryoto/2025-12-12 銀行業巨頭施壓參議院，要求填補 GENIUS 法案「穩定幣漏洞」.md",
+    "AI Technology/System Hardware/雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md",
+    "AI Technology/System Hardware/比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200 GB200）在 $ per FLOP與功耗 能效上的差異.md",
+    "AI Technology/System Hardware/2025-12-12 Amphenol (APH) —— 戰勝光速的銅線之王.md",
+    "AI Technology/System Hardware/Google TPU 的設計特點.md",
+    "AI Technology/System Hardware/NVIDIA 在 2026 年 Vera Rubin（VR）平台的伺服器機櫃，從 L6 → L10 長臂管理、液冷水冷板統一採購.md",
+    "AI Technology/System Hardware/Vertiv 熱管理與電力分配.md",
+    "AI Technology/AI Infrasture/2025-12-12 美國有辦法在短期內填補電力缺口嘛.md",
+    "AI Technology/AI Infrasture/2025-12-12 NVIDIA 即將召開的「電力閉門峰會」.md",
     "AI Technology/AI Business/index.md",
-    "AI Technology/System Hardware/index.md",
-    "AI Technology/index.md",
-    "AI Technology/Software Service/index.md",
-    "Cryoto/量子電腦對比特幣構成威脅嗎 (2025-12-12).md",
-    "Cryoto/index.md",
-    "Bio & Life Science/index.md",
-    "Bio & Life Science/定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告.md",
-    "Bio & Life Science/4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md",
-    "bio_life_science/qPCR_key_ supply_ chain.md",
-    "Green & Energy Technology/index.md",
-    "Robotics EV & Automation/index.md",
-    "Politics & Economics/index.md",
-    "Politics & Economics/中國多領域經濟指標全面惡化 (2025-12-15).md",
-    "附件/Pasted.md",
-    "Attach/Pasted.md",
-    "Pasted.md",
-    "Politics & Economics/德國為何想與中國「分道揚鑣」(2025-12-16).md",
-    "Politics & Economics/為何說人人都誤判了川普關稅 (2025-12-15).md",
-    "Politics & Economics/儘管就業人數增加，美國 11 月失業率仍升至 4.6% (2025-12-16).md",
-    "Cryoto/GPU 資產證券化瀑布流 (2025-12-16).md",
-    "Life & Art/高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦(2025-12-07).md",
-    "AI Technology/AI Infrasture/National Grid (NG.L) —— 跨大西洋的能源守門人 (2025-12-16).md",
-    "Robotics EV & Automation/英國政府堅稱不改變電動汽車轉型目標 (2025-12-15).md",
+    "AI Technology/AI Business/2025-12-05 美國在AI競賽中是否存在戰略失誤 (Is the US making a strategic error in the AI race).md",
+    "AI Technology/AI Business/2025-12-15 AI決策能優於人類，那我們為何仍心存疑慮.md",
+    "AI Technology/AI Business/2025-12-16 中國AI晶片新創企業沐曦股份IPO籌資近6億美元.md",
+    "AI Technology/AI Business/2025-12-12 從「算力戰爭」轉向「電力戰爭 (The Wattage War)」.md",
+    "AI Technology/AI Business/2025-11-28 OpenAI合作伙伴爲資助其雄心積累千億美元債務.md",
+    "Cryoto/2025-12-12 為什麼你無法複製「數位黃金」.md",
+    "Cryoto/2025-12-15 資產配置.md",
+    "Cryoto/2025-12-15 BTC ETH SOL.md",
+    "Investment/2025-11-15 美銀首席策略師 Michael Hartnett (Hartnett) 提出的「BIG」投資.md",
+    "Investment/Charlie Munger 蒙格檢查清單的核心框架.md",
+    "Politics & Economics/2025-12-10 哈塞特表態捍衛聯準會獨立性，卻同步釋放激進降息信號.md",
+    "Politics & Economics/2025-12-16 德國為何想與中國「分道揚鑣」.md",
+    "Politics & Economics/2025-12-16 儘管就業人數增加，美國 11 月失業率仍升至 4.6%.md",
+    "Life & Art/2025-12-10 50歲後自身免疫性疾病為何激增？.md",
+    "image.png",
     "Investment/Attach/Pasted image 20251216184046.png",
     "Investment/Attach/Pasted image 20251216184015.png",
     "Politics & Economics/Attach/Pasted image 20251216182804.png",
