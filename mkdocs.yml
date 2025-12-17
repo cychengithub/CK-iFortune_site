@@ -24,7 +24,7 @@ plugins:
   - search
   - section-index
   - awesome-pages:
-      filename_case_sensitive: false
+      #filename_case_sensitive: false
       sort_type: natural  # 使用自然排序法處理數字
   - git-revision-date-localized:
       enable_parallel_processing: false
