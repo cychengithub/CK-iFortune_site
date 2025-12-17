@@ -1,7 +1,8 @@
 import os
+import urllib.parse
 
 def final_update_index(base_dir="docs"):
-    # 嚴格對應您的資料夾名稱，不做任何路徑修改
+    # 嚴格對應您的資料夾名稱
     categories = {
         "Politics & Economics": "📊 政治總體經濟 Politics & Economics",
         "Investment": "📈 投資 Investment",
@@ -30,34 +31,30 @@ hide:
     
     content = header
     for folder, title in categories.items():
-        # folder 現在直接就是資料夾名稱，例如 "Politics & Economics"
         folder_path = os.path.join(base_dir, folder)
         
         if os.path.exists(folder_path):
-            # 取得最新 3 篇文章，排除 index.md
+            # 取得最新 3 篇文章
             files = [f for f in os.listdir(folder_path) if f.endswith(".md") and f != "index.md"]
             files.sort(reverse=True)
             
-            # 生成可點擊的大標題連結
-            # 注意：Markdown 連結若路徑有空格，需使用 %20 或括號包圍，這裡程式會處理
-            safe_path = folder.replace(" ", "%20")
+            # 使用 urllib 處理路徑中的空格與 & 符號
+            safe_path = urllib.parse.quote(folder)
             content += f"\n## [{title}]({safe_path}/)\n"
             
-            # 在主頁列出最新文章標題
             if files:
                 for f in files[:3]:
                     name = f.replace(".md", "")
-                    # 文章連結也要處理空格
-                    safe_file_path = f.replace(" ", "%20")
+                    safe_file_path = urllib.parse.quote(f)
                     content += f"* [{name}]({safe_path}/{safe_file_path})\n"
             else:
                 content += "* (目前此分類尚無文章)\n"
-        else:
-            print(f"⚠️ 警告：找不到資料夾 {folder_path}，請檢查路徑拼字。")
+            
+            content += "\n---\n" # 加入分格線
 
     with open(os.path.join(base_dir, "index.md"), "w", encoding="utf-8") as f:
         f.write(content)
-    print("✅ 首頁 index.md 已依照您的資料夾名稱更新完成！")
+    print("✅ 首頁 index.md 已依照您的資料夾名稱完美更新！")
 
 if __name__ == "__main__":
     final_update_index()
