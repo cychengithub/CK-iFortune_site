@@ -19,7 +19,7 @@ hide:
 ---
 
 ## [📈 投資 Investment](Investment/)
-* [Charlie Munger 蒙格檢查清單的核心框架](Investment/Charlie%20Munger%20%E8%92%99%E6%A0%BC%E6%AA%A2%E6%9F%A5%E6%B8%85%E5%96%AE%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A1%86%E6%9E%B6.md)
+* [2025-12-01 Charlie Munger 蒙格檢查清單的核心框架](Investment/2025-12-01%20Charlie%20Munger%20蒙格檢查清單的核心框架.md)
 * [2025-12-16 福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」](Investment/2025-12-16%20%E7%A6%8F%E7%89%B9%E8%A8%88%E6%8F%90195%E5%84%84%E7%BE%8E%E5%85%83%E6%B8%9B%E5%80%BC%EF%BC%8C%E9%9B%BB%E5%8B%95%E6%B1%BD%E8%BB%8A%E6%A5%AD%E5%8B%99%E9%81%AD%E9%81%87%E3%80%8C%E6%BB%91%E9%90%B5%E7%9B%A7%E3%80%8D.md)
 * [2025-12-15 美國運輸股高歌猛進為何對投資者是個好兆頭](Investment/2025-12-15%20%E7%BE%8E%E5%9C%8B%E9%81%8B%E8%BC%B8%E8%82%A1%E9%AB%98%E6%AD%8C%E7%8C%9B%E9%80%B2%E7%82%BA%E4%BD%95%E5%B0%8D%E6%8A%95%E8%B3%87%E8%80%85%E6%98%AF%E5%80%8B%E5%A5%BD%E5%85%86%E9%A0%AD.md)
 
