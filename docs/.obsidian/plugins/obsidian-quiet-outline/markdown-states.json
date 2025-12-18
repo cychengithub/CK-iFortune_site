@@ -20,15 +20,15 @@
     ]
   },
   "Investment/未命名.md": {
-    "scroll": 79.5998759305211,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 59
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 59
       }
     },
     "expandedKeys": [
@@ -117,12 +117,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 55
+        "line": 3,
+        "ch": 2
       },
       "to": {
-        "line": 13,
-        "ch": 55
+        "line": 3,
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -250,12 +250,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 182
+        "line": 2,
+        "ch": 0
       },
       "to": {
-        "line": 5,
-        "ch": 182
+        "line": 2,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1400,6 +1400,202 @@
       "to": {
         "line": 1,
         "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-16 就業人數增加，美國11月失業率仍上升.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 216,
+        "ch": 43
+      },
+      "to": {
+        "line": 216,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/英國央行將利率下調至接近三年來的最低水平.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-16 英國失業率升至疫情以來最高水平.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-16 英國失業率升至疫情以來最高水平, 8月至10月失業率升至5.1%.md": {
+    "scroll": 40.32949926455816,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 128
+      },
+      "to": {
+        "line": 26,
+        "ch": 128
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2025-12-16 甲骨文股票漲跌背後的微妙數字.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2025-12-17 甲骨文股票漲跌背後的微妙數字.md": {
+    "scroll": 28.462513357223347,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 0
+      },
+      "to": {
+        "line": 33,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長.md": {
+    "scroll": 7.208333333333333,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 52
+      },
+      "to": {
+        "line": 29,
+        "ch": 52
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/未命名 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 54
+      },
+      "to": {
+        "line": 6,
+        "ch": 54
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-17 Coinbase攜手Kalshi進軍蓬勃發展的預測市場業務.md": {
+    "scroll": 35.82236194980852,
+    "cursor": {
+      "from": {
+        "line": 42,
+        "ch": 29
+      },
+      "to": {
+        "line": 42,
+        "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-18 策略性鋰儲備能否促進美國供應鏈發展.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 186,
+        "ch": 16
+      },
+      "to": {
+        "line": 186,
+        "ch": 107
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-18 日本企業重組推動下，收購要約金額創下680億美元的紀錄.md": {
+    "scroll": 93.92075259223817,
+    "cursor": {
+      "from": {
+        "line": 102,
+        "ch": 0
+      },
+      "to": {
+        "line": 102,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-18 2026 年「財政主導下的滯脹.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 98
+      },
+      "to": {
+        "line": 0,
+        "ch": 98
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-18 2026 年「財政主導下的滯脹硬資產堡壘 (Hard Asset Fortress)」投資組合配置建議.md": {
+    "scroll": 120.3511562633312,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 98
+      },
+      "to": {
+        "line": 0,
+        "ch": 98
       }
     },
     "expandedKeys": []

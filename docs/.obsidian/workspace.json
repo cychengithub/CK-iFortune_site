@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics EV & Automation/index.md",
+                "file": "Investment/2025-12-18 2026 年「財政主導下的滯脹硬資產堡壘 (Hard Asset Fortress)」投資組合配置建議.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-12-18 2026 年「財政主導下的滯脹硬資產堡壘 (Hard Asset Fortress)」投資組合配置建議"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics EV & Automation/index.md",
+                "file": "Investment/2025-12-18 2026 年「財政主導下的滯脹硬資產堡壘 (Hard Asset Fortress)」投資組合配置建議.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大綱"
+              "title": "2025-12-18 2026 年「財政主導下的滯脹硬資產堡壘 (Hard Asset Fortress)」投資組合配置建議 的大綱"
             }
           },
           {
@@ -200,8 +200,26 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "886fa7e24a8b7c12",
+  "active": "6842efdb3dc70477",
   "lastOpenFiles": [
+    "Investment/2025-12-18 日本企業重組推動下，收購要約金額創下680億美元的紀錄.md",
+    "Investment/2025-12-18 2026 年「財政主導下的滯脹硬資產堡壘 (Hard Asset Fortress)」投資組合配置建議.md",
+    "Investment/2025-12-18 策略性鋰儲備能否促進美國供應鏈發展.md",
+    "Investment/Attach/Pasted image 20251218064356.png",
+    "Investment/2025-12-17 Coinbase攜手Kalshi進軍蓬勃發展的預測市場業務.md",
+    "Investment/Attach/Pasted image 20251218054322.png",
+    "Semiconductor/2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長.md",
+    "Investment/Attach/Pasted image 20251212134811.png",
+    "AI Technology/AI Business/2025-12-17 甲骨文股票漲跌背後的微妙數字.md",
+    "AI Technology/AI Business/Attach/Pasted image 20251218053556.png",
+    "Politics & Economics/2025-12-16 英國失業率升至疫情以來最高水平, 8月至10月失業率升至5.1%.md",
+    "Politics & Economics/2025-12-18 英國央行將利率下調至接近三年來的最低水平.md",
+    "Politics & Economics/2025-12-16 就業人數增加，美國11月失業率仍上升.md",
+    "Politics & Economics/Attach/Pasted image 20251218051744.png",
+    "Politics & Economics/Attach/Pasted image 20251218051632.png",
+    "Politics & Economics/Attach/Pasted image 20251218051618.png",
+    "Politics & Economics/Attach/Pasted image 20251218051526.png",
+    "Robotics EV & Automation/index.md",
     "update_index_list.py",
     "index.md",
     "Investment/2025-12-10 日本M3 FY 2025 Q2 財報分析.md",
@@ -220,33 +238,15 @@
     "Cryto/2025-12-16 GPU 資產證券化瀑布流.md",
     "Cryto/2025-12-15 資產配置.md",
     "Cryto/2025-12-15 「穩定幣超級週期」爲什麼可能重塑銀行業？.md",
-    "Cryto/2025-12-15 BTC ETH SOL.md",
-    "Cryto/2025-12-12 銀行業巨頭施壓參議院，要求填補 GENIUS 法案「穩定幣漏洞」.md",
-    "Cryto/2025-12-12 量子電腦對比特幣構成威脅嗎.md",
-    "Cryto/2025-12-12 美國政府與華爾街金融界對比特幣（Bitcoin）底層戰略思維.md",
-    "Cryto/2025-12-12 為什麼你無法複製「數位黃金」.md",
     "Cryto",
-    "Life & Art/2025-12-01 垃圾燒不完、老廠效能低迷，高雄如何靠AI焚化爐扭轉危機.md",
-    "Politics & Economics/2025-11-25 2025年12月1日美國聯準會將正式結束量化緊縮（QT）(2025-11-25).md",
     "update_pages_config.py",
-    "Investment/2025-12-11 巴克萊銀行稱，美國機器人出租車和打車服務的蓬勃發展將促進歐洲烈酒製造商的發展.md",
-    "Investment/2025-12-16 福特計提195億美元減值，電動汽車業務遭遇「滑鐵盧」.md",
     "image.png",
     "Investment/Attach/Pasted image 20251216184046.png",
-    "Investment/Attach/Pasted image 20251216184015.png",
-    "Politics & Economics/Attach/Pasted image 20251216182804.png",
-    "Politics & Economics/Attach/Pasted image 20251216182633.png",
-    "Politics & Economics/Attach/Pasted image 20251216182515.png",
-    "Politics & Economics/Attach/Pasted image 20251216182411.png",
-    "Politics & Economics/Attach/Pasted image 20251216181222.png",
-    "Politics & Economics/Attach/Pasted image 20251216181207.png",
-    "Politics & Economics/Attach/Pasted image 20251216181116.png",
     "AI Technology/AI Infrasture/Attach",
     "AI Technology/AI Infrasture",
     "AI Technology/AI Business/未命名",
     "Cryoto",
     "Investment/高盛研究預測",
-    "Investment/Attach",
-    "Green & Energy Technology/Attach"
+    "Investment/Attach"
   ]
 }
