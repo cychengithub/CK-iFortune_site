@@ -20,15 +20,15 @@
     ]
   },
   "Investment/未命名.md": {
-    "scroll": 0,
+    "scroll": 10.14981725026126,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 59
+        "line": 2,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 59
+        "line": 2,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -75,7 +75,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 28
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -117,12 +117,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
+        "line": 0,
         "ch": 2
       },
       "to": {
-        "line": 3,
-        "ch": 2
+        "line": 0,
+        "ch": 26
       }
     },
     "expandedKeys": [
@@ -1492,12 +1492,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -1624,6 +1624,314 @@
       "to": {
         "line": 3,
         "ch": 81
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-15 日圓持續疲軟，薪資成長放緩，市場預期日本央行升息.md": {
+    "scroll": 0.7633587786259542,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-25.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 26
+      },
+      "to": {
+        "line": 6,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-20 日本央行升息後，日圓不升反貶，逼近干預警戒線.md": {
+    "scroll": 53.8064227104187,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 0
+      },
+      "to": {
+        "line": 62,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 61
+      },
+      "to": {
+        "line": 2,
+        "ch": 61
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-19 日本央行升息與植田的「模糊」藝術.md": {
+    "scroll": 69.39684485125126,
+    "cursor": {
+      "from": {
+        "line": 76,
+        "ch": 0
+      },
+      "to": {
+        "line": 76,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-19 外國投資者淨買進日本股票380億美元，創12年來新高.md": {
+    "scroll": 297.60474212964374,
+    "cursor": {
+      "from": {
+        "line": 313,
+        "ch": 102
+      },
+      "to": {
+        "line": 313,
+        "ch": 102
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2025-12-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 18
+      },
+      "to": {
+        "line": 1,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保.md": {
+    "scroll": 3.6723853445686503,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 18
+      },
+      "to": {
+        "line": 1,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-22 私募信貸盛宴散場，散戶投資者受挫.md": {
+    "scroll": 383.8324534893036,
+    "cursor": {
+      "from": {
+        "line": 333,
+        "ch": 0
+      },
+      "to": {
+        "line": 333,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-23 消費者推動美國經濟實現兩年來最強勁成長.md": {
+    "scroll": 191.30319456709728,
+    "cursor": {
+      "from": {
+        "line": 222,
+        "ch": 0
+      },
+      "to": {
+        "line": 222,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/日本高市財長就債務問題發表強硬言論，債券殖利率飆升.md": {
+    "scroll": 21.50169389352335,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 106
+      },
+      "to": {
+        "line": 1,
+        "ch": 106
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-23 本高市財長就債務問題發表強硬言論，債券殖利率飆升.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-23 日本高市財長就債務問題發表強硬言論，債券殖利率飆升.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-24 2026 年主要雲端巨頭（Hyperscalers）的資本支出預測.md": {
+    "scroll": 198.75175113428247,
+    "cursor": {
+      "from": {
+        "line": 221,
+        "ch": 0
+      },
+      "to": {
+        "line": 221,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-24 受財政部長演講影響，日圓兌美元匯率走強至156。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 26
+      },
+      "to": {
+        "line": 0,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-23 受財政部長演講影響，日圓兌美元匯率走強至156。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 26
+      },
+      "to": {
+        "line": 0,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "Green & Energy Technology/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Green & Energy Technology/2025-12-23 日本東京電力公司將於1月20日部分重啟全球最大的核電廠。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Green & Energy Technology/2025-12-24 日本東京電力公司將於1月20日部分重啟全球最大的核電廠。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 374
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2024-12-24 印尼和越南鞋類製造商感受到了美國關稅的壓力.md": {
+    "scroll": 83.4805497687972,
+    "cursor": {
+      "from": {
+        "line": 96,
+        "ch": 108
+      },
+      "to": {
+        "line": 96,
+        "ch": 108
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/最新研究表明，大腦老化分為五個不同階段.md": {
+    "scroll": 8.791377226511637,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 2
+      },
+      "to": {
+        "line": 14,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2025-12-23 最新研究表明，大腦老化分為五個不同階段.md": {
+    "scroll": 59.98900826772054,
+    "cursor": {
+      "from": {
+        "line": 70,
+        "ch": 13
+      },
+      "to": {
+        "line": 70,
+        "ch": 13
       }
     },
     "expandedKeys": []
