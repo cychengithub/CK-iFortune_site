@@ -1,5 +1,4 @@
 import os
-import urllib.parse
 
 def final_update_index(base_dir="docs"):
     categories = {
@@ -34,25 +33,25 @@ hide:
     for folder, title in categories.items():
         folder_path = os.path.join(base_dir, folder)
         if os.path.exists(folder_path):
+            # 抓取檔案並依標題日期倒序排列
             files = [f for f in os.listdir(folder_path) if f.endswith(".md") and f != "index.md"]
-            files.sort(reverse=True)
+            files.sort(reverse=True) 
             
-            # 關鍵修正：對路徑進行編碼以解決 404
-            safe_folder = urllib.parse.quote(folder)
-            content += f"\n## [{title}]({safe_folder}/)\n"
+            # 修正：直接使用原始資料夾名稱，MkDocs 能更好地解析
+            content += f"## [{title}]({folder}/)\n"
             
             if files:
                 for f in files[:3]:
                     name = f.replace(".md", "")
-                    safe_file = urllib.parse.quote(f)
-                    content += f"* [{name}]({safe_folder}/{safe_file})\n"
+                    # 直接使用原始檔名，解決 404 問題
+                    content += f"* [{name}]({folder}/{f})\n"
             else:
                 content += "* (目前此分類尚無文章)\n"
             content += "\n---\n"
 
     with open(os.path.join(base_dir, "index.md"), "w", encoding="utf-8") as f:
         f.write(content)
-    print("✅ 修正後的 index.md 已生成，請重新部署測試。")
+    print("✅ 首頁 index.md 已更新（路徑已優化）！")
 
 if __name__ == "__main__":
     final_update_index()
