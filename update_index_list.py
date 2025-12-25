@@ -1,8 +1,7 @@
 import os
-import urllib.parse
 
 def final_update_index(base_dir="docs"):
-    # 嚴格對應您的資料夾名稱
+    # 確保資料夾名稱與您本地完全一致
     categories = {
         "Politics & Economics": "📊 政治總體經濟 Politics & Economics",
         "Investment": "📈 投資 Investment",
@@ -15,7 +14,6 @@ def final_update_index(base_dir="docs"):
         "Life & Art": "🎨 生活與藝術 Life & Art"
     }
     
-    # 修改重點：在標題下方插入 img 標籤並設定 width
     header = """---
 hide:
   - toc
@@ -35,27 +33,26 @@ hide:
     content = header
     for folder, title in categories.items():
         folder_path = os.path.join(base_dir, folder)
-        
         if os.path.exists(folder_path):
+            # 抓取最新 3 篇
             files = [f for f in os.listdir(folder_path) if f.endswith(".md") and f != "index.md"]
-            files.sort(reverse=True)
+            files.sort(reverse=True) 
             
-            safe_path = urllib.parse.quote(folder)
-            content += f"\n## [{title}]({safe_path}/)\n"
+            # 重要修正：直接使用原始資料夾名稱，不要用 urllib.parse.quote
+            content += f"\n## [{title}]({folder}/)\n"
             
             if files:
                 for f in files[:3]:
                     name = f.replace(".md", "")
-                    safe_file_path = urllib.parse.quote(f)
-                    content += f"* [{name}]({safe_path}/{safe_file_path})\n"
+                    # 重要修正：檔案連結也直接使用檔名
+                    content += f"* [{name}]({folder}/{f})\n"
             else:
                 content += "* (目前此分類尚無文章)\n"
-            
             content += "\n---\n"
 
     with open(os.path.join(base_dir, "index.md"), "w", encoding="utf-8") as f:
         f.write(content)
-    print("✅ 首頁 index.md 已依照您的資料夾名稱完美更新（含縮小的 Logo）！")
+    print("✅ 首頁 index.md 已更新（連結已修正，解決 404 問題）！")
 
 if __name__ == "__main__":
     final_update_index()

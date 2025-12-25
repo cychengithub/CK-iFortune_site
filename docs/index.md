@@ -13,61 +13,61 @@ hide:
 
 ---
 
-## [📊 政治總體經濟 Politics & Economics](Politics%20%26%20Economics/)
-* [2025-12-23 消費者推動美國經濟實現兩年來最強勁成長](Politics%20%26%20Economics/2025-12-23%20%E6%B6%88%E8%B2%BB%E8%80%85%E6%8E%A8%E5%8B%95%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E5%AF%A6%E7%8F%BE%E5%85%A9%E5%B9%B4%E4%BE%86%E6%9C%80%E5%BC%B7%E5%8B%81%E6%88%90%E9%95%B7.md)
-* [2025-12-23 日本高市財長就債務問題發表強硬言論，債券殖利率飆升](Politics%20%26%20Economics/2025-12-23%20%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B8%82%E8%B2%A1%E9%95%B7%E5%B0%B1%E5%82%B5%E5%8B%99%E5%95%8F%E9%A1%8C%E7%99%BC%E8%A1%A8%E5%BC%B7%E7%A1%AC%E8%A8%80%E8%AB%96%EF%BC%8C%E5%82%B5%E5%88%B8%E6%AE%96%E5%88%A9%E7%8E%87%E9%A3%86%E5%8D%87.md)
-* [2025-12-23 受財政部長演講影響，日圓兌美元匯率走強至156。](Politics%20%26%20Economics/2025-12-23%20%E5%8F%97%E8%B2%A1%E6%94%BF%E9%83%A8%E9%95%B7%E6%BC%94%E8%AC%9B%E5%BD%B1%E9%9F%BF%EF%BC%8C%E6%97%A5%E5%9C%93%E5%85%8C%E7%BE%8E%E5%85%83%E5%8C%AF%E7%8E%87%E8%B5%B0%E5%BC%B7%E8%87%B3156%E3%80%82.md)
+## [📊 政治總體經濟 Politics & Economics](Politics & Economics/)
+* [2025-12-23 消費者推動美國經濟實現兩年來最強勁成長](Politics & Economics/2025-12-23 消費者推動美國經濟實現兩年來最強勁成長.md)
+* [2025-12-23 日本高市財長就債務問題發表強硬言論，債券殖利率飆升](Politics & Economics/2025-12-23 日本高市財長就債務問題發表強硬言論，債券殖利率飆升.md)
+* [2025-12-23 受財政部長演講影響，日圓兌美元匯率走強至156。](Politics & Economics/2025-12-23 受財政部長演講影響，日圓兌美元匯率走強至156。.md)
 
 ---
 
 ## [📈 投資 Investment](Investment/)
-* [2025-12-24 印尼和越南鞋類製造商感受到了美國關稅的壓力](Investment/2025-12-24%20%E5%8D%B0%E5%B0%BC%E5%92%8C%E8%B6%8A%E5%8D%97%E9%9E%8B%E9%A1%9E%E8%A3%BD%E9%80%A0%E5%95%86%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E7%BE%8E%E5%9C%8B%E9%97%9C%E7%A8%85%E7%9A%84%E5%A3%93%E5%8A%9B.md)
-* [2025-12-24 2026 年主要雲端巨頭（Hyperscalers）的資本支出預測](Investment/2025-12-24%202026%20%E5%B9%B4%E4%B8%BB%E8%A6%81%E9%9B%B2%E7%AB%AF%E5%B7%A8%E9%A0%AD%EF%BC%88Hyperscalers%EF%BC%89%E7%9A%84%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E9%A0%90%E6%B8%AC.md)
-* [2025-12-22 私募信貸盛宴散場，散戶投資者受挫](Investment/2025-12-22%20%E7%A7%81%E5%8B%9F%E4%BF%A1%E8%B2%B8%E7%9B%9B%E5%AE%B4%E6%95%A3%E5%A0%B4%EF%BC%8C%E6%95%A3%E6%88%B6%E6%8A%95%E8%B3%87%E8%80%85%E5%8F%97%E6%8C%AB.md)
+* [2025-12-24 印尼和越南鞋類製造商感受到了美國關稅的壓力](Investment/2025-12-24 印尼和越南鞋類製造商感受到了美國關稅的壓力.md)
+* [2025-12-24 2026 年主要雲端巨頭（Hyperscalers）的資本支出預測](Investment/2025-12-24 2026 年主要雲端巨頭（Hyperscalers）的資本支出預測.md)
+* [2025-12-22 私募信貸盛宴散場，散戶投資者受挫](Investment/2025-12-22 私募信貸盛宴散場，散戶投資者受挫.md)
 
 ---
 
-## [🤖 人工智慧 AI Technology](AI%20Technology/)
-* [AI_operation_costs](AI%20Technology/AI_operation_costs.md)
+## [🤖 人工智慧 AI Technology](AI Technology/)
+* [AI_operation_costs](AI Technology/AI_operation_costs.md)
 
 ---
 
-## [🦾 機器人和電動車 Robotics & EV](Robotics%20EV%20%26%20Automation/)
-* [2025-12-16 歐盟擬爲車企在2030年氣候目標上留出緩衝期](Robotics%20EV%20%26%20Automation/2025-12-16%20%E6%AD%90%E7%9B%9F%E6%93%AC%E7%88%B2%E8%BB%8A%E4%BC%81%E5%9C%A82030%E5%B9%B4%E6%B0%A3%E5%80%99%E7%9B%AE%E6%A8%99%E4%B8%8A%E7%95%99%E5%87%BA%E7%B7%A9%E8%A1%9D%E6%9C%9F.md)
-* [2025-12-15 英國政府堅稱不改變電動汽車轉型目標](Robotics%20EV%20%26%20Automation/2025-12-15%20%E8%8B%B1%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%A0%85%E7%A8%B1%E4%B8%8D%E6%94%B9%E8%AE%8A%E9%9B%BB%E5%8B%95%E6%B1%BD%E8%BB%8A%E8%BD%89%E5%9E%8B%E7%9B%AE%E6%A8%99.md)
-* [2025-12-15 小鵬汽車將在馬來西亞建立第三個海外生產基地](Robotics%20EV%20%26%20Automation/2025-12-15%20%E5%B0%8F%E9%B5%AC%E6%B1%BD%E8%BB%8A%E5%B0%87%E5%9C%A8%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%B8%89%E5%80%8B%E6%B5%B7%E5%A4%96%E7%94%9F%E7%94%A2%E5%9F%BA%E5%9C%B0.md)
+## [🦾 機器人和電動車 Robotics & EV](Robotics EV & Automation/)
+* [2025-12-16 歐盟擬爲車企在2030年氣候目標上留出緩衝期](Robotics EV & Automation/2025-12-16 歐盟擬爲車企在2030年氣候目標上留出緩衝期.md)
+* [2025-12-15 英國政府堅稱不改變電動汽車轉型目標](Robotics EV & Automation/2025-12-15 英國政府堅稱不改變電動汽車轉型目標.md)
+* [2025-12-15 小鵬汽車將在馬來西亞建立第三個海外生產基地](Robotics EV & Automation/2025-12-15 小鵬汽車將在馬來西亞建立第三個海外生產基地.md)
 
 ---
 
 ## [📟 半導體 Semiconductor](Semiconductor/)
-* [2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保](Semiconductor/2025-12-19%20%E6%97%A5%E6%9C%AC%E8%80%83%E6%85%AE%E7%82%BA%E6%99%B6%E7%89%87%E8%A3%BD%E9%80%A0%E5%95%86Rapidus%E6%8F%90%E4%BE%9B%E9%AB%98%E9%81%9480%25%E7%9A%84%E8%B2%B8%E6%AC%BE%E6%93%94%E4%BF%9D.md)
-* [2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長](Semiconductor/2025-12-17%20%E7%BE%8E%E5%85%89%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%A4%A7%E5%B9%85%E6%88%90%E9%95%B7%EF%BC%8C%E9%A0%90%E8%A8%88%20AI%20%E9%9C%80%E6%B1%82%E8%B6%85%E9%81%8E%E4%BE%9B%E6%87%89%E5%B0%87%E5%B8%B6%E4%BE%86%E9%80%B2%E4%B8%80%E6%AD%A5%E6%88%90%E9%95%B7.md)
-* [2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市](Semiconductor/2025-12-10%20%E9%9A%A8%E8%91%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%99%B6%E7%89%87%E9%9C%80%E6%B1%82%E5%A2%9E%E5%8A%A0%EF%BC%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%80%83%E6%85%AE%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%B8%8A%E5%B8%82.md)
+* [2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保](Semiconductor/2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保.md)
+* [2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長](Semiconductor/2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長.md)
+* [2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市](Semiconductor/2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市.md)
 
 ---
 
 ## [🪙 加密貨幣 Crypto](Crypto/)
-* [2025-12-16 GPU 資產證券化瀑布流](Crypto/2025-12-16%20GPU%20%E8%B3%87%E7%94%A2%E8%AD%89%E5%88%B8%E5%8C%96%E7%80%91%E5%B8%83%E6%B5%81.md)
-* [2025-12-15 資產配置](Crypto/2025-12-15%20%E8%B3%87%E7%94%A2%E9%85%8D%E7%BD%AE.md)
-* [2025-12-15 「穩定幣超級週期」爲什麼可能重塑銀行業？](Crypto/2025-12-15%20%E3%80%8C%E7%A9%A9%E5%AE%9A%E5%B9%A3%E8%B6%85%E7%B4%9A%E9%80%B1%E6%9C%9F%E3%80%8D%E7%88%B2%E4%BB%80%E9%BA%BC%E5%8F%AF%E8%83%BD%E9%87%8D%E5%A1%91%E9%8A%80%E8%A1%8C%E6%A5%AD%EF%BC%9F.md)
+* [2025-12-16 GPU 資產證券化瀑布流](Crypto/2025-12-16 GPU 資產證券化瀑布流.md)
+* [2025-12-15 資產配置](Crypto/2025-12-15 資產配置.md)
+* [2025-12-15 「穩定幣超級週期」爲什麼可能重塑銀行業？](Crypto/2025-12-15 「穩定幣超級週期」爲什麼可能重塑銀行業？.md)
 
 ---
 
-## [⚡ 綠能與能源技術 Green & Energy Technology](Green%20%26%20Energy%20Technology/)
-* [2025-12-24 日本東京電力公司將於1月20日部分重啟全球最大的核電廠。](Green%20%26%20Energy%20Technology/2025-12-24%20%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%8A%9B%E5%85%AC%E5%8F%B8%E5%B0%87%E6%96%BC1%E6%9C%8820%E6%97%A5%E9%83%A8%E5%88%86%E9%87%8D%E5%95%9F%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E6%A0%B8%E9%9B%BB%E5%BB%A0%E3%80%82.md)
-* [2025-12-05 日本廢氣過濾技術成碳捕獲 (DAC) 關鍵，Heirloom 尋求日本供應鏈支持](Green%20%26%20Energy%20Technology/2025-12-05%20%E6%97%A5%E6%9C%AC%E5%BB%A2%E6%B0%A3%E9%81%8E%E6%BF%BE%E6%8A%80%E8%A1%93%E6%88%90%E7%A2%B3%E6%8D%95%E7%8D%B2%20%28DAC%29%20%E9%97%9C%E9%8D%B5%EF%BC%8CHeirloom%20%E5%B0%8B%E6%B1%82%E6%97%A5%E6%9C%AC%E4%BE%9B%E6%87%89%E9%8F%88%E6%94%AF%E6%8C%81.md)
+## [⚡ 綠能與能源技術 Green & Energy Technology](Green & Energy Technology/)
+* [2025-12-24 日本東京電力公司將於1月20日部分重啟全球最大的核電廠。](Green & Energy Technology/2025-12-24 日本東京電力公司將於1月20日部分重啟全球最大的核電廠。.md)
+* [2025-12-05 日本廢氣過濾技術成碳捕獲 (DAC) 關鍵，Heirloom 尋求日本供應鏈支持](Green & Energy Technology/2025-12-05 日本廢氣過濾技術成碳捕獲 (DAC) 關鍵，Heirloom 尋求日本供應鏈支持.md)
 
 ---
 
-## [🧬 醫藥 & 生物科技 Bio & Life Science](Bio%20%26%20Life%20Science/)
-* [定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告](Bio%20%26%20Life%20Science/%E5%AE%9A%E9%87%8F%E8%81%9A%E5%90%88%E9%85%B6%E9%80%A3%E9%8E%96%E5%8F%8D%E6%87%89%20%28qPCR%29%20%E5%84%80%E5%99%A8%E9%97%9C%E9%8D%B5%E9%9B%B6%E7%B5%84%E4%BB%B6%E4%BE%9B%E6%87%89%E9%8F%88%E6%B7%B1%E5%BA%A6%E6%88%B0%E7%95%A5%E5%88%86%E6%9E%90%E5%A0%B1%E5%91%8A.md)
-* [4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義](Bio%20%26%20Life%20Science/4%20Channel%20LED%20qPCR%20%E5%84%80%E5%99%A8%E9%96%8B%E7%99%BC%E6%88%B0%E7%95%A5%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%20-%20%E5%B8%82%E5%A0%B4%E6%A0%BC%E5%B1%80%E3%80%81%E6%8A%80%E8%A1%93%E5%A3%81%E5%A3%98%E8%88%87%E8%A6%8F%E6%A0%BC%E5%AE%9A%E7%BE%A9.md)
+## [🧬 醫藥 & 生物科技 Bio & Life Science](Bio & Life Science/)
+* [定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告](Bio & Life Science/定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告.md)
+* [4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義](Bio & Life Science/4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md)
 
 ---
 
-## [🎨 生活與藝術 Life & Art](Life%20%26%20Art/)
-* [2025-12-23 最新研究表明，大腦老化分為五個不同階段](Life%20%26%20Art/2025-12-23%20%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%EF%BC%8C%E5%A4%A7%E8%85%A6%E8%80%81%E5%8C%96%E5%88%86%E7%82%BA%E4%BA%94%E5%80%8B%E4%B8%8D%E5%90%8C%E9%9A%8E%E6%AE%B5.md)
-* [2025-12-10 50歲後自身免疫性疾病為何激增？](Life%20%26%20Art/2025-12-10%2050%E6%AD%B2%E5%BE%8C%E8%87%AA%E8%BA%AB%E5%85%8D%E7%96%AB%E6%80%A7%E7%96%BE%E7%97%85%E7%82%BA%E4%BD%95%E6%BF%80%E5%A2%9E%EF%BC%9F.md)
-* [2025-12-07 高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦](Life%20%26%20Art/2025-12-07%20%E9%AB%98%E9%9B%84%E5%9E%83%E5%9C%BE%E9%87%8F%E5%85%AD%E9%83%BD%E4%B9%8B%E9%A6%96%EF%BC%814%E7%84%9A%E5%8C%96%E7%88%90%E5%BF%AB%E6%92%90%E4%B8%8D%E4%BD%8F%20%E9%9A%A8%E8%A2%8B%E5%BE%B5%E6%94%B6%E6%93%B4%E5%A4%A7%E8%A9%A6%E8%BE%A6.md)
+## [🎨 生活與藝術 Life & Art](Life & Art/)
+* [2025-12-23 最新研究表明，大腦老化分為五個不同階段](Life & Art/2025-12-23 最新研究表明，大腦老化分為五個不同階段.md)
+* [2025-12-10 50歲後自身免疫性疾病為何激增？](Life & Art/2025-12-10 50歲後自身免疫性疾病為何激增？.md)
+* [2025-12-07 高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦](Life & Art/2025-12-07 高雄垃圾量六都之首！4焚化爐快撐不住 隨袋徵收擴大試辦.md)
 
 ---

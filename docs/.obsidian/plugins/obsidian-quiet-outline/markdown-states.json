@@ -1123,15 +1123,15 @@
     "expandedKeys": []
   },
   "index.md": {
-    "scroll": 16.211805025736492,
+    "scroll": 13.734665075937906,
     "cursor": {
       "from": {
         "line": 23,
-        "ch": 5
+        "ch": 159
       },
       "to": {
         "line": 23,
-        "ch": 7
+        "ch": 159
       }
     },
     "expandedKeys": [
@@ -1741,7 +1741,7 @@
     "expandedKeys": []
   },
   "Investment/2025-12-22 私募信貸盛宴散場，散戶投資者受挫.md": {
-    "scroll": 383.8324534893036,
+    "scroll": 351.82086460396545,
     "cursor": {
       "from": {
         "line": 333,
@@ -1937,7 +1937,7 @@
     "expandedKeys": []
   },
   "Investment/2025-12-24 印尼和越南鞋類製造商感受到了美國關稅的壓力.md": {
-    "scroll": 87.37381274168098,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 94,
@@ -1945,6 +1945,20 @@
       },
       "to": {
         "line": 94,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
