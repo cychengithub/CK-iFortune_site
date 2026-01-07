@@ -20,15 +20,15 @@
     ]
   },
   "Investment/未命名.md": {
-    "scroll": 10.14981725026126,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 2,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -122,7 +122,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 26
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -250,12 +250,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 2,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -330,12 +330,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -505,15 +505,15 @@
     ]
   },
   "AI Technology/System Hardware/未命名.md": {
-    "scroll": 0,
+    "scroll": 73.009765625,
     "cursor": {
       "from": {
         "line": 2,
-        "ch": 16
+        "ch": 0
       },
       "to": {
         "line": 2,
-        "ch": 16
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -923,11 +923,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 1,
+        "line": 0,
         "ch": 0
       }
     },
@@ -1123,15 +1123,15 @@
     "expandedKeys": []
   },
   "index.md": {
-    "scroll": 13.734665075937906,
+    "scroll": 43.5184681521779,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 159
+        "line": 34,
+        "ch": 0
       },
       "to": {
-        "line": 23,
-        "ch": 159
+        "line": 34,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1960,6 +1960,832 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-24.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/資料中心建置瓶頸威脅日本人工智慧雄心.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 3
+      },
+      "to": {
+        "line": 4,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2025-12-03 資料中心建置瓶頸威脅日本人工智慧雄心.md": {
+    "scroll": 30.9620684343762,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 61
+      },
+      "to": {
+        "line": 36,
+        "ch": 61
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-30.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 22
+      },
+      "to": {
+        "line": 3,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-30 華爾街日報.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 40
+      },
+      "to": {
+        "line": 3,
+        "ch": 40
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-30 華爾街日報, 巴倫週刊.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 74
+      },
+      "to": {
+        "line": 3,
+        "ch": 74
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-30 華爾街日報, 巴倫週刊, MarketWatch.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 7
+      },
+      "to": {
+        "line": 1,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-30 建立一套觀察每日重要新聞的高效策略 - 華爾街日報, 巴倫週刊, MarketWatch.md": {
+    "scroll": 68.47657130722692,
+    "cursor": {
+      "from": {
+        "line": 82,
+        "ch": 131
+      },
+      "to": {
+        "line": 82,
+        "ch": 131
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-12-30.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-12-30(轉).md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 70
+      },
+      "to": {
+        "line": 2,
+        "ch": 70
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-12-30(轉) LPU 單元或許會透過台積電的混合鍵合（Hybrid Bonding）技術堆疊在下一代 Feynman GPU 上.md": {
+    "scroll": 399.2995647518984,
+    "cursor": {
+      "from": {
+        "line": 331,
+        "ch": 0
+      },
+      "to": {
+        "line": 331,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-26.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-26 Is The “Everything Energy” Party Over  Here Are The Stocks to Watch in 2026.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-26 能源股的狂歡派對結束了嗎？2026 年值得關注的股票.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-26 能源股的狂歡派對結束了嗎 2026 年值得關注的股票.md": {
+    "scroll": 186.34909454775462,
+    "cursor": {
+      "from": {
+        "line": 220,
+        "ch": 121
+      },
+      "to": {
+        "line": 220,
+        "ch": 121
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-30 60 萬美金的投資配置.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 68
+      },
+      "to": {
+        "line": 1,
+        "ch": 68
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-31 華爾街 2026 年度展望總結：從「雲端」落地到「邊緣」.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 81,
+        "ch": 4
+      },
+      "to": {
+        "line": 81,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-31.md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 69
+      },
+      "to": {
+        "line": 3,
+        "ch": 69
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-31 市場結構 (Market Structure)與 預期管理遊戲 (Expectation Management Game).md": {
+    "scroll": 10.14981725026126,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 11
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-31 華爾街「不能說的秘密」市場結構 (Market Structure)與 預期管理遊戲 (Expectation Management Game).md": {
+    "scroll": 58.11999910663807,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2025-12-23.md": {
+    "scroll": 12.35995372136434,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2025-12-23 大金加入美國人工智慧資料中心先進冷卻技術應用競賽.md": {
+    "scroll": 24.44777258237203,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 72
+      },
+      "to": {
+        "line": 24,
+        "ch": 72
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 59
+      },
+      "to": {
+        "line": 4,
+        "ch": 59
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-02 五位華爾街投資者談如何布局2026年投資.md": {
+    "scroll": 89.33048094015739,
+    "cursor": {
+      "from": {
+        "line": 105,
+        "ch": 67
+      },
+      "to": {
+        "line": 105,
+        "ch": 67
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-02 美國公寓市場創十多年來最差表現.md": {
+    "scroll": 92.5811634461085,
+    "cursor": {
+      "from": {
+        "line": 96,
+        "ch": 23
+      },
+      "to": {
+        "line": 96,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 14
+      },
+      "to": {
+        "line": 2,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-02 中國暗示在拉美將對美國「寸步不讓」.md": {
+    "scroll": 86.91247045993805,
+    "cursor": {
+      "from": {
+        "line": 94,
+        "ch": 66
+      },
+      "to": {
+        "line": 94,
+        "ch": 66
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-02 關於中國近期環台軍演，你需要知道的五個要點.md": {
+    "scroll": 76.74720266130235,
+    "cursor": {
+      "from": {
+        "line": 81,
+        "ch": 0
+      },
+      "to": {
+        "line": 81,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-02 從捕蝦農、車企到律師：全球如何應對川普貿易戰？.md": {
+    "scroll": 131.77950366338095,
+    "cursor": {
+      "from": {
+        "line": 134,
+        "ch": 144
+      },
+      "to": {
+        "line": 134,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2025-12-30.md": {
+    "scroll": 13.84146600895592,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2025-12-30 若把美中AI競爭看成一場橄欖球賽，目前的比分是24比18.md": {
+    "scroll": 102.03346103606269,
+    "cursor": {
+      "from": {
+        "line": 122,
+        "ch": 0
+      },
+      "to": {
+        "line": 122,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2025-12-30 Meta收購中國出海的AI初創公司Manus.md": {
+    "scroll": 32.79051113128662,
+    "cursor": {
+      "from": {
+        "line": 53,
+        "ch": 23
+      },
+      "to": {
+        "line": 53,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-02 台灣麵包市場大翻轉！到7-11、全家買的人「變多又敢花」，全聯平均消費金額下降了.md": {
+    "scroll": 70.67843466722816,
+    "cursor": {
+      "from": {
+        "line": 80,
+        "ch": 95
+      },
+      "to": {
+        "line": 80,
+        "ch": 95
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-02 拆解羅智先的「台式零售」野心，如何靠統一生態圈硬槓全聯聯軍？.md": {
+    "scroll": 26.798590677024343,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 16
+      },
+      "to": {
+        "line": 32,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/未命名 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-02 深入了解伊隆馬斯克的擎天柱機器人項目.md": {
+    "scroll": 82.68164050579071,
+    "cursor": {
+      "from": {
+        "line": 100,
+        "ch": 24
+      },
+      "to": {
+        "line": 100,
+        "ch": 24
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2026-01-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Business/2026-01-02 OpenAI 正在挑戰蘋果應用商店。但它還有很長的路要走.md": {
+    "scroll": 48.59512390693029,
+    "cursor": {
+      "from": {
+        "line": 54,
+        "ch": 94
+      },
+      "to": {
+        "line": 54,
+        "ch": 94
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-31.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 2
+      },
+      "to": {
+        "line": 4,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-31 最高法院的臨時裁決正在產生長期影響.md": {
+    "scroll": 26.608217398325603,
+    "cursor": {
+      "from": {
+        "line": 80,
+        "ch": 130
+      },
+      "to": {
+        "line": 80,
+        "ch": 130
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-01.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-01 加州億萬富翁稅威脅引發超級富豪的批評.md": {
+    "scroll": 92.94465897480647,
+    "cursor": {
+      "from": {
+        "line": 98,
+        "ch": 147
+      },
+      "to": {
+        "line": 98,
+        "ch": 148
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-25.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2025-12-25 華倫·巴菲特和私募股權都鍾愛保險業。相似之處就止於此.md": {
+    "scroll": 146.69848815600076,
+    "cursor": {
+      "from": {
+        "line": 165,
+        "ch": 0
+      },
+      "to": {
+        "line": 165,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-06.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 2
+      },
+      "to": {
+        "line": 1,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-05.md": {
+    "scroll": 1.8683796261134313,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-05 關稅會導致通貨膨脹嗎？最新研究給了令人驚訝的答案.md": {
+    "scroll": 35.88389776150385,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 0
+      },
+      "to": {
+        "line": 40,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-04.md": {
+    "scroll": 52.09693646430969,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-04 美國人正在失去對披薩的熱愛.md": {
+    "scroll": 25.971585512161255,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 26
+      },
+      "to": {
+        "line": 49,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-01-03.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 97
+      },
+      "to": {
+        "line": 0,
+        "ch": 97
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-01-03 輝達 2026 年 CoWoS 需求觀察：Rubin 與 Blackwell 的產能配 置調整.md": {
+    "scroll": 216.7975797579758,
+    "cursor": {
+      "from": {
+        "line": 252,
+        "ch": 22
+      },
+      "to": {
+        "line": 252,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-05 2026年電力與算力斷層：美國資料中心基礎設施對AI晶片部署的限制與影響深度研究報告.md": {
+    "scroll": 243.98502604166666,
+    "cursor": {
+      "from": {
+        "line": 256,
+        "ch": 0
+      },
+      "to": {
+        "line": 256,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-05 2026-2027年資料中心電力供應鏈限制與新增產能預測報告：基礎設施瓶頸、關鍵零組件分析與供應商產能評估.md": {
+    "scroll": 28.912760416666668,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 230
+      },
+      "to": {
+        "line": 8,
+        "ch": 230
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-06 針對利用離峰儲能解決人工智慧資料中心電力短缺之深度評估與投資分析報告.md": {
+    "scroll": 52.9296875,
+    "cursor": {
+      "from": {
+        "line": 146,
+        "ch": 0
+      },
+      "to": {
+        "line": 146,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-06 吉瓦級AI訓練負載波動——電網停電的風險？.md": {
+    "scroll": 116.28361344537815,
+    "cursor": {
+      "from": {
+        "line": 123,
+        "ch": 88
+      },
+      "to": {
+        "line": 123,
+        "ch": 88
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-06 20+ 個關鍵資訊來源清單，涵蓋了從「晶片底層硬體」、「資料中心基礎建設」到「電力能源市場」的完整產業鏈.md": {
+    "scroll": 32.448459715639814,
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 29
+      },
+      "to": {
+        "line": 45,
+        "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-06.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 2
+      },
+      "to": {
+        "line": 4,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/AI Infrasture/2026-01-06  關於資料中心斷電以避免停電的爭論.md": {
+    "scroll": 67.98675563304721,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 1
+      },
+      "to": {
+        "line": 8,
+        "ch": 4
       }
     },
     "expandedKeys": []
