@@ -1,8 +1,4 @@
----
-hide:
-  - toc
----
-# 🚀 Software, Model, Service 專題研究總覽
+# 🚀Hardware & System 
 
 ---
 # <span style="color: red; font-weight: bold;">請點擊左側導航欄的分類目錄</span>

@@ -2,11 +2,14 @@ import os
 
 def final_update_index(base_dir="docs"):
     categories = {
+        "AI Business": "🤖 人工智慧 AI Business",
+        "AI Infrasture": "🤖 人工智慧 AI Infrasture",
+        "AI Hardware & System": "🤖 人工智慧 AI Hardware & System",
+        "AI Software & Service": "🤖 人工智慧 AI Software & Service",
         "Politics & Economics": "📊 政治總體經濟 Politics & Economics",
         "Investment": "📈 投資 Investment",
-        "AI Technology": "🤖 人工智慧 AI Technology",
-        "Robotics EV & Automation": "🦾 機器人和電動車 Robotics & EV",
         "Semiconductor": "📟 半導體 Semiconductor",
+        "Robotics EV & Automation": "🦾 機器人和電動車 Robotics & EV",
         "Crypto": "🪙 加密貨幣 Crypto",
         "Green & Energy Technology": "⚡ 綠能與能源技術 Green & Energy Technology",
         "Bio & Life Science": "🧬 醫藥 & 生物科技 Bio & Life Science",

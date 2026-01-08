@@ -541,12 +541,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 116,
+        "line": 1,
         "ch": 0
       },
       "to": {
-        "line": 116,
-        "ch": 133
+        "line": 1,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1123,15 +1123,15 @@
     "expandedKeys": []
   },
   "index.md": {
-    "scroll": 26.707350901525658,
+    "scroll": 0.10478589420654912,
     "cursor": {
       "from": {
-        "line": 42,
-        "ch": 28
+        "line": 27,
+        "ch": 13
       },
       "to": {
-        "line": 42,
-        "ch": 3
+        "line": 27,
+        "ch": 13
       }
     },
     "expandedKeys": [
@@ -1268,12 +1268,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 5
+        "line": 6,
+        "ch": 12
       },
       "to": {
-        "line": 0,
-        "ch": 5
+        "line": 6,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -1310,12 +1310,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       },
       "to": {
         "line": 4,
-        "ch": 0
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -2105,15 +2105,15 @@
     "expandedKeys": []
   },
   "AI Technology/System Hardware/2025-12-30(轉) LPU 單元或許會透過台積電的混合鍵合（Hybrid Bonding）技術堆疊在下一代 Feynman GPU 上.md": {
-    "scroll": 399.2995647518984,
+    "scroll": 0.061068702290076333,
     "cursor": {
       "from": {
-        "line": 331,
-        "ch": 0
+        "line": 4,
+        "ch": 130
       },
       "to": {
-        "line": 331,
-        "ch": 0
+        "line": 4,
+        "ch": 130
       }
     },
     "expandedKeys": []
@@ -2679,7 +2679,7 @@
     "expandedKeys": []
   },
   "AI Technology/System Hardware/2025-01-03 輝達 2026 年 CoWoS 需求觀察：Rubin 與 Blackwell 的產能配 置調整.md": {
-    "scroll": 216.7975797579758,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 252,
@@ -2934,12 +2934,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 8,
+        "ch": 12
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 8,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -2968,6 +2968,146 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-12-30 LPU 單元或許會透過台積電的混合鍵合（Hybrid Bonding）技術堆疊在下一代 Feynman GPU 上.md": {
+    "scroll": 0.061068702290076333,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 130
+      },
+      "to": {
+        "line": 4,
+        "ch": 130
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/比較 TPU v6、TPU v7（Ironwood）與 NVIDIA Blackwell（B200 GB200）在 $ per FLOP與功耗 能效上的差異.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-07-01 Vertiv 熱管理與電力分配.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 132
+      },
+      "to": {
+        "line": 3,
+        "ch": 132
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-08-01 雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 132
+      },
+      "to": {
+        "line": 3,
+        "ch": 132
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/AI_operation_costs.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Technology/System Hardware/2025-11-01 AI_operation_costs.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 5
+      },
+      "to": {
+        "line": 17,
+        "ch": 5
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 26
+      },
+      "to": {
+        "line": 5,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 15
+      },
+      "to": {
+        "line": 0,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 24
+      },
+      "to": {
+        "line": 0,
+        "ch": 24
       }
     },
     "expandedKeys": []

@@ -12,6 +12,30 @@ hide:
 # <span style="color: red; font-weight: bold;">請直接點擊下方分類</span>，即可進入該領域的文章列表：
 
 ---
+## [🤖 人工智慧 AI Business](AI Business/)
+* [2026-01-07 英偉達的Blackwell和Rubin晶片「適時」將在中國上市](AI Business/2026-01-07 英偉達的Blackwell和Rubin晶片「適時」將在中國上市.md)
+* [2026-01-02 OpenAI 正在挑戰蘋果應用商店。但它還有很長的路要走](AI Business/2026-01-02 OpenAI 正在挑戰蘋果應用商店。但它還有很長的路要走.md)
+* [2025-12-30 若把美中AI競爭看成一場橄欖球賽，目前的比分是24比18](AI Business/2025-12-30 若把美中AI競爭看成一場橄欖球賽，目前的比分是24比18.md)
+* [2025-12-30 Meta收購中國出海的AI初創公司Manus](AI Business/2025-12-30 Meta收購中國出海的AI初創公司Manus.md)
+* [2025-12-1２ 德銀深度報告：真假AI泡沫，究竟誰在裸泳？](AI Business/2025-12-1２ 德銀深度報告：真假AI泡沫，究竟誰在裸泳？.md)
+
+---
+## [🤖 人工智慧 AI Infrasture](AI Infrasture/)
+* [2026-01-06 針對利用離峰儲能解決人工智慧資料中心電力短缺之深度評估與投資分析報告](AI Infrasture/2026-01-06 針對利用離峰儲能解決人工智慧資料中心電力短缺之深度評估與投資分析報告.md)
+* [2026-01-06 吉瓦級AI訓練負載波動——電網停電的風險？](AI Infrasture/2026-01-06 吉瓦級AI訓練負載波動——電網停電的風險？.md)
+* [2026-01-06 20+ 個關鍵資訊來源清單，涵蓋了從「晶片底層硬體」、「資料中心基礎建設」到「電力能源市場」的完整產業鏈](AI Infrasture/2026-01-06 20+ 個關鍵資訊來源清單，涵蓋了從「晶片底層硬體」、「資料中心基礎建設」到「電力能源市場」的完整產業鏈.md)
+* [2026-01-06  關於資料中心斷電以避免停電的爭論](AI Infrasture/2026-01-06  關於資料中心斷電以避免停電的爭論.md)
+* [2026-01-05 2026年電力與算力斷層：美國資料中心基礎設施對AI晶片部署的限制與影響深度研究報告](AI Infrasture/2026-01-05 2026年電力與算力斷層：美國資料中心基礎設施對AI晶片部署的限制與影響深度研究報告.md)
+
+---
+## [🤖 人工智慧 AI Hardware & System](AI Hardware & System/)
+* [2026-01-03 輝達 2026 年 CoWoS 需求觀察：Rubin 與 Blackwell 的產能配 置調整](AI Hardware & System/2026-01-03 輝達 2026 年 CoWoS 需求觀察：Rubin 與 Blackwell 的產能配 置調整.md)
+* [2025-12-30 LPU 單元或許會透過台積電的混合鍵合（Hybrid Bonding）技術堆疊在下一代 Feynman GPU 上](AI Hardware & System/2025-12-30 LPU 單元或許會透過台積電的混合鍵合（Hybrid Bonding）技術堆疊在下一代 Feynman GPU 上.md)
+* [2025-12-12 Amphenol (APH) —— 戰勝光速的銅線之王](AI Hardware & System/2025-12-12 Amphenol (APH) —— 戰勝光速的銅線之王.md)
+* [2025-11-01 AI_operation_costs](AI Hardware & System/2025-11-01 AI_operation_costs.md)
+* [2025-08-01 雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析](AI Hardware & System/2025-08-01 雙引擎資料中心：Google整合TPU與NVIDIA GPU策略深度解析.md)
+
+---
 ## [📊 政治總體經濟 Politics & Economics](Politics & Economics/)
 * [2026-01-05 關稅會導致通貨膨脹嗎？最新研究給了令人驚訝的答案](Politics & Economics/2026-01-05 關稅會導致通貨膨脹嗎？最新研究給了令人驚訝的答案.md)
 * [2026-01-02 關於中國近期環台軍演，你需要知道的五個要點](Politics & Economics/2026-01-02 關於中國近期環台軍演，你需要知道的五個要點.md)
@@ -28,8 +52,12 @@ hide:
 * [2025-12-30 建立一套觀察每日重要新聞的高效策略 - 華爾街日報, 巴倫週刊, MarketWatch](Investment/2025-12-30 建立一套觀察每日重要新聞的高效策略 - 華爾街日報, 巴倫週刊, MarketWatch.md)
 
 ---
-## [🤖 人工智慧 AI Technology](AI Technology/)
-* (目前此分類尚無文章)
+## [📟 半導體 Semiconductor](Semiconductor/)
+* [2026-01-08 日本信越化學瞄準人工智慧晶片市場，推出新型後端製造技術](Semiconductor/2026-01-08 日本信越化學瞄準人工智慧晶片市場，推出新型後端製造技術.md)
+* [2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保](Semiconductor/2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保.md)
+* [2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長](Semiconductor/2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長.md)
+* [2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市](Semiconductor/2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市.md)
+* [2025-12-10 日本 DNP 與佳能聯手，以奈米壓印技術挑戰 1.4 奈米製程](Semiconductor/2025-12-10 日本 DNP 與佳能聯手，以奈米壓印技術挑戰 1.4 奈米製程.md)
 
 ---
 ## [🦾 機器人和電動車 Robotics & EV](Robotics EV & Automation/)
@@ -38,14 +66,6 @@ hide:
 * [2025-12-15 英國政府堅稱不改變電動汽車轉型目標](Robotics EV & Automation/2025-12-15 英國政府堅稱不改變電動汽車轉型目標.md)
 * [2025-12-15 小鵬汽車將在馬來西亞建立第三個海外生產基地](Robotics EV & Automation/2025-12-15 小鵬汽車將在馬來西亞建立第三個海外生產基地.md)
 * [2025-12-09 中國汽車製造商首次在西歐擊敗韓國汽車製造商](Robotics EV & Automation/2025-12-09 中國汽車製造商首次在西歐擊敗韓國汽車製造商.md)
-
----
-## [📟 半導體 Semiconductor](Semiconductor/)
-* [2026-01-08 日本信越化學瞄準人工智慧晶片市場，推出新型後端製造技術](Semiconductor/2026-01-08 日本信越化學瞄準人工智慧晶片市場，推出新型後端製造技術.md)
-* [2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保](Semiconductor/2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保.md)
-* [2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長](Semiconductor/2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長.md)
-* [2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市](Semiconductor/2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市.md)
-* [2025-12-10 日本 DNP 與佳能聯手，以奈米壓印技術挑戰 1.4 奈米製程](Semiconductor/2025-12-10 日本 DNP 與佳能聯手，以奈米壓印技術挑戰 1.4 奈米製程.md)
 
 ---
 ## [🪙 加密貨幣 Crypto](Crypto/)

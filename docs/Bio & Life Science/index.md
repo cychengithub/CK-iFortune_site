@@ -1,8 +1,5 @@
 # 🧬 醫藥 & 生物科技 Bio & Life Science 總覽
 
-!!! abstract "領域簡介"
-    此分類專注於基因工程 (CRISPR)、醫藥研發、生物信息學、醫療設備創新以及生物科技產業的最新動態分析。
-
 # <span style="color: red; font-weight: bold;">請點擊左側導航欄的分類目錄</span>
 ## 核心主題
 * 基因編輯技術與應用
