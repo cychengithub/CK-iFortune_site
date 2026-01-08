@@ -1,7 +1,3 @@
----
-hide:
-  - toc
----
 # 🎨 生活與藝術 Life & Art 總覽
 
 !!! abstract "領域簡介"

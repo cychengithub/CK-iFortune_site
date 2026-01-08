@@ -41,7 +41,7 @@ hide:
             content += f"## [{title}]({folder}/)\n"
             
             if files:
-                for f in files[:3]:
+                for f in files[:5]:
                     name = f.replace(".md", "")
                     # 直接使用原始檔名，解決 404 問題
                     content += f"* [{name}]({folder}/{f})\n"

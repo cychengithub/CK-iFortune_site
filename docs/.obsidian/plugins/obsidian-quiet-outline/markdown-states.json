@@ -824,11 +824,11 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 33
+        "ch": 0
       },
       "to": {
         "line": 4,
-        "ch": 33
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1123,15 +1123,15 @@
     "expandedKeys": []
   },
   "index.md": {
-    "scroll": 43.5184681521779,
+    "scroll": 26.707350901525658,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 0
+        "line": 42,
+        "ch": 28
       },
       "to": {
-        "line": 34,
-        "ch": 0
+        "line": 42,
+        "ch": 3
       }
     },
     "expandedKeys": [
@@ -1185,11 +1185,11 @@
     "cursor": {
       "from": {
         "line": 4,
-        "ch": 4
+        "ch": 0
       },
       "to": {
         "line": 4,
-        "ch": 4
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1198,12 +1198,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 4
+        "line": 0,
+        "ch": 5
       },
       "to": {
-        "line": 4,
-        "ch": 4
+        "line": 0,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -1268,12 +1268,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 0,
+        "ch": 5
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 0,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -2892,12 +2892,82 @@
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 0,
-        "ch": 5
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 5
+        "ch": 0
       }
     },
     "expandedKeys": []

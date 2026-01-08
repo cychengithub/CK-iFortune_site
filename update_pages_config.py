@@ -15,6 +15,7 @@ def update_pages_configurations(base_dir="docs"):
         ]
         
         with open(pages_file, "w", encoding="utf-8") as f:
+            f.write("order: desc\n")
             f.writelines(content)
         print(f"✅ 已修正並設定排序: {pages_file}")
 

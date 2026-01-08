@@ -1,7 +1,3 @@
----
-hide:
-  - toc
----
 # 📊 半導體 Semiconductor 
 
 !!! abstract "領域簡介"

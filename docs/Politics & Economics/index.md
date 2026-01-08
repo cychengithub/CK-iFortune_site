@@ -1,7 +1,3 @@
----
-hide:
-  - toc
----
 # 📊 政治和經濟 Politics and Economics
 
 !!! abstract "領域簡介"

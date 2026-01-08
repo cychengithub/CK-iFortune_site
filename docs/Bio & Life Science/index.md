@@ -1,7 +1,3 @@
----
-hide:
-  - toc
----
 # 🧬 醫藥 & 生物科技 Bio & Life Science 總覽
 
 !!! abstract "領域簡介"
