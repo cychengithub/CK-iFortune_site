@@ -25,7 +25,7 @@ hide:
 
 ---
 ## [🤖 人工智慧 AI Technology](AI Technology/)
-* [AI_operation_costs](AI Technology/AI_operation_costs.md)
+* (目前此分類尚無文章)
 
 ---
 ## [🦾 機器人和電動車 Robotics & EV](Robotics EV & Automation/)
@@ -35,9 +35,9 @@ hide:
 
 ---
 ## [📟 半導體 Semiconductor](Semiconductor/)
+* [2026-01-08 日本信越化學瞄準人工智慧晶片市場，推出新型後端製造技術](Semiconductor/2026-01-08 日本信越化學瞄準人工智慧晶片市場，推出新型後端製造技術.md)
 * [2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保](Semiconductor/2025-12-19 日本考慮為晶片製造商Rapidus提供高達80%的貸款擔保.md)
 * [2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長](Semiconductor/2025-12-17 美光銷售額大幅成長，預計 AI 需求超過供應將帶來進一步成長.md)
-* [2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市](Semiconductor/2025-12-10 隨著人工智慧晶片需求增加，SK海力士考慮在美國上市.md)
 
 ---
 ## [🪙 加密貨幣 Crypto](Crypto/)

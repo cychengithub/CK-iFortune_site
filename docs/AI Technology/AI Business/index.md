@@ -1,7 +1,3 @@
----
-hide:
-  - toc
----
 # 🚀 AI Related Business (Big Events, Investment, Partnership, Product Launch, etc.)  專題研究總覽
 
 ---
