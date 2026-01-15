@@ -118,11 +118,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 1
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 1
       }
     },
     "expandedKeys": [
@@ -1856,12 +1856,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -3159,11 +3159,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 3
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 3
       }
     },
     "expandedKeys": []
@@ -3225,15 +3225,449 @@
     "expandedKeys": []
   },
   "Crypto/2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照.md": {
-    "scroll": 21.244791666666668,
+    "scroll": 20.631461991204155,
     "cursor": {
       "from": {
         "line": 36,
-        "ch": 0
+        "ch": 116
       },
       "to": {
         "line": 36,
+        "ch": 116
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
         "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-12 美國最大的電網營運商面臨人工智慧難題 - 資料中心過多.md": {
+    "scroll": 191.8009869677409,
+    "cursor": {
+      "from": {
+        "line": 135,
+        "ch": 0
+      },
+      "to": {
+        "line": 135,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-12.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-12 對高風險生物科技公司的融資正在回歸.md": {
+    "scroll": 7.930421406802551,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 57
+      },
+      "to": {
+        "line": 21,
+        "ch": 57
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-12 台積電計劃在擬議的台灣關稅減免協議中拓展美國業務.md": {
+    "scroll": 30.299961460961235,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 49
+      },
+      "to": {
+        "line": 22,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-12 Meta組建高效團隊負責人工智慧基礎設施建設.md": {
+    "scroll": 45.12789702415466,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 33
+      },
+      "to": {
+        "line": 28,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-13.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-13 2月份通膨率維持穩定；消費者物價指數年增2.7%.md": {
+    "scroll": 34.67477268777119,
+    "cursor": {
+      "from": {
+        "line": 53,
+        "ch": 0
+      },
+      "to": {
+        "line": 53,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Green & Energy Technology/2026-01-12 日本深海稀土計畫在偏遠的南部島嶼附近啟動.md": {
+    "scroll": 60.89062372843424,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-13 日本股市創歷史新高，投資人押注高市將提前舉行大選.md": {
+    "scroll": 50.79137166341146,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/中國人工智慧和晶片公司在香港融資數十億美元，科技競爭激烈.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-13 中國人工智慧和晶片公司在香港融資數十億美元，科技競爭激烈.md": {
+    "scroll": 3.6447717393820573,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-13 泰國住宅房地產市場面臨長期低迷.md": {
+    "scroll": 70.27025349934895,
+    "cursor": {
+      "from": {
+        "line": 44,
+        "ch": 0
+      },
+      "to": {
+        "line": 44,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-15 預測市場正在扭曲人們對未來的預期。.md": {
+    "scroll": 38.73965549468994,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 22
+      },
+      "to": {
+        "line": 40,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/川普政府為英偉達在中國的晶片銷售制定安全規則.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 39,
+        "ch": 103
+      },
+      "to": {
+        "line": 39,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Real Estate/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Real Estate/2026-01-14 12月房屋銷售量成長5.1%，創近兩年來最大增幅.md": {
+    "scroll": 23.89558321427731,
+    "cursor": {
+      "from": {
+        "line": 65,
+        "ch": 15
+      },
+      "to": {
+        "line": 65,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-14  川普想讓經濟快速成長。他很有可能成功。.md": {
+    "scroll": 16.9529812335968,
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 0
+      },
+      "to": {
+        "line": 51,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-13 華爾街突然對總統轉入守勢.md": {
+    "scroll": 144.09322448094684,
+    "cursor": {
+      "from": {
+        "line": 167,
+        "ch": 87
+      },
+      "to": {
+        "line": 167,
+        "ch": 87
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-14 川普希望資料中心付費使用電力。這樣會降低電價嗎？.md": {
+    "scroll": 15.26388888888889,
+    "cursor": {
+      "from": {
+        "line": 137,
+        "ch": 0
+      },
+      "to": {
+        "line": 137,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-13 建構以社區為先的人工智慧基礎設施.md": {
+    "scroll": 175.09615802764893,
+    "cursor": {
+      "from": {
+        "line": 239,
+        "ch": 0
+      },
+      "to": {
+        "line": 239,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01014 總統公告 (Proclamation).md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01014 總統公告 (Proclamation)調整加工關鍵礦產及其衍生產品的進口.md": {
+    "scroll": 378.24151808215726,
+    "cursor": {
+      "from": {
+        "line": 376,
+        "ch": 4
+      },
+      "to": {
+        "line": 376,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-12 三分之一的日本股票交易價格低於帳面價值。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 72
+      },
+      "to": {
+        "line": 20,
+        "ch": 72
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-12  日本宗教團體和學校大量購買公司債券.md": {
+    "scroll": 47.115234375,
+    "cursor": {
+      "from": {
+        "line": 54,
+        "ch": 0
+      },
+      "to": {
+        "line": 54,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-15 中國正在製定英偉達H200晶片的採購規則.md": {
+    "scroll": 20.75043402777778,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-14.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md": {
+    "scroll": 43.527891789494674,
+    "cursor": {
+      "from": {
+        "line": 79,
+        "ch": 62
+      },
+      "to": {
+        "line": 79,
+        "ch": 62
       }
     },
     "expandedKeys": []

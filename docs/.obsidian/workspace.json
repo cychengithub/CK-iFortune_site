@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照.md",
+                "file": "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照"
+              "title": "2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 303.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照.md",
+                "file": "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照 的大綱"
+              "title": "2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。 的大綱"
             }
           },
           {
@@ -202,51 +202,51 @@
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
-    "Politics & Economics/2026-01-07 繼11月下滑後，12月私部門招募轉正。.md",
-    "Crypto/2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照.md",
-    "AI Business/2026-01-07 Anthropic公司以3,500億美元的估值籌集100億美元資金.md",
-    "Politics & Economics/2026-01-07 美國原油產量高居世界第一。這就是它想要委內瑞拉原油的原因.md",
-    "Politics & Economics/Attach/Screenshot 2026-01-08 193820.png",
-    "Politics & Economics/2026-01-05 關稅會導致通貨膨脹嗎？最新研究給了令人驚訝的答案.md",
-    "Politics & Economics/Attach/Pasted image 20260108193844.png",
-    "Politics & Economics/Attach/Pasted image 20260108193825.png",
-    "Politics & Economics/Attach/Pasted image 20260108193707.png",
-    "AI Business/2025-11-28 OpenAI合作伙伴爲資助其雄心積累千億美元債務.md",
-    "Bio & Life Science/index.md",
-    "Attach/AI.md",
-    "AI Software&  Service/index.md",
-    "AI Hardware & System/index.md",
-    "AI Business/index.md",
+    "AI Business/2026-01-15 中國正在製定英偉達H200晶片的採購規則.md",
+    "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md",
+    "Investment/2026-01-12  日本宗教團體和學校大量購買公司債券.md",
+    "Investment/2026-01-12 三分之一的日本股票交易價格低於帳面價值。.md",
+    "Commodity & Energy/2026-01014 總統公告 (Proclamation)調整加工關鍵礦產及其衍生產品的進口.md",
+    "Investment/index.md",
+    "AI Business/2025-12-30 Meta收購中國出海的AI初創公司Manus.md",
+    "AI Business/2026-01-13 川普政府為英偉達在中國的晶片銷售制定安全規則.md",
+    "AI Infrasture/2026-01-13 建構以社區為先的人工智慧基礎設施.md",
+    "AI Infrasture/2026-01-14 川普希望資料中心付費使用電力。這樣會降低電價嗎？.md",
+    "Politics & Economics/2026-01-13 華爾街突然對總統轉入守勢.md",
+    "Politics & Economics/2026-01-14  川普想讓經濟快速成長。他很有可能成功。.md",
+    "Politics & Economics/Attach/Pasted image 20260115105313.png",
+    "Real Estate/2026-01-14 12月房屋銷售量成長5.1%，創近兩年來最大增幅.md",
+    "Real Estate/Attach/Pasted image 20260115104906.png",
+    "Real Estate/Attach/Pasted image 20260115104846.png",
+    "Real Estate/Attach/Pasted image 20260115104745.png",
+    "Real Estate/Attach",
+    "Real Estate",
+    "Investment/2026-01-15 預測市場正在扭曲人們對未來的預期。.md",
+    "Politics & Economics/2026-01-13 泰國住宅房地產市場面臨長期低迷.md",
+    "Investment/2026-01-13 中國人工智慧和晶片公司在香港融資數十億美元，科技競爭激烈.md",
+    "Investment.md",
     "index.md",
+    "Politics & Economics/2026-01-13 日本股市創歷史新高，投資人押注高市將提前舉行大選.md",
+    "Commodity & Energy/2026-01-12 日本深海稀土計畫在偏遠的南部島嶼附近啟動.md",
+    "Politics & Economics/2026-01-13 2月份通膨率維持穩定；消費者物價指數年增2.7%.md",
+    "Politics & Economics/Attach/Pasted image 20260113225937.png",
+    "Politics & Economics/Attach/Pasted image 20260113225919.png",
+    "AI Infrasture/2026-01-12 Meta組建高效團隊負責人工智慧基礎設施建設.md",
+    "Semiconductor/2026-01-12 台積電計劃在擬議的台灣關稅減免協議中拓展美國業務.md",
+    "Investment/2026-01-12 對高風險生物科技公司的融資正在回歸.md",
+    "Investment/Attach/Pasted image 20260113225105.png",
+    "AI Infrasture/2026-01-12 美國最大的電網營運商面臨人工智慧難題 - 資料中心過多.md",
+    "AI Infrasture/Attach/Pasted image 20260113222234.png",
+    "Crypto/2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照.md",
+    "Politics & Economics/Attach/Screenshot 2026-01-08 193820.png",
+    "Politics & Economics/Attach/Pasted image 20260108193844.png",
     "AI Software&  Service",
-    "AI Infrasture/Attach/Pasted image 20251212233707.png",
-    "AI Infrasture/Attach/Pasted image 20251213002600.png",
-    "AI Infrasture/Attach/Pasted image 20251213002526.png",
-    "AI Infrasture/Attach/Pasted image 20251212233633.png",
-    "AI Infrasture/Attach/Pasted image 20251212232215.png",
     "AI Infrasture/Attach/AI Training Load Fluctuations at Gigawatt-scale - Risk of Power Grid Blackout  2025-06-26 Semianalysis.pdf",
-    "AI Infrasture/Attach/Pasted image 20251212232143.png",
     "AI Infrasture/Attach/AI_Power_Crisis_2026.pdf",
-    "AI Infrasture/2026-01-06 針對利用離峰儲能解決人工智慧資料中心電力短缺之深度評估與投資分析報告.md",
-    "AI Infrasture/2025-12-31 亞洲人工智慧資料中心融資變得複雜.md",
-    "AI Infrasture/2026-01-06 吉瓦級AI訓練負載波動——電網停電的風險？.md",
-    "AI Infrasture/index.md",
     "AI Infrasture/Attach",
-    "AI Infrasture/2026-01-06 20+ 個關鍵資訊來源清單，涵蓋了從「晶片底層硬體」、「資料中心基礎建設」到「電力能源市場」的完整產業鏈.md",
-    "AI Infrasture/2026-01-05 2026-2027年資料中心電力供應鏈限制與新增產能預測報告：基礎設施瓶頸、關鍵零組件分析與供應商產能評估.md",
-    "AI Infrasture/2026-01-06  關於資料中心斷電以避免停電的爭論.md",
-    "AI Infrasture/2026-01-05 2026年電力與算力斷層：美國資料中心基礎設施對AI晶片部署的限制與影響深度研究報告.md",
-    "AI Infrasture/2025-12-23 大金加入美國人工智慧資料中心先進冷卻技術應用競賽.md",
-    "AI Infrasture/2025-12-12 美國有辦法在短期內填補電力缺口嘛.md",
-    "AI Infrasture/2025-12-16 National Grid (NG.L) —— 跨大西洋的能源守門人.md",
-    "AI Infrasture/2025-12-12 美中 AI 競賽的新戰場：電力鴻溝與內蒙古的算力雲谷.md",
-    "AI Infrasture/2025-12-12 NVIDIA 即將召開的「電力閉門峰會」.md",
-    "AI Infrasture/2025-12-12 AI 電力需求建設.md",
     "AI Infrasture",
     "AI Hardware & System/Attach/輝達 2026 年 CoWoS 需求觀察：Rubin 與 Blackwell 的產能配置調整 _ 產業報告 _ MacroMicro 財經M平方 20260103.pdf",
     "AI Hardware & System/Attach",
-    "AI Hardware & System",
-    "AI Business/Attach",
-    "AI Business"
+    "AI Hardware & System"
   ]
 }
