@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md",
+                "file": "Politics & Economics/2026-01-15 英國經濟成長超乎預期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。"
+              "title": "2026-01-15 英國經濟成長超乎預期"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 213.5
   },
   "right": {
     "id": "4737d08aaf0e2580",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md",
+                "file": "Politics & Economics/2026-01-15 英國經濟成長超乎預期.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。 的大綱"
+              "title": "2026-01-15 英國經濟成長超乎預期 的大綱"
             }
           },
           {
@@ -202,8 +202,26 @@
   },
   "active": "6842efdb3dc70477",
   "lastOpenFiles": [
-    "AI Business/2026-01-15 中國正在製定英偉達H200晶片的採購規則.md",
+    "AI Infrasture/2026-01-16 (v2) 固態氧化物燃料電池 (SOFC) 雙雄戰略縱深報告：Bloom Energy 供應鏈韌性重構與 Ceres Power 授權模式之比較分析.md",
+    "Politics & Economics/2026-01-15 英國經濟成長超乎預期.md",
+    "AI Infrasture/2026-01-16 真空硬焊技術在高功率模組應用之深度比較分析報告：通用鋁合金製程與高力熱處理高溫冶金技術之差異.md",
+    "AI Infrasture/2026-01-16 (v1) 2026年固態氧化物燃料電池 (SOFC) 產業深度戰略報告：Bloom Energy 與 Ceres Power 之技術架構、供應鏈生態與商業前景評估.md",
+    "Semiconductor/2026-01-16 這位業界資深人士對美光科技的股票投出了800萬美元的信任票.md",
+    "AI Infrasture/2026-01-13 由NTT Data主導的集團將斥資10億美元興建連接日本和新加坡的海底光纜.md",
+    "Robotics EV & Automation/2026-01-14 Komatsu 財務長：受美國關稅衝擊加倍，公司將繼續漲價.md",
+    "Crypto/2026-01-16 日本Resona和JCB將把穩定幣支付引入日常購物領域.md",
+    "Politics & Economics/2026-01-16 日本央行未對聯準會主席鮑威爾表示支持。.md",
+    "AI Infrasture/2026-01-16 日本重啟大規模核電是經濟上的必然選擇.md",
+    "AI Infrasture/2026-01-15 川普將力推一項計劃，讓科技公司為新建發電廠提供資金.md",
+    "AI Hardware & System/2026-01-14 OpenAI與Cerebras達成數十億美元的運算合作關係.md",
+    "desktop.ini",
+    "Bio Life Science & Healthcare/2026-01-15 川普發布旨在降低成本的醫療保健框架.md",
+    "Robotics EV & Automation/2026-01-16 分析顯示，中國在機器人和其他實體人工智慧專利方面領先全球。.md",
+    "Semiconductor/2026-01-15 AI泡沫可能嗎？魏哲家親自確認後笑了：客戶比台積電有錢！法說會關鍵訊號一次看.md",
+    "Politics & Economics/2025-12-10 聯準會內部分裂嚴重，鮑爾強推「降息並設限」策略.md",
+    "Semiconductor/未命名.md",
     "Investment/2026-01-14 蘋果和高通公司擔憂日本玻璃纖維布供應緊張。.md",
+    "AI Business/2026-01-15 中國正在製定英偉達H200晶片的採購規則.md",
     "Investment/2026-01-12  日本宗教團體和學校大量購買公司債券.md",
     "Investment/2026-01-12 三分之一的日本股票交易價格低於帳面價值。.md",
     "Commodity & Energy/2026-01014 總統公告 (Proclamation)調整加工關鍵礦產及其衍生產品的進口.md",
@@ -211,33 +229,16 @@
     "AI Business/2025-12-30 Meta收購中國出海的AI初創公司Manus.md",
     "AI Business/2026-01-13 川普政府為英偉達在中國的晶片銷售制定安全規則.md",
     "AI Infrasture/2026-01-13 建構以社區為先的人工智慧基礎設施.md",
-    "AI Infrasture/2026-01-14 川普希望資料中心付費使用電力。這樣會降低電價嗎？.md",
-    "Politics & Economics/2026-01-13 華爾街突然對總統轉入守勢.md",
-    "Politics & Economics/2026-01-14  川普想讓經濟快速成長。他很有可能成功。.md",
     "Politics & Economics/Attach/Pasted image 20260115105313.png",
-    "Real Estate/2026-01-14 12月房屋銷售量成長5.1%，創近兩年來最大增幅.md",
     "Real Estate/Attach/Pasted image 20260115104906.png",
     "Real Estate/Attach/Pasted image 20260115104846.png",
     "Real Estate/Attach/Pasted image 20260115104745.png",
     "Real Estate/Attach",
     "Real Estate",
-    "Investment/2026-01-15 預測市場正在扭曲人們對未來的預期。.md",
-    "Politics & Economics/2026-01-13 泰國住宅房地產市場面臨長期低迷.md",
-    "Investment/2026-01-13 中國人工智慧和晶片公司在香港融資數十億美元，科技競爭激烈.md",
-    "Investment.md",
-    "index.md",
-    "Politics & Economics/2026-01-13 日本股市創歷史新高，投資人押注高市將提前舉行大選.md",
-    "Commodity & Energy/2026-01-12 日本深海稀土計畫在偏遠的南部島嶼附近啟動.md",
-    "Politics & Economics/2026-01-13 2月份通膨率維持穩定；消費者物價指數年增2.7%.md",
     "Politics & Economics/Attach/Pasted image 20260113225937.png",
     "Politics & Economics/Attach/Pasted image 20260113225919.png",
-    "AI Infrasture/2026-01-12 Meta組建高效團隊負責人工智慧基礎設施建設.md",
-    "Semiconductor/2026-01-12 台積電計劃在擬議的台灣關稅減免協議中拓展美國業務.md",
-    "Investment/2026-01-12 對高風險生物科技公司的融資正在回歸.md",
     "Investment/Attach/Pasted image 20260113225105.png",
-    "AI Infrasture/2026-01-12 美國最大的電網營運商面臨人工智慧難題 - 資料中心過多.md",
     "AI Infrasture/Attach/Pasted image 20260113222234.png",
-    "Crypto/2026-01-07 世界自由號（World Liberty），川普加密貨幣艦隊的旗艦，正在申請美國銀行牌照.md",
     "Politics & Economics/Attach/Screenshot 2026-01-08 193820.png",
     "Politics & Economics/Attach/Pasted image 20260108193844.png",
     "AI Software&  Service",
@@ -246,7 +247,6 @@
     "AI Infrasture/Attach",
     "AI Infrasture",
     "AI Hardware & System/Attach/輝達 2026 年 CoWoS 需求觀察：Rubin 與 Blackwell 的產能配置調整 _ 產業報告 _ MacroMicro 財經M平方 20260103.pdf",
-    "AI Hardware & System/Attach",
-    "AI Hardware & System"
+    "AI Hardware & System/Attach"
   ]
 }

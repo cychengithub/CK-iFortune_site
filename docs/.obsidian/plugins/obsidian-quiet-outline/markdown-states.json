@@ -118,11 +118,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 1
+        "ch": 2
       },
       "to": {
         "line": 0,
-        "ch": 1
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -924,11 +924,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -3159,11 +3159,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 3
+        "ch": 2
       },
       "to": {
         "line": 0,
-        "ch": 3
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -3242,12 +3242,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -3668,6 +3668,426 @@
       "to": {
         "line": 79,
         "ch": 62
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2025-12-10 聯準會內部分裂嚴重，鮑爾強推「降息並設限」策略.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/未命名 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-15 AI泡沫可能嗎？魏哲家親自確認後笑了：客戶比台積電有錢！法說會關鍵訊號一次看.md": {
+    "scroll": 3.2708333333333335,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 0
+      },
+      "to": {
+        "line": 33,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-16.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-16 分析顯示，中國在機器人和其他實體人工智慧專利方面領先全球。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 56
+      },
+      "to": {
+        "line": 24,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-15 川普將力推一項計劃，讓科技公司為新建發電廠提供資金.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 60,
+        "ch": 53
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio & Life Science/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 99,
+        "ch": 171
+      },
+      "to": {
+        "line": 99,
+        "ch": 171
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2026-01-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2026-01-15 川普發布旨在降低成本的醫療保健框架.md": {
+    "scroll": 53.45066579182943,
+    "cursor": {
+      "from": {
+        "line": 58,
+        "ch": 0
+      },
+      "to": {
+        "line": 58,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-14.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-14 OpenAI與Cerebras達成數十億美元的運算合作關係.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 7
+      },
+      "to": {
+        "line": 0,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-16.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-16 2026年固態氧化物燃料電池 (SOFC) 產業深度戰略報告：Bloom Energy 與 Ceres Power 之技術架構、供應鏈生態與商業前景評估.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 15
+      },
+      "to": {
+        "line": 1,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-16 日本重啟大規模核電是經濟上的必然選擇.md": {
+    "scroll": 41.271875,
+    "cursor": {
+      "from": {
+        "line": 50,
+        "ch": 0
+      },
+      "to": {
+        "line": 50,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-16 日本央行未對聯準會主席鮑威爾表示支持。.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 18
+      },
+      "to": {
+        "line": 26,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-16 日本Resona和JCB將把穩定幣支付引入日常購物領域.md": {
+    "scroll": 0.6451612903225806,
+    "cursor": {
+      "from": {
+        "line": 25,
+        "ch": 0
+      },
+      "to": {
+        "line": 25,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-14.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-14 小松財務長：受美國關稅衝擊加倍，公司將繼續漲價.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-14 Komatsu 財務長：受美國關稅衝擊加倍，公司將繼續漲價.md": {
+    "scroll": 33.60590277777778,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 63
+      },
+      "to": {
+        "line": 33,
+        "ch": 63
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-13.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-13 由NTT Data主導的集團將斥資10億美元興建連接日本和新加坡的海底光纜.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 20
+      },
+      "to": {
+        "line": 1,
+        "ch": 59
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-16 這位業界資深人士對美光科技的股票投出了800萬美元的信任票.md": {
+    "scroll": 51.45862229665121,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 18
+      },
+      "to": {
+        "line": 24,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-16 (v1) 2026年固態氧化物燃料電池 (SOFC) 產業深度戰略報告：Bloom Energy 與 Ceres Power 之技術架構、供應鏈生態與商業前景評估.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 15
+      },
+      "to": {
+        "line": 1,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-16 (v2) 固態氧化物燃料電池 (SOFC) 雙雄戰略縱深報告：Bloom Energy 供應鏈韌性重構與 Ceres Power 授權模式之比較分析.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 149
+      },
+      "to": {
+        "line": 5,
+        "ch": 149
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-16 真空硬焊技術在高功率模組應用之深度比較分析報告：通用鋁合金製程與高力熱處理高溫冶金技術之差異.md": {
+    "scroll": 131.7133469581604,
+    "cursor": {
+      "from": {
+        "line": 135,
+        "ch": 16
+      },
+      "to": {
+        "line": 135,
+        "ch": 27
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-15 英國經濟成長超乎預期.md": {
+    "scroll": 20.480902910232544,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
       }
     },
     "expandedKeys": []
