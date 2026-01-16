@@ -3491,7 +3491,7 @@
     "expandedKeys": []
   },
   "Politics & Economics/2026-01-14  川普想讓經濟快速成長。他很有可能成功。.md": {
-    "scroll": 16.9529812335968,
+    "scroll": 15.874422391255697,
     "cursor": {
       "from": {
         "line": 51,
@@ -3550,12 +3550,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 2,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -3575,15 +3575,15 @@
     "expandedKeys": []
   },
   "Commodity & Energy/2026-01014 總統公告 (Proclamation)調整加工關鍵礦產及其衍生產品的進口.md": {
-    "scroll": 378.24151808215726,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 376,
-        "ch": 4
+        "line": 4,
+        "ch": 61
       },
       "to": {
-        "line": 376,
-        "ch": 4
+        "line": 4,
+        "ch": 61
       }
     },
     "expandedKeys": []
@@ -3718,12 +3718,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -4037,15 +4037,15 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-16 (v2) 固態氧化物燃料電池 (SOFC) 雙雄戰略縱深報告：Bloom Energy 供應鏈韌性重構與 Ceres Power 授權模式之比較分析.md": {
-    "scroll": 0,
+    "scroll": 633.5026667888043,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 149
+        "line": 570,
+        "ch": 112
       },
       "to": {
-        "line": 5,
-        "ch": 149
+        "line": 570,
+        "ch": 112
       }
     },
     "expandedKeys": []
@@ -4088,6 +4088,244 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-26.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 3
+      },
+      "to": {
+        "line": 1,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-26 澳洲升息的可能性可能比市場預期更大.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 31
+      },
+      "to": {
+        "line": 1,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-26 澳洲升息的可能性可能比市場預期更大之預期澳洲儲備銀行升息25個基點的可能性為30%.md": {
+    "scroll": 9.580729166666666,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 79
+      },
+      "to": {
+        "line": 32,
+        "ch": 79
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-15 高盛利潤因交易和貸款業務激增而上漲.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 98
+      },
+      "to": {
+        "line": 48,
+        "ch": 98
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-16 隨著科技巨頭更涉足能源領域，它們的風險也隨之增加.md": {
+    "scroll": 21.146204354516588,
+    "cursor": {
+      "from": {
+        "line": 34,
+        "ch": 72
+      },
+      "to": {
+        "line": 34,
+        "ch": 72
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-10.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-10 銅是礦業大交易中的重頭戲.md": {
+    "scroll": 17.33535861968994,
+    "cursor": {
+      "from": {
+        "line": 54,
+        "ch": 3
+      },
+      "to": {
+        "line": 54,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 104
+      },
+      "to": {
+        "line": 6,
+        "ch": 104
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2025-11-01 4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 104
+      },
+      "to": {
+        "line": 6,
+        "ch": 104
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-14 總統公告 (Proclamation)調整加工關鍵礦產及其衍生產品的進口.md": {
+    "scroll": 14.510828922101995,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 61
+      },
+      "to": {
+        "line": 4,
+        "ch": 61
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-15 亞馬遜購入美國十多年來的首個新增銅礦項目.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 4
+      },
+      "to": {
+        "line": 12,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-15.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-15 電動車市場慘淡收場後，福特與中國比亞迪就混合動力車電池展開談判.md": {
+    "scroll": 18.8687971855862,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 28
+      },
+      "to": {
+        "line": 32,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-16 三菱將斥資52億美元收購德州和路易斯安那州的頁岩氣資產.md": {
+    "scroll": 6.262905128999332,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 4
+      },
+      "to": {
+        "line": 10,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-15  愛立信或將裁減瑞典12%的員工.md": {
+    "scroll": 8.805593517007349,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 14
+      },
+      "to": {
+        "line": 20,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？.md": {
+    "scroll": 0.13747086754008503,
+    "cursor": {
+      "from": {
+        "line": 81,
+        "ch": 19
+      },
+      "to": {
+        "line": 81,
+        "ch": 19
       }
     },
     "expandedKeys": []
