@@ -4009,7 +4009,7 @@
     "expandedKeys": []
   },
   "Semiconductor/2026-01-16 這位業界資深人士對美光科技的股票投出了800萬美元的信任票.md": {
-    "scroll": 51.45862229665121,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 24,
@@ -4121,7 +4121,7 @@
     "expandedKeys": []
   },
   "Politics & Economics/2026-01-26 澳洲升息的可能性可能比市場預期更大之預期澳洲儲備銀行升息25個基點的可能性為30%.md": {
-    "scroll": 9.580729166666666,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 32,
@@ -4765,7 +4765,7 @@
     "expandedKeys": []
   },
   "AI Business/2026-02-21 CEO們說人工智慧提高了工作效率，但員工們卻有不同的看法。.md": {
-    "scroll": 42.33535861968994,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 51,
@@ -5026,6 +5026,62 @@
       "to": {
         "line": 22,
         "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-23 分析師稱微軟獲利將超出預期，但他們仍然下調了目標股價.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 0
+      },
+      "to": {
+        "line": 35,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-23 英特爾股價因前景疲軟而暴跌。財務長表示，晶片供應情況將於今年稍晚改善.md": {
+    "scroll": 21.712158808933,
+    "cursor": {
+      "from": {
+        "line": 38,
+        "ch": 80
+      },
+      "to": {
+        "line": 38,
+        "ch": 80
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/2026-01-22 人工智慧代理時代帶來的風險無人預料.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-22 TikTok完成協議，將繼續在美國運營.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 11
+      },
+      "to": {
+        "line": 27,
+        "ch": 140
       }
     },
     "expandedKeys": []
