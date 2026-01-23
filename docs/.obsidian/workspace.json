@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment/2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？.md",
+                "file": "AI Business/2026-01-21 英偉達CEO表示，儘管有泡沫擔憂，但人工智慧領域仍需更多投資。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？"
+              "title": "2026-01-21 英偉達CEO表示，儘管有泡沫擔憂，但人工智慧領域仍需更多投資。"
+            }
+          },
+          {
+            "id": "6d214650e71bc233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investment/2026-01-23 史上規模最大的國防IPO首日表現強勁, 總部位於布拉格的捷克斯洛伐克集團.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-23 史上規模最大的國防IPO首日表現強勁, 總部位於布拉格的捷克斯洛伐克集團"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investment/2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？.md",
+                "file": "Investment/2026-01-23 史上規模最大的國防IPO首日表現強勁, 總部位於布拉格的捷克斯洛伐克集團.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？ 的大綱"
+              "title": "2026-01-23 史上規模最大的國防IPO首日表現強勁, 總部位於布拉格的捷克斯洛伐克集團 的大綱"
             }
           },
           {
@@ -200,53 +215,53 @@
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false
     }
   },
-  "active": "6842efdb3dc70477",
+  "active": "6d214650e71bc233",
   "lastOpenFiles": [
-    "Investment/Attach/Pasted image 20260116223627.png",
-    "Investment/2026-01-15  愛立信或將裁減瑞典12%的員工.md",
-    "Investment/2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？.md",
+    "Crypto/2026-01-23 比特幣價格下跌。為什麼這種「數位黃金」未能跟上貴金屬的步伐？.md",
+    "Investment/2026-01-23 史上規模最大的國防IPO首日表現強勁, 總部位於布拉格的捷克斯洛伐克集團.md",
+    "Commodity & Energy/2026-01-22 到2025年，中國電池儲能裝置容量將是北美的三倍.md",
+    "Politics & Economics/2026-01-23 越南共產黨選舉蘇林總書記連任5年.md",
+    "Politics & Economics/2026-01-23 日本央行總裁植田和男表示願意對飆漲的殖利率採取行動.md",
+    "Politics & Economics/2026-01-23 日本高市表示，不會發行赤字債券來削減消費稅.md",
+    "Investment/2026-01-23 中國TCL將索尼的交易視為擊敗全球電視巨頭三星的途徑。.md",
+    "Bio Life Science & Healthcare/2026-01-23 結直腸癌已成美國50歲以下人群頭號「癌症殺手」.md",
+    "Bio Life Science & Healthcare/Attach/Pasted image 20260123211236.png",
+    "Bio Life Science & Healthcare/Attach",
+    "Robotics EV & Automation/2026-01-23 馬斯克計劃明年向公眾發售人形機器人.md",
+    "Investment/2026-01-23 2026年全球記憶體市場結構性變革與消費性電子產業鏈衝擊深度評估報告.md",
+    "Investment/Attach/Pasted image 20260123135240.png",
+    "Crypto/2026-01-21 華爾街區塊鏈基建基金.md",
+    "Crypto/2025-12-15 BTC ETH SOL.md",
+    "AI Infrasture/2026-01-19 PJM 電力市場重構：法律限制、長期合約機制與數據中心參與者出資之綜合研究報告.md",
+    "Investment/2026-01-22 日本電產株式會社財報電話會議：逆境中創歷史新高 (伴隨著危機).md",
     "Investment.md",
-    "Commodity & Energy/2026-01-16 三菱將斥資52億美元收購德州和路易斯安那州的頁岩氣資產.md",
-    "Politics & Economics/2026-01-14  川普想讓經濟快速成長。他很有可能成功。.md",
-    "Robotics EV & Automation/2026-01-15 電動車市場慘淡收場後，福特與中國比亞迪就混合動力車電池展開談判.md",
+    "AI Business/2026-02-21 CEO們說人工智慧提高了工作效率，但員工們卻有不同的看法。.md",
+    "AI Business/2026-01-21 英偉達CEO表示，儘管有泡沫擔憂，但人工智慧領域仍需更多投資。.md",
+    "AI Business/Attach/Pasted image 20260121221235.png",
+    "AI Business/Attach/Pasted image 20260121221119.png",
+    "AI Business/2026-01-20 一場混亂的人間悲劇重創了人工智慧領域最熱門的新創公司之一.md",
+    "Investment/2026-01-21 為什麼伊隆馬斯克急於讓SpaceX上市.md",
+    "Robotics EV & Automation/未命名.md",
+    "Real Estate/2026-01-20 為了讓住房再次變得負擔得起，總有人要蒙受損失.md",
+    "Politics & Economics/2025-11-25 2025年12月1日美國聯準會將正式結束量化緊縮（QT）(2025-11-25).md",
+    "Real Estate/2026-01-14 12月房屋銷售量成長5.1%，創近兩年來最大增幅.md",
+    "Attach/Pasted.md",
+    "Attach",
+    "Robotics EV & Automation/2025-12-16 歐盟擬爲車企在2030年氣候目標上留出緩衝期.md",
+    "Real Estate/Attach/Pasted image 20260121215307.png",
+    "Crypto/2026-01-21 比特幣常被稱為「數位黃金」，但是非避險資產.md",
+    "Investment/Attach/Pasted image 20260120104555.png",
+    "Politics & Economics/Attach/Pasted image 20260120101337.png",
+    "Politics & Economics/Attach/Pasted image 20260120101226.png",
+    "Politics & Economics/Attach/Pasted image 20260120101146.png",
+    "Politics & Economics/Attach/Pasted image 20260120101114.png",
     "Robotics EV & Automation/Attach/desktop.ini",
-    "Robotics EV & Automation/Attach/Pasted image 20260116222159.png",
     "Robotics EV & Automation/Attach",
-    "Commodity & Energy/2026-01-15 亞馬遜購入美國十多年來的首個新增銅礦項目.md",
-    "Commodity & Energy/Attach/Pasted image 20260116221455.png",
-    "Commodity & Energy/2026-01-14 總統公告 (Proclamation)調整加工關鍵礦產及其衍生產品的進口.md",
-    "Bio Life Science & Healthcare/2025-11-01 4 Channel LED qPCR 儀器開發戰略研究報告 - 市場格局、技術壁壘與規格定義.md",
-    "Bio Life Science & Healthcare/2025-11-01 定量聚合酶連鎖反應 (qPCR) 儀器關鍵零組件供應鏈深度戰略分析報告.md",
-    "Commodity & Energy/2026-01-10 銅是礦業大交易中的重頭戲.md",
-    "Commodity & Energy/Attach/Pasted image 20260116220742.png",
-    "Commodity & Energy/Attach/Pasted image 20260116220703.png",
-    "AI Business/2026-01-16 隨著科技巨頭更涉足能源領域，它們的風險也隨之增加.md",
-    "AI Business/Attach/Pasted image 20260116220214.png",
-    "AI Business/Attach/Pasted image 20260116220139.png",
-    "Investment/2026-01-15 高盛利潤因交易和貸款業務激增而上漲.md",
-    "AI Infrasture/2026-01-16 (v2) 固態氧化物燃料電池 (SOFC) 雙雄戰略縱深報告：Bloom Energy 供應鏈韌性重構與 Ceres Power 授權模式之比較分析.md",
-    "Politics & Economics/2026-01-26 澳洲升息的可能性可能比市場預期更大之預期澳洲儲備銀行升息25個基點的可能性為30%.md",
-    "Politics & Economics/2026-01-16 日本央行未對聯準會主席鮑威爾表示支持。.md",
-    "Politics & Economics/2026-01-15 英國經濟成長超乎預期.md",
-    "AI Infrasture/2026-01-16 真空硬焊技術在高功率模組應用之深度比較分析報告：通用鋁合金製程與高力熱處理高溫冶金技術之差異.md",
-    "AI Infrasture/2026-01-16 (v1) 2026年固態氧化物燃料電池 (SOFC) 產業深度戰略報告：Bloom Energy 與 Ceres Power 之技術架構、供應鏈生態與商業前景評估.md",
-    "Semiconductor/2026-01-16 這位業界資深人士對美光科技的股票投出了800萬美元的信任票.md",
-    "AI Infrasture/2026-01-13 由NTT Data主導的集團將斥資10億美元興建連接日本和新加坡的海底光纜.md",
-    "Robotics EV & Automation/2026-01-14 Komatsu 財務長：受美國關稅衝擊加倍，公司將繼續漲價.md",
-    "Crypto/2026-01-16 日本Resona和JCB將把穩定幣支付引入日常購物領域.md",
-    "AI Infrasture/2026-01-16 日本重啟大規模核電是經濟上的必然選擇.md",
-    "AI Infrasture/2026-01-15 川普將力推一項計劃，讓科技公司為新建發電廠提供資金.md",
     "desktop.ini",
-    "Politics & Economics/Attach/Pasted image 20260115105313.png",
-    "Real Estate/Attach/Pasted image 20260115104906.png",
-    "Real Estate/Attach/Pasted image 20260115104846.png",
-    "Real Estate/Attach/Pasted image 20260115104745.png",
     "Real Estate/Attach",
     "Real Estate",
     "AI Software&  Service",
     "AI Infrasture/Attach/AI Training Load Fluctuations at Gigawatt-scale - Risk of Power Grid Blackout  2025-06-26 Semianalysis.pdf",
-    "AI Infrasture/Attach/AI_Power_Crisis_2026.pdf",
-    "AI Infrasture/Attach",
-    "AI Infrasture"
+    "AI Infrasture/Attach/AI_Power_Crisis_2026.pdf"
   ]
 }

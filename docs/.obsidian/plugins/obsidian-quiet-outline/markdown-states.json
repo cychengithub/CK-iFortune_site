@@ -924,11 +924,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -3243,11 +3243,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3435,7 +3435,7 @@
     "expandedKeys": []
   },
   "Investment/2026-01-15 預測市場正在扭曲人們對未來的預期。.md": {
-    "scroll": 38.73965549468994,
+    "scroll": 38.159287452697754,
     "cursor": {
       "from": {
         "line": 40,
@@ -3477,15 +3477,15 @@
     "expandedKeys": []
   },
   "Real Estate/2026-01-14 12月房屋銷售量成長5.1%，創近兩年來最大增幅.md": {
-    "scroll": 23.89558321427731,
+    "scroll": 11.16435174147288,
     "cursor": {
       "from": {
-        "line": 65,
-        "ch": 15
+        "line": 23,
+        "ch": 43
       },
       "to": {
-        "line": 65,
-        "ch": 15
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4317,7 +4317,7 @@
     "expandedKeys": []
   },
   "Investment/2026-01-15 為什麼投資組合經理人都在私下議論2026年的通膨擔憂？.md": {
-    "scroll": 0.13747086754008503,
+    "scroll": 0.1375513337241747,
     "cursor": {
       "from": {
         "line": 81,
@@ -4326,6 +4326,706 @@
       "to": {
         "line": 81,
         "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-19 PJM 容量市場結構性轉型報告：拍賣結果分析、聯邦政策干預及其對發電資產與供應鏈的深遠影響.md": {
+    "scroll": 239.13891951371568,
+    "cursor": {
+      "from": {
+        "line": 178,
+        "ch": 12
+      },
+      "to": {
+        "line": 178,
+        "ch": 87
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-18.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 59
+      },
+      "to": {
+        "line": 5,
+        "ch": 59
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-18 克里斯·霍恩的TCI去年獲利189億美元，打破了對沖基金的紀錄。.md": {
+    "scroll": 0.688835721764063,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 100
+      },
+      "to": {
+        "line": 46,
+        "ch": 100
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-19 PJM 電力市場重構：法律限制、長期合約機制與數據中心參與者出資之綜合研究報告.md": {
+    "scroll": 464.7437245307722,
+    "cursor": {
+      "from": {
+        "line": 481,
+        "ch": 0
+      },
+      "to": {
+        "line": 481,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-16 格陵蘭島對美國國防的重要性－7張地圖帶你了解.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 309
+      },
+      "to": {
+        "line": 18,
+        "ch": 309
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-19 即使是頂尖商學院的MBA畢業生也很難找到工作.md": {
+    "scroll": 71.77425858134374,
+    "cursor": {
+      "from": {
+        "line": 82,
+        "ch": 74
+      },
+      "to": {
+        "line": 82,
+        "ch": 74
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2026-01-17 讓它生長：松下植物配方可促進二氧化碳吸收.md": {
+    "scroll": 3.9833637748204387,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 99
+      },
+      "to": {
+        "line": 21,
+        "ch": 99
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-18  曾經引領市場的“七巨頭”，如今卻各自朝著不同的方向發展。.md": {
+    "scroll": 26.583040149899347,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 43
+      },
+      "to": {
+        "line": 26,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-19.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-19 紐約證券交易所將推出全天候區塊鏈證券交易平台.md": {
+    "scroll": 98.00826718913298,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/2026-01-17 Claude 正在席捲人工智慧界，連非技術愛好者也為之驚嘆.md": {
+    "scroll": 7.973776958887975,
+    "cursor": {
+      "from": {
+        "line": 61,
+        "ch": 96
+      },
+      "to": {
+        "line": 61,
+        "ch": 96
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/2026-01-18 我積壓了超過16000封未讀郵件。 Gmail的新AI想幫幫我.md": {
+    "scroll": 10.306151083034589,
+    "cursor": {
+      "from": {
+        "line": 90,
+        "ch": 0
+      },
+      "to": {
+        "line": 90,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-20  Quanta Services (PWR) 和 Powell Industries (POWL).md": {
+    "scroll": 75.34430375465456,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026.md": {
+    "scroll": 3.984473835537665,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-21 隨著日本投資者減少超長期限日本國債的持有，外國投資者開始介入.md": {
+    "scroll": 135.58009236148806,
+    "cursor": {
+      "from": {
+        "line": 147,
+        "ch": 99
+      },
+      "to": {
+        "line": 147,
+        "ch": 99
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-21 為什麼需要LINK.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 6
+      },
+      "to": {
+        "line": 6,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-21.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 74
+      },
+      "to": {
+        "line": 2,
+        "ch": 74
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-21 華爾街區塊鏈基建基金.md": {
+    "scroll": 928.1668734491315,
+    "cursor": {
+      "from": {
+        "line": 978,
+        "ch": 114
+      },
+      "to": {
+        "line": 978,
+        "ch": 114
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-21 比特幣常被稱為「數位黃金」.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-21 比特幣常被稱為「數位黃金」，但是非避險資產.md": {
+    "scroll": 48.64555210558543,
+    "cursor": {
+      "from": {
+        "line": 67,
+        "ch": 10
+      },
+      "to": {
+        "line": 67,
+        "ch": 10
+      }
+    },
+    "expandedKeys": []
+  },
+  "Real Estate/2026-01-2ㄤ.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "Real Estate/2026-01-2為了讓住房再次變得負擔得起，總有人要蒙受損失.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 19
+      },
+      "to": {
+        "line": 30,
+        "ch": 81
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2025-12-16 歐盟擬爲車企在2030年氣候目標上留出緩衝期.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Real Estate/2026-01-20 為了讓住房再次變得負擔得起，總有人要蒙受損失.md": {
+    "scroll": 38.544992446899414,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 49
+      },
+      "to": {
+        "line": 46,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-21 為什麼伊隆馬斯克急於讓SpaceX上市.md": {
+    "scroll": 10.60859710597989,
+    "cursor": {
+      "from": {
+        "line": 47,
+        "ch": 56
+      },
+      "to": {
+        "line": 47,
+        "ch": 56
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-20.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-20 一場混亂的人間悲劇重創了人工智慧領域最熱門的新創公司之一.md": {
+    "scroll": 54.537977317969,
+    "cursor": {
+      "from": {
+        "line": 68,
+        "ch": 0
+      },
+      "to": {
+        "line": 68,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-02-21.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-02-21 CEO們說人工智慧提高了工作效率，但員工們卻有不同的看法。.md": {
+    "scroll": 42.33535861968994,
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 54
+      },
+      "to": {
+        "line": 51,
+        "ch": 54
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-21.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-21 英偉達CEO表示，儘管有泡沫擔憂，但人工智慧領域仍需更多投資。.md": {
+    "scroll": 32.82118010520935,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 69
+      },
+      "to": {
+        "line": 41,
+        "ch": 69
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-22 日本電產株式會社財報電話會議：逆境中創歷史新高.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 98
+      },
+      "to": {
+        "line": 0,
+        "ch": 98
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-22 日本電產株式會社財報電話會議：逆境中創歷史新高 (伴隨著危機).md": {
+    "scroll": 8.385416348775228,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 98
+      },
+      "to": {
+        "line": 0,
+        "ch": 98
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-23.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-23 2026年全球記憶體市場結構性變革與消費性電子產業鏈衝擊深度評估報告.md": {
+    "scroll": 74.22433629139857,
+    "cursor": {
+      "from": {
+        "line": 238,
+        "ch": 4
+      },
+      "to": {
+        "line": 238,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Robotics EV & Automation/2026-01-23 馬斯克計劃明年向公眾發售人形機器人.md": {
+    "scroll": 3.1197916666666665,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 11
+      },
+      "to": {
+        "line": 23,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2026-01-23 結直腸癌已成美國50歲以下人群頭號「癌症殺手」.md": {
+    "scroll": 17.744791666666668,
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 0
+      },
+      "to": {
+        "line": 45,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-23 中國TCL將索尼的交易視為擊敗全球電視巨頭三星的途徑。.md": {
+    "scroll": 23.145182291666668,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 119
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-23 日本高市表示，不會發行赤字債券來削減消費稅.md": {
+    "scroll": 33.466796875,
+    "cursor": {
+      "from": {
+        "line": 55,
+        "ch": 0
+      },
+      "to": {
+        "line": 57,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/日本央行總裁植田表示願意對飆漲的殖利率採取行動.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-23 日本央行總裁植田表示願意對飆漲的殖利率採取行動.md": {
+    "scroll": 8.29296875,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 35
+      },
+      "to": {
+        "line": 15,
+        "ch": 35
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-23 日本央行總裁植田和男表示願意對飆漲的殖利率採取行動.md": {
+    "scroll": 3.804632347108749,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 78
+      },
+      "to": {
+        "line": 23,
+        "ch": 78
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-23 越南共產黨選舉蘇林總書記連任5年.md": {
+    "scroll": 12.151692708333334,
+    "cursor": {
+      "from": {
+        "line": 43,
+        "ch": 134
+      },
+      "to": {
+        "line": 43,
+        "ch": 134
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-22 到2025年，中國電池儲能裝置容量將是北美的三倍.md": {
+    "scroll": 25.155924479166668,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 68
+      },
+      "to": {
+        "line": 31,
+        "ch": 68
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-23 史上規模最大的國防IPO首日表現強勁.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-23 比特幣價格下跌。為什麼這種「數位黃金」未能跟上貴金屬的步伐？.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 72
+      },
+      "to": {
+        "line": 29,
+        "ch": 72
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-23 史上規模最大的國防IPO首日表現強勁, 總部位於布拉格的捷克斯洛伐克集團.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 0
+      },
+      "to": {
+        "line": 22,
+        "ch": 16
       }
     },
     "expandedKeys": []
