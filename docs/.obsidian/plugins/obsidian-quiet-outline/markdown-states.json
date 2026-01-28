@@ -24,11 +24,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -71,11 +71,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -117,12 +117,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 2
+        "line": 1,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 2
+        "line": 1,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -3243,11 +3243,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -3519,7 +3519,7 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-14 川普希望資料中心付費使用電力。這樣會降低電價嗎？.md": {
-    "scroll": 15.26388888888889,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 137,
@@ -3757,15 +3757,15 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-15 川普將力推一項計劃，讓科技公司為新建發電廠提供資金.md": {
-    "scroll": 0,
+    "scroll": 114.08854913711548,
     "cursor": {
       "from": {
-        "line": 60,
-        "ch": 53
+        "line": 38,
+        "ch": 81
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 38,
+        "ch": 81
       }
     },
     "expandedKeys": []
@@ -3788,12 +3788,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 2
+        "line": 1,
+        "ch": 0
       },
       "to": {
-        "line": 0,
-        "ch": 2
+        "line": 1,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3897,7 +3897,7 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-16 日本重啟大規模核電是經濟上的必然選擇.md": {
-    "scroll": 41.271875,
+    "scroll": 40.47048314412435,
     "cursor": {
       "from": {
         "line": 50,
@@ -4051,7 +4051,7 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-16 真空硬焊技術在高功率模組應用之深度比較分析報告：通用鋁合金製程與高力熱處理高溫冶金技術之差異.md": {
-    "scroll": 131.7133469581604,
+    "scroll": 132.49798075358072,
     "cursor": {
       "from": {
         "line": 135,
@@ -4345,15 +4345,15 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-19 PJM 容量市場結構性轉型報告：拍賣結果分析、聯邦政策干預及其對發電資產與供應鏈的深遠影響.md": {
-    "scroll": 239.13891951371568,
+    "scroll": 188.1732656711639,
     "cursor": {
       "from": {
-        "line": 178,
-        "ch": 12
+        "line": 82,
+        "ch": 26
       },
       "to": {
-        "line": 178,
-        "ch": 87
+        "line": 82,
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -4387,7 +4387,7 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-19 PJM 電力市場重構：法律限制、長期合約機制與數據中心參與者出資之綜合研究報告.md": {
-    "scroll": 464.7437245307722,
+    "scroll": 464.3603913589487,
     "cursor": {
       "from": {
         "line": 481,
@@ -4793,7 +4793,7 @@
     "expandedKeys": []
   },
   "AI Business/2026-01-21 英偉達CEO表示，儘管有泡沫擔憂，但人工智慧領域仍需更多投資。.md": {
-    "scroll": 32.82118010520935,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 41,
@@ -5073,7 +5073,7 @@
     "expandedKeys": []
   },
   "Investment/2026-01-22 TikTok完成協議，將繼續在美國運營.md": {
-    "scroll": 0,
+    "scroll": 9.57725321888412,
     "cursor": {
       "from": {
         "line": 27,
@@ -5081,7 +5081,497 @@
       },
       "to": {
         "line": 27,
-        "ch": 140
+        "ch": 139
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-14 土方之亂有解？國土署最新祭出4措施！擴增最終去處台北港入列，業界喊土方清運新制能否落地「3關鍵」.md": {
+    "scroll": 76.40996303060129,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-2.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-24.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-24 2026年記憶體價格超級週期與終端市場崩潰點評估報告：供應鏈結構性失衡下的利潤與銷售衝擊深度分析.md": {
+    "scroll": 185.88657395044962,
+    "cursor": {
+      "from": {
+        "line": 303,
+        "ch": 2
+      },
+      "to": {
+        "line": 303,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-22 公用事業股需警覺。政治因素正開始侵蝕利潤.md": {
+    "scroll": 508.49110707353867,
+    "cursor": {
+      "from": {
+        "line": 455,
+        "ch": 16
+      },
+      "to": {
+        "line": 455,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-24.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 17
+      },
+      "to": {
+        "line": 4,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-24 追蹤這場涉及「AI 巨頭、電力公司、監管機構 (FERC) 與政治角力」的複雜賽局.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-24 追蹤「AI 巨頭、電力公司、監管機構 (FERC) 與政治角力」的複雜賽局.md": {
+    "scroll": 382.36450183478036,
+    "cursor": {
+      "from": {
+        "line": 321,
+        "ch": 0
+      },
+      "to": {
+        "line": 321,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-2ㄤTalen執行長：PJM備用電源拍賣可以填補巨大的電力供應缺口.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 242
+      },
+      "to": {
+        "line": 17,
+        "ch": 270
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-20 Talen執行長：PJM備用電源拍賣可以填補巨大的電力供應缺口.md": {
+    "scroll": 94.58709592657704,
+    "cursor": {
+      "from": {
+        "line": 95,
+        "ch": 89
+      },
+      "to": {
+        "line": 95,
+        "ch": 89
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-22 公用事業股需警覺。政治因素正開始侵蝕利潤.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-26 麥可伯里表示，日圓走強對美國股市構成風險。.md": {
+    "scroll": 149.8734804561537,
+    "cursor": {
+      "from": {
+        "line": 158,
+        "ch": 4
+      },
+      "to": {
+        "line": 158,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2025-12-05 日本考慮從2026財年開始提高離境稅.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-26 對這些美國人來說，醫療保險現在比房貸還貴.md": {
+    "scroll": 208.45574458440146,
+    "cursor": {
+      "from": {
+        "line": 246,
+        "ch": 4
+      },
+      "to": {
+        "line": 246,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2025-03 -31 一種用於恢復自然交流的腦到聲傳輸式神經假體 A streaming brain-to-voice neuroprosthesis to restore naturalistic communication.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 49
+      },
+      "to": {
+        "line": 4,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bio Life Science & Healthcare/2025-03 -31 一種用於恢復自然交流的腦到聲傳輸式神經義肢 A streaming brain-to-voice neuroprosthesis to restore naturalistic communication.md": {
+    "scroll": 24.91400185250446,
+    "cursor": {
+      "from": {
+        "line": 46,
+        "ch": 0
+      },
+      "to": {
+        "line": 46,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 Hitachi 投資價值.md": {
+    "scroll": 300.9193755538303,
+    "cursor": {
+      "from": {
+        "line": 221,
+        "ch": 0
+      },
+      "to": {
+        "line": 221,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-27.md": {
+    "scroll": 11.093846215142143,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 3
+      },
+      "to": {
+        "line": 15,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-27 美光計畫在新加坡投資240億美元興建儲存晶片製造廠.md": {
+    "scroll": 15.538290659586588,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 0
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-27 記憶體晶片短缺將在2026年對電視和消費性電子設備造成最嚴重衝擊.md": {
+    "scroll": 88.66869227091472,
+    "cursor": {
+      "from": {
+        "line": 87,
+        "ch": 20
+      },
+      "to": {
+        "line": 87,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 中國安踏將以17.8億美元收購彪馬29%的股份.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 由於中國乙烯供應過剩迫使日本乙烯生產商停產，日本乙烯生產商紛紛整合。.md": {
+    "scroll": 32.725767748264275,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-26 印度與歐盟在川普加徵關稅之際敲定具有里程碑意義的貿易協議.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-27 印度與歐盟在川普加徵關稅之際敲定具有里程碑意義的貿易協議.md": {
+    "scroll": 9.559317270914713,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 55
+      },
+      "to": {
+        "line": 30,
+        "ch": 55
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-27.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Crypto/2026-01-27 日本最快2028年批准加密貨幣ETF。.md": {
+    "scroll": 14.034722646077475,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 55
+      },
+      "to": {
+        "line": 17,
+        "ch": 55
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-27 CEO們推崇五點起床，你未必適合.md": {
+    "scroll": 62.985842217601856,
+    "cursor": {
+      "from": {
+        "line": 72,
+        "ch": 58
+      },
+      "to": {
+        "line": 72,
+        "ch": 58
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-22.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-22  滿世界飛的CEO們分享如何克服時差.md": {
+    "scroll": 64.2358210881551,
+    "cursor": {
+      "from": {
+        "line": 73,
+        "ch": 0
+      },
+      "to": {
+        "line": 73,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 信越化學的投資價值.md": {
+    "scroll": 312.03742349701736,
+    "cursor": {
+      "from": {
+        "line": 301,
+        "ch": 0
+      },
+      "to": {
+        "line": 301,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 GEV 投資價值.md": {
+    "scroll": 81.13739560945784,
+    "cursor": {
+      "from": {
+        "line": 102,
+        "ch": 0
+      },
+      "to": {
+        "line": 102,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 POWL (POWELL) 投資價值.md": {
+    "scroll": 24.46180534362793,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-27 UNH  2025 財報以及 2026 Outlook.md": {
+    "scroll": 252.13346354166666,
+    "cursor": {
+      "from": {
+        "line": 224,
+        "ch": 11
+      },
+      "to": {
+        "line": 224,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-27 电力超级周期爆发，真正的机会不在发电端？.md": {
+    "scroll": 151.57877604166666,
+    "cursor": {
+      "from": {
+        "line": 168,
+        "ch": 63
+      },
+      "to": {
+        "line": 168,
+        "ch": 63
       }
     },
     "expandedKeys": []
