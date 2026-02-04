@@ -71,11 +71,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -117,12 +117,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 35
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 0,
+        "ch": 35
       }
     },
     "expandedKeys": [
@@ -1520,12 +1520,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 54
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 6,
-        "ch": 54
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -3158,12 +3158,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 2
+        "line": 1,
+        "ch": 23
       },
       "to": {
-        "line": 0,
-        "ch": 2
+        "line": 1,
+        "ch": 23
       }
     },
     "expandedKeys": []
@@ -3239,7 +3239,7 @@
     "expandedKeys": []
   },
   "AI Infrasture/未命名.md": {
-    "scroll": 0,
+    "scroll": 0.24295204166892956,
     "cursor": {
       "from": {
         "line": 0,
@@ -3547,14 +3547,14 @@
     "expandedKeys": []
   },
   "Commodity & Energy/未命名.md": {
-    "scroll": 0,
+    "scroll": 4.278202684980949,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 10,
         "ch": 2
       },
       "to": {
-        "line": 0,
+        "line": 10,
         "ch": 2
       }
     },
@@ -3831,11 +3831,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -4499,15 +4499,15 @@
     "expandedKeys": []
   },
   "AI Software&  Service/未命名.md": {
-    "scroll": 0,
+    "scroll": 0.643259169321516,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 2
+        "line": 2,
+        "ch": 39
       },
       "to": {
-        "line": 0,
-        "ch": 2
+        "line": 2,
+        "ch": 39
       }
     },
     "expandedKeys": []
@@ -5311,14 +5311,14 @@
     "expandedKeys": []
   },
   "Investment/2026-01-27 Hitachi 投資價值.md": {
-    "scroll": 300.9193755538303,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 221,
+        "line": 794,
         "ch": 0
       },
       "to": {
-        "line": 221,
+        "line": 794,
         "ch": 0
       }
     },
@@ -5479,15 +5479,15 @@
     "expandedKeys": []
   },
   "Life & Art/2026-01-22.md": {
-    "scroll": 0,
+    "scroll": 21.250888236898025,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 25,
+        "ch": 5
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 25,
+        "ch": 5
       }
     },
     "expandedKeys": []
@@ -5521,15 +5521,15 @@
     "expandedKeys": []
   },
   "Investment/2026-01-27 GEV 投資價值.md": {
-    "scroll": 81.13739560945784,
+    "scroll": 237.46931751569113,
     "cursor": {
       "from": {
-        "line": 102,
-        "ch": 0
+        "line": 184,
+        "ch": 43
       },
       "to": {
-        "line": 102,
-        "ch": 0
+        "line": 184,
+        "ch": 43
       }
     },
     "expandedKeys": []
@@ -5549,7 +5549,7 @@
     "expandedKeys": []
   },
   "Investment/2026-01-27 UNH  2025 財報以及 2026 Outlook.md": {
-    "scroll": 252.13346354166666,
+    "scroll": 251.975529689178,
     "cursor": {
       "from": {
         "line": 224,
@@ -5563,7 +5563,7 @@
     "expandedKeys": []
   },
   "AI Infrasture/2026-01-27 电力超级周期爆发，真正的机会不在发电端？.md": {
-    "scroll": 151.57877604166666,
+    "scroll": 132.95279739907465,
     "cursor": {
       "from": {
         "line": 168,
@@ -5572,6 +5572,594 @@
       "to": {
         "line": 168,
         "ch": 63
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-2.md": {
+    "scroll": 51.877025816175674,
+    "cursor": {
+      "from": {
+        "line": 59,
+        "ch": 61
+      },
+      "to": {
+        "line": 59,
+        "ch": 61
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-2ㄑ康宁美股盘前飙升超7%！报道：Meta拟豪掷60亿美元订购光纤，发力AI数据中心.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 70,
+        "ch": 0
+      },
+      "to": {
+        "line": 70,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-0128 晶新.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-0128 晶心科的 投資價值.md": {
+    "scroll": 198.82916376120082,
+    "cursor": {
+      "from": {
+        "line": 157,
+        "ch": 0
+      },
+      "to": {
+        "line": 157,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-27 康宁美股盘前飙升超7%！报道：Meta拟豪掷60亿美元订购光纤，发力AI数据中心.md": {
+    "scroll": 99.67736562093098,
+    "cursor": {
+      "from": {
+        "line": 249,
+        "ch": 172
+      },
+      "to": {
+        "line": 249,
+        "ch": 172
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-28 Hitachi 投資價值 (updated).md": {
+    "scroll": 928.5790871636631,
+    "cursor": {
+      "from": {
+        "line": 920,
+        "ch": 27
+      },
+      "to": {
+        "line": 920,
+        "ch": 27
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-28 MSFT 投資價值.md": {
+    "scroll": 274.83351507610826,
+    "cursor": {
+      "from": {
+        "line": 283,
+        "ch": 21
+      },
+      "to": {
+        "line": 283,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-28 Meta 投資價值.md": {
+    "scroll": 265.1387792321153,
+    "cursor": {
+      "from": {
+        "line": 276,
+        "ch": 0
+      },
+      "to": {
+        "line": 276,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-28 Tesla 投資價值.md": {
+    "scroll": 279.08130776064615,
+    "cursor": {
+      "from": {
+        "line": 299,
+        "ch": 0
+      },
+      "to": {
+        "line": 299,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-30 OpenAI與英偉達價值1000億美元的巨額交易已被擱置.md": {
+    "scroll": 36.786458333333336,
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 28
+      },
+      "to": {
+        "line": 45,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-30 聯準會主席沃什是如何在川普的終極真人秀中倖存下來的.md": {
+    "scroll": 72.67689021428426,
+    "cursor": {
+      "from": {
+        "line": 58,
+        "ch": 0
+      },
+      "to": {
+        "line": 58,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-31 凱文沃許的三大任務：縮減聯準會規模、抑制通膨、管控總統.md": {
+    "scroll": 0.07406835541300426,
+    "cursor": {
+      "from": {
+        "line": 70,
+        "ch": 17
+      },
+      "to": {
+        "line": 70,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2025-12-01 垃圾燒不完、老廠效能低迷，高雄如何靠AI焚化爐扭轉危機.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-30 伊隆馬斯克的SpaceX和xAI正計劃進行火箭和人工智慧領域的超級合併.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 62
+      },
+      "to": {
+        "line": 28,
+        "ch": 62
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-30 OpenAI計劃在第四季進行IPO，試圖搶在Anthropic之前上市。.md": {
+    "scroll": 0.46663065022726846,
+    "cursor": {
+      "from": {
+        "line": 32,
+        "ch": 17
+      },
+      "to": {
+        "line": 32,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-30 Meta公司在人工智慧領域投入大量資金，而且確實取得了成效.md": {
+    "scroll": 48.26019855340322,
+    "cursor": {
+      "from": {
+        "line": 54,
+        "ch": 73
+      },
+      "to": {
+        "line": 54,
+        "ch": 73
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-30 巴拿馬高等法院駁回香港港口營運商的訴訟，川普在運河問題上取得勝利.md": {
+    "scroll": 30.686341524124146,
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 0
+      },
+      "to": {
+        "line": 27,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-30 黃金和白銀價格暴跌，創1980年以來最大單日跌幅.md": {
+    "scroll": 50.62278148863051,
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 16
+      },
+      "to": {
+        "line": 56,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-29 美元走弱一直是川普計畫的一部分.md": {
+    "scroll": 53.889325300852455,
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 0
+      },
+      "to": {
+        "line": 51,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-31.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Politics & Economics/2026-01-31 由於需求疲軟，中國製造業採購經理人指數（PMI）再次跌入萎縮區間.md": {
+    "scroll": 68.44849300384521,
+    "cursor": {
+      "from": {
+        "line": 81,
+        "ch": 44
+      },
+      "to": {
+        "line": 81,
+        "ch": 44
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01031.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-31 NeoVolta與中國PotisEdge公司合作生產電網電池.md": {
+    "scroll": 28.32928212483724,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 49
+      },
+      "to": {
+        "line": 29,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-31 日本鎧俠公司擴大與閃迪的記憶體晶片合資項目，獲得10億美元投資.md": {
+    "scroll": 3.0602498450037086,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 23
+      },
+      "to": {
+        "line": 33,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-29 三星和SK海力士警告稱，記憶體晶片短缺問題將持續到2027年。.md": {
+    "scroll": 44.056326972113716,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-23 日本將增加永久居留權語言能力要求.md": {
+    "scroll": 25.766715339100568,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 94
+      },
+      "to": {
+        "line": 31,
+        "ch": 94
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2026-01-30 開發商東京建物將投資6.5億美元在大阪建造資料中心，進軍資料中心領域。.md": {
+    "scroll": 6.501157124837239,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 60
+      },
+      "to": {
+        "line": 16,
+        "ch": 60
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-31 中國在全球前20大晶片製造設備供應商中佔據3席，排名略有上升.md": {
+    "scroll": 31.50231424967448,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 0
+      },
+      "to": {
+        "line": 33,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Semiconductor/2026-01-30 蘋果將在2026年優先推出高階iPhone，以應對記憶體短缺問題.md": {
+    "scroll": 23.389660305447048,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 58
+      },
+      "to": {
+        "line": 21,
+        "ch": 58
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Life & Art/2026-01-31 日本外籍勞工人數首度突破250萬.md": {
+    "scroll": 23.56365712483724,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 49
+      },
+      "to": {
+        "line": 17,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "Commodity & Energy/2026-01-28 揭秘日本為擺脫對中國稀土供應鏈的依賴而進行的長期鬥爭.md": {
+    "scroll": 83.09567896525066,
+    "cursor": {
+      "from": {
+        "line": 87,
+        "ch": 8
+      },
+      "to": {
+        "line": 87,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Infrasture/2025-12-31 亞洲人工智慧資料中心融資變得複雜.md": {
+    "scroll": 78.36093806318937,
+    "cursor": {
+      "from": {
+        "line": 86,
+        "ch": 61
+      },
+      "to": {
+        "line": 86,
+        "ch": 61
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-01-31 路透：中國有條件批准DeepSeek購買輝達H200晶片.md": {
+    "scroll": 27.149402565426296,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 54
+      },
+      "to": {
+        "line": 4,
+        "ch": 54
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-31.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Hardware & System/2026-01-31 卡位AI PC！黃仁勳台灣尾牙鬆口：輝達攜手聯發科打造SoC.md": {
+    "scroll": 26.06524880727132,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-02-03 2026 NVIDIA GTC.md": {
+    "scroll": 242.16252229661947,
+    "cursor": {
+      "from": {
+        "line": 324,
+        "ch": 72
+      },
+      "to": {
+        "line": 324,
+        "ch": 72
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-02-02.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-02-02 金銀投資指南：如何應對暴漲暴跌.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 56,
+        "ch": 77
+      },
+      "to": {
+        "line": 56,
+        "ch": 77
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/2026-02-04 人工智慧威脅華爾街的搖錢樹：金融和法律數據.md": {
+    "scroll": 108.98627689186448,
+    "cursor": {
+      "from": {
+        "line": 104,
+        "ch": 81
+      },
+      "to": {
+        "line": 104,
+        "ch": 81
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Software&  Service/2026-01-05.md": {
+    "scroll": 176.12201779719416,
+    "cursor": {
+      "from": {
+        "line": 187,
+        "ch": 102
+      },
+      "to": {
+        "line": 187,
+        "ch": 102
+      }
+    },
+    "expandedKeys": []
+  },
+  "AI Business/2026-02-03 伊隆馬斯克與SpaceX達成協議的超乎尋常的原因.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 135,
+        "ch": 109
+      },
+      "to": {
+        "line": 135,
+        "ch": 109
       }
     },
     "expandedKeys": []
