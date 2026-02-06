@@ -46,10 +46,10 @@ hide:
 ---
 ## [📈 投資 Investment](Investment/)
 * [未命名](Investment/未命名.md)
-* [2026-02-02 金銀投資指南：如何應對暴漲暴跌](Investment/2026-02-02 金銀投資指南：如何應對暴漲暴跌.md)
-* [2026-01-30 伊隆馬斯克的SpaceX和xAI正計劃進行火箭和人工智慧領域的超級合併](Investment/2026-01-30 伊隆馬斯克的SpaceX和xAI正計劃進行火箭和人工智慧領域的超級合併.md)
-* [2026-01-28 Tesla 投資價值](Investment/2026-01-28 Tesla 投資價值.md)
-* [2026-01-28 Meta 投資價值](Investment/2026-01-28 Meta 投資價值.md)
+* [2026-02-06 Qualcomm vs. MediaTek](Investment/2026-02-06 Qualcomm vs. MediaTek.md)
+* [2026-02-06 POWL (POWELL) 投資價值 (update)](Investment/2026-02-06 POWL (POWELL) 投資價值 (update).md)
+* [2026-02-06 GEV 投資價值 (update)](Investment/2026-02-06 GEV 投資價值 (update).md)
+* [2026-02-06 Bloom Energy 投資價值](Investment/2026-02-06 Bloom Energy 投資價值.md)
 
 ---
 ## [📟 半導體 Semiconductor](Semiconductor/)
@@ -80,7 +80,7 @@ hide:
 * [2026-01-31 日本外籍勞工人數首度突破250萬](Life & Art/2026-01-31 日本外籍勞工人數首度突破250萬.md)
 * [2026-01-27 CEO們推崇五點起床，你未必適合](Life & Art/2026-01-27 CEO們推崇五點起床，你未必適合.md)
 * [2026-01-23 日本將增加永久居留權語言能力要求](Life & Art/2026-01-23 日本將增加永久居留權語言能力要求.md)
-* [2026-01-22](Life & Art/2026-01-22.md)
+* [2026-01-22 最新的遺產及贈與稅法修法草案](Life & Art/2026-01-22 最新的遺產及贈與稅法修法草案.md)
 * [2026-01-22  滿世界飛的CEO們分享如何克服時差](Life & Art/2026-01-22  滿世界飛的CEO們分享如何克服時差.md)
 
 ---

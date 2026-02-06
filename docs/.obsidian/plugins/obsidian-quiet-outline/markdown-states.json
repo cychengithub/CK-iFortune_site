@@ -5479,15 +5479,15 @@
     "expandedKeys": []
   },
   "Life & Art/2026-01-22.md": {
-    "scroll": 21.250888236898025,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 5
+        "line": 11,
+        "ch": 29
       },
       "to": {
-        "line": 25,
-        "ch": 5
+        "line": 11,
+        "ch": 43
       }
     },
     "expandedKeys": []
@@ -5521,29 +5521,29 @@
     "expandedKeys": []
   },
   "Investment/2026-01-27 GEV 投資價值.md": {
-    "scroll": 237.46931751569113,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 184,
-        "ch": 43
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 184,
-        "ch": 43
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "Investment/2026-01-27 POWL (POWELL) 投資價值.md": {
-    "scroll": 24.46180534362793,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 317,
+        "ch": 50
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 317,
+        "ch": 49
       }
     },
     "expandedKeys": []
@@ -5647,7 +5647,7 @@
     "expandedKeys": []
   },
   "Investment/2026-01-28 Hitachi 投資價值 (updated).md": {
-    "scroll": 928.5790871636631,
+    "scroll": 908.599609375,
     "cursor": {
       "from": {
         "line": 920,
@@ -6160,6 +6160,62 @@
       "to": {
         "line": 135,
         "ch": 109
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-02-06 Bloom Energy 投資價值.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 690,
+        "ch": 0
+      },
+      "to": {
+        "line": 690,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-02-06 Qualcomm vs. MediaTek.md": {
+    "scroll": 425.2916666666667,
+    "cursor": {
+      "from": {
+        "line": 427,
+        "ch": 0
+      },
+      "to": {
+        "line": 427,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-02-06 POWL (POWELL) 投資價值 (update).md": {
+    "scroll": 318.21774193548384,
+    "cursor": {
+      "from": {
+        "line": 124,
+        "ch": 0
+      },
+      "to": {
+        "line": 124,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-02-06 GEV 投資價值 (update).md": {
+    "scroll": 374.2721354166667,
+    "cursor": {
+      "from": {
+        "line": 486,
+        "ch": 59
+      },
+      "to": {
+        "line": 486,
+        "ch": 59
       }
     },
     "expandedKeys": []
