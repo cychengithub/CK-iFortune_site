@@ -45,11 +45,11 @@ hide:
 
 ---
 ## [📈 投資 Investment](Investment/)
-* [未命名](Investment/未命名.md)
 * [2026-02-06 Qualcomm vs. MediaTek](Investment/2026-02-06 Qualcomm vs. MediaTek.md)
 * [2026-02-06 POWL (POWELL) 投資價值 (update)](Investment/2026-02-06 POWL (POWELL) 投資價值 (update).md)
 * [2026-02-06 GEV 投資價值 (update)](Investment/2026-02-06 GEV 投資價值 (update).md)
 * [2026-02-06 Bloom Energy 投資價值](Investment/2026-02-06 Bloom Energy 投資價值.md)
+* [2026-02-02 金銀投資指南：如何應對暴漲暴跌](Investment/2026-02-02 金銀投資指南：如何應對暴漲暴跌.md)
 
 ---
 ## [📟 半導體 Semiconductor](Semiconductor/)
