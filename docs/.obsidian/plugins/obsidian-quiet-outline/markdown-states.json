@@ -5619,7 +5619,7 @@
     "expandedKeys": []
   },
   "Semiconductor/2026-0128 晶心科的 投資價值.md": {
-    "scroll": 198.82916376120082,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 157,
@@ -6216,6 +6216,20 @@
       "to": {
         "line": 486,
         "ch": 59
+      }
+    },
+    "expandedKeys": []
+  },
+  "Investment/2026-01-28 晶心科的 投資價值.md": {
+    "scroll": 10.387406947890819,
+    "cursor": {
+      "from": {
+        "line": 157,
+        "ch": 0
+      },
+      "to": {
+        "line": 157,
+        "ch": 0
       }
     },
     "expandedKeys": []
