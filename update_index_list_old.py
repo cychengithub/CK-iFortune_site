@@ -1,8 +1,6 @@
 import os
-import urllib.parse # 必須引入此模組來處理 URL 編碼
 
 def final_update_index(base_dir="docs"):
-    # 資料夾清單（請確保與您的實際目錄名稱完全一致）
     categories = {
         "AI Business": "🤖 人工智慧 AI Business",
         "AI Infrasture": "🤖 人工智慧 AI Infrasture",
@@ -38,26 +36,25 @@ hide:
     for folder, title in categories.items():
         folder_path = os.path.join(base_dir, folder)
         if os.path.exists(folder_path):
+            # 抓取檔案並依標題日期倒序排列
             files = [f for f in os.listdir(folder_path) if f.endswith(".md") and f != "index.md"]
             files.sort(reverse=True) 
             
-            # 修正 1：對資料夾名稱進行 URL 編碼
-            safe_folder = urllib.parse.quote(folder)
-            content += f"## [{title}]({safe_folder}/)\n"
+            # 修正：直接使用原始資料夾名稱，MkDocs 能更好地解析
+            content += f"## [{title}]({folder}/)\n"
             
             if files:
-                for f in files[:5]: # 顯示最新 5 篇
+                for f in files[:5]:
                     name = f.replace(".md", "")
-                    # 修正 2：對檔案名稱進行 URL 編碼，解決 404 問題
-                    safe_file = urllib.parse.quote(f)
-                    content += f"* [{name}]({safe_folder}/{safe_file})\n"
+                    # 直接使用原始檔名，解決 404 問題
+                    content += f"* [{name}]({folder}/{f})\n"
             else:
                 content += "* (目前此分類尚無文章)\n"
             content += "\n---\n"
 
     with open(os.path.join(base_dir, "index.md"), "w", encoding="utf-8") as f:
         f.write(content)
-    print("✅ 首頁 index.md 已更新（路徑已自動轉碼，解決 404 問題）！")
+    print("✅ 首頁 index.md 已更新（路徑已優化）！")
 
 if __name__ == "__main__":
     final_update_index()
