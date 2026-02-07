@@ -45,7 +45,7 @@ hide:
 
 ---
 ## [📈 投資 Investment](Investment/)
-* [2026-02-06 Qualcomm vs. MediaTek](Investment/2026-02-06 Qualcomm vs. MediaTek.md)
+* [2026-02-06 Qualcomm vs MediaTek](Investment/2026-02-06 Qualcomm vs MediaTek.md)
 * [2026-02-06 POWL (POWELL) 投資價值 (update)](Investment/2026-02-06 POWL (POWELL) 投資價值 (update).md)
 * [2026-02-06 GEV 投資價值 (update)](Investment/2026-02-06 GEV 投資價值 (update).md)
 * [2026-02-06 Bloom Energy 投資價值](Investment/2026-02-06 Bloom Energy 投資價值.md)
